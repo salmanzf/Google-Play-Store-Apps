@@ -1,0 +1,1164 @@
+﻿RowNumber	App	Category	Rating	Reviews	Size	Installs	Type	Price	Content Rating	Genres	Last Updated	Current Ver	Android Ver	row_num
+1408	10 Best Foods for You	HEALTH_AND_FITNESS	4.00	2490.00	3.80	500000.00	Free	0.00	Everyone 10+	Health & Fitness	2017-02-17	1.9	2.3.3 and up	2
+2323	1800 Contacts - Lens Store	MEDICAL	4.70	23160.00	26.00	1000000.00	Free	0.00	Everyone	Medical	2018-07-27	7.4.1	5.0 and up	2
+2257	2017 EMRA Antibiotic Guide	MEDICAL	4.40	12.00	3.80	1000.00	Paid	16.99	Everyone	Medical	2017-01-27	1.0.5	4.0.3 and up	2
+1338	21-Day Meditation Experience	HEALTH_AND_FITNESS	4.40	11506.00	15.00	100000.00	Free	0.00	Everyone	Health & Fitness	2018-08-02	3.0.0	4.1 and up	2
+3084	365Scores - Live Scores	SPORTS	4.60	666521.00	25.00	10000000.00	Free	0.00	Everyone	Sports	2018-07-29	5.5.9	4.1 and up	2
+2523	420 BZ Budeze Delivery	MEDICAL	5.00	2.00	11.00	100.00	Free	0.00	Mature 17+	Medical	2018-06-06	1.0.1	4.1 and up	2
+1704	8 Ball Pool	GAME	4.50	14198602.00	52.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-31	4.0.0	4.0.3 and up	2
+1971	8 Ball Pool	GAME	4.50	14201604.00	52.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-31	4.0.0	4.0.3 and up	3
+1756	8 Ball Pool	GAME	4.50	14200344.00	52.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-31	4.0.0	4.0.3 and up	4
+1845	8 Ball Pool	GAME	4.50	14200550.00	52.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-31	4.0.0	4.0.3 and up	5
+1872	8 Ball Pool	GAME	4.50	14201891.00	52.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-31	4.0.0	4.0.3 and up	6
+3954	8 Ball Pool	SPORTS	4.50	14184910.00	52.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-31	4.0.0	4.0.3 and up	7
+1297	8fit Workouts & Meal Planner	HEALTH_AND_FITNESS	4.60	115721.00	67.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-11	3.5.0	5.0 and up	2
+560	95Live -SG#1 Live Streaming App	DATING	4.10	4953.00	15.00	1000000.00	Free	0.00	Teen	Dating	2018-08-01	8.7.2	4.2 and up	2
+2403	A Manual of Acupuncture	MEDICAL	3.50	214.00	68.00	1000.00	Paid	33.99	Everyone	Medical	2017-10-02	2.1.35	4.0 and up	2
+921	A&E - Watch Full Episodes of TV Shows	ENTERTAINMENT	4.00	29706.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	2
+947	A&E - Watch Full Episodes of TV Shows	ENTERTAINMENT	4.00	29706.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	3
+4992	A&E - Watch Full Episodes of TV Shows	FAMILY	4.00	29708.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	4
+2516	AAFP	MEDICAL	3.80	63.00	24.00	10000.00	Free	0.00	Everyone	Medical	2018-06-22	2.3.1	5.0 and up	2
+3788	ABC News - US & World News	NEWS_AND_MAGAZINES	4.00	18976.00	35.00	1000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-06-06	3.19.11	5.0 and up	2
+3800	AC - Tips & News for Androidâ„¢	NEWS_AND_MAGAZINES	4.20	23292.00	14.00	1000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-05-24	3.1.12	4.1 and up	2
+281	Accounting App - Zoho Books	BUSINESS	4.50	3079.00	8.50	100000.00	Free	0.00	Everyone	Business	2018-08-02	5.20.7	4.1 and up	2
+5513	AccuWeather: Daily Forecast & Live Weather Reports	WEATHER	4.40	2052407.00	110.00	50000000.00	Free	0.00	Everyone	Weather	2018-08-02	Varies with device	Varies with device	2
+1096	Acorns - Invest Spare Change	FINANCE	4.30	45957.00	110.00	1000000.00	Free	0.00	Everyone	Finance	2018-07-31	Varies with device	Varies with device	2
+2489	Ada - Your Health Guide	MEDICAL	4.70	87418.00	14.00	1000000.00	Free	0.00	Everyone	Medical	2018-07-16	2.25.0	4.4 and up	2
+3453	Adobe Acrobat Reader	PRODUCTIVITY	4.30	3016297.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-04-17	Varies with device	Varies with device	2
+3896	Adobe Acrobat Reader	PRODUCTIVITY	4.30	3014548.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-04-17	Varies with device	Varies with device	3
+2815	Adobe Photoshop Express:Photo Editor Collage Maker	PHOTOGRAPHY	4.20	914804.00	110.00	50000000.00	Free	0.00	Everyone	Photography	2018-07-22	5.0.508	4.4 and up	2
+589	Adult Dirty Emojis	DATING	2.80	80.00	5.50	10000.00	Free	0.00	Teen	Dating	2017-11-06	1.0	4.0.3 and up	2
+682	Adult Dirty Emojis	DATING	2.80	80.00	5.50	10000.00	Free	0.00	Teen	Dating	2017-11-06	1.0	4.0.3 and up	3
+2420	Advanced Comprehension Therapy	MEDICAL		3.00	62.00	100.00	Paid	24.99	Everyone	Medical	2017-10-05	1.2	4.0.3 and up	2
+251	AdWords Express	BUSINESS	4.10	7149.00	11.00	1000000.00	Free	0.00	Everyone	Business	2018-07-31	2.6.158	4.0 and up	2
+3881	Agar.io	GAME	4.20	3815614.00	32.00	100000000.00	Free	0.00	Everyone	Action	2018-07-23	2.2.8	4.0.3 and up	2
+3446	ai.type Free Emoji Keyboard	PERSONALIZATION	4.30	647844.00	110.00	10000000.00	Free	0.00	Everyone	Personalization	2018-07-24	Varies with device	Varies with device	2
+3216	Airbnb	TRAVEL_AND_LOCAL	4.40	359560.00	110.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-02	Varies with device	Varies with device	2
+10050	Airway Ex - Intubate. Anesthetize. Train.	MEDICAL	4.30	123.00	86.00	10000.00	Free	0.00	Everyone	Medical	2018-06-01	0.6.88	5.0 and up	2
+2661	AliExpress - Smarter Shopping, Better Living	SHOPPING	4.60	5916606.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-08-06	Varies with device	Varies with device	2
+2757	AliExpress - Smarter Shopping, Better Living	SHOPPING	4.60	5916569.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-08-06	Varies with device	Varies with device	3
+4100	AliExpress - Smarter Shopping, Better Living	SHOPPING	4.60	5911055.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-08-01	Varies with device	Varies with device	4
+2983	All Football - Latest News & Videos	SPORTS	4.60	152867.00	17.00	10000000.00	Free	0.00	Everyone	Sports	2018-08-03	3.0.5	4.1 and up	2
+2335	All Mental disorders	MEDICAL	4.50	453.00	11.00	100000.00	Free	0.00	Everyone	Medical	2017-07-07	1.1	4.0.3 and up	2
+2550	All Social Networks	SOCIAL	4.20	22492.00	1.50	1000000.00	Free	0.00	Everyone	Social	2018-05-21	2.4.12	4.0 and up	2
+3937	Alto's Adventure	GAME	4.60	515240.00	63.00	10000000.00	Free	0.00	Everyone	Action	2018-06-05	1.7.1	4.0 and up	2
+2655	Amazon for Tablets	SHOPPING	4.00	141613.00	22.00	10000000.00	Free	0.00	Teen	Shopping	2018-07-31	16.14.0.850	4.4 and up	2
+144	Amazon Kindle	BOOKS_AND_REFERENCE	4.20	814080.00	110.00	100000000.00	Free	0.00	Teen	Books & Reference	2018-07-27	Varies with device	Varies with device	2
+2764	Amazon Shopping	SHOPPING	4.30	909204.00	42.00	100000000.00	Free	0.00	Teen	Shopping	2018-07-31	16.14.0.100	4.4 and up	2
+3923	Amazon Shopping	SHOPPING	4.30	908525.00	42.00	100000000.00	Free	0.00	Teen	Shopping	2018-07-31	16.14.0.100	4.4 and up	3
+3159	American Airlines	TRAVEL_AND_LOCAL	3.70	16980.00	110.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-18	Varies with device	Varies with device	2
+5953	American Airlines	TRAVEL_AND_LOCAL	3.70	16973.00	110.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-18	Varies with device	Varies with device	3
+2572	Amino: Communities and Chats	SOCIAL	4.80	1259075.00	62.00	10000000.00	Free	0.00	Teen	Social	2018-07-20	1.8.19179	4.0.3 and up	2
+2401	AnatomyMapp	MEDICAL	4.10	80.00	48.00	5000.00	Paid	14.99	Everyone	Medical	2013-11-05	1.0	3.0 and up	2
+397	Android Messages	COMMUNICATION	4.20	781810.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-08-01	Varies with device	Varies with device	2
+1939	Anger of stick 5 : zombie	GAME	4.50	549039.00	23.00	50000000.00	Free	0.00	Teen	Action	2018-08-03	1.1.5	2.3 and up	2
+1844	Angry Birds 2	GAME	4.60	3883589.00	57.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-26	2.21.1	4.1 and up	2
+1906	Angry Birds Classic	GAME	4.40	5566889.00	97.00	100000000.00	Free	0.00	Everyone	Arcade	2018-05-24	7.9.3	4.1 and up	2
+1991	Angry Birds Classic	GAME	4.40	5566908.00	97.00	100000000.00	Free	0.00	Everyone	Arcade	2018-05-24	7.9.3	4.1 and up	3
+1681	Angry Birds Classic	GAME	4.40	5566669.00	97.00	100000000.00	Free	0.00	Everyone	Arcade	2018-05-24	7.9.3	4.1 and up	4
+3884	Angry Birds Classic	GAME	4.40	5565856.00	97.00	100000000.00	Free	0.00	Everyone	Arcade	2018-05-24	7.9.3	4.1 and up	5
+1727	Angry Birds Rio	GAME	4.40	2610622.00	46.00	100000000.00	Free	0.00	Everyone	Arcade	2018-07-03	2.6.9	4.1 and up	2
+1666	Angry Birds Rio	GAME	4.40	2610526.00	46.00	100000000.00	Free	0.00	Everyone	Arcade	2018-07-03	2.6.9	4.1 and up	3
+1985	Angry Birds Rio	GAME	4.40	2610680.00	46.00	100000000.00	Free	0.00	Everyone	Arcade	2018-07-03	2.6.9	4.1 and up	4
+2238	Animal Jam - Play Wild!	FAMILY	4.60	361970.00	58.00	5000000.00	Free	0.00	Everyone	Casual;Pretend Play	2018-08-02	28.0.14	4.1 and up	2
+2518	Anthem Anywhere	MEDICAL	2.70	2657.00	24.00	500000.00	Free	0.00	Everyone	Medical	2018-07-27	8.0.226	4.4 and up	2
+5959	Anthem BC Anywhere	MEDICAL	2.60	496.00	24.00	100000.00	Free	0.00	Everyone	Medical	2018-07-27	8.0.226	4.4 and up	2
+3509	Any.do: To-do list, Calendar, Reminders & Planner	PRODUCTIVITY	4.50	298843.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2018-08-05	Varies with device	Varies with device	2
+3549	Any.do: To-do list, Calendar, Reminders & Planner	PRODUCTIVITY	4.50	298854.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2018-08-05	Varies with device	Varies with device	3
+3792	AP Mobile - Breaking News	NEWS_AND_MAGAZINES	4.50	76677.00	4.60	1000000.00	Free	0.00	Everyone 10+	News & Magazines	2017-05-25	4.4.3	4.0 and up	2
+1461	Apartment List: Housing, Apt, and Property Rentals	HOUSE_AND_HOME	4.50	8481.00	7.50	1000000.00	Free	0.00	Everyone	House & Home	2018-08-03	2.1.0	5.0 and up	2
+1510	Apartments & Rentals - Zillow	HOUSE_AND_HOME	4.20	27387.00	110.00	1000000.00	Free	0.00	Everyone	House & Home	2018-06-21	Varies with device	Varies with device	2
+1480	Apartments.com Rental Search	HOUSE_AND_HOME	4.30	22584.00	16.00	1000000.00	Free	0.00	Everyone	House & Home	2018-07-16	4.7.13	4.4 and up	2
+3379	Apex Launcher	PERSONALIZATION	4.30	266401.00	110.00	10000000.00	Free	0.00	Everyone	Personalization	2018-08-04	Varies with device	Varies with device	2
+8668	Apex Launcher	PERSONALIZATION	4.30	266434.00	110.00	10000000.00	Free	0.00	Everyone	Personalization	2018-08-04	Varies with device	Varies with device	3
+5078	AppLock	TOOLS	4.40	4931562.00	110.00	100000000.00	Free	0.00	Everyone	Tools	2018-06-11	Varies with device	Varies with device	2
+249	Asana: organize team projects	BUSINESS	4.30	20815.00	10.00	1000000.00	Free	0.00	Everyone	Business	2018-07-26	6.4.4	5.0 and up	2
+2379	ASCCP Mobile	MEDICAL	4.50	63.00	25.00	10000.00	Paid	9.99	Everyone	Medical	2016-10-03	2.1.1	2.2 and up	2
+2801	ASOS	SHOPPING	4.70	181823.00	22.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-30	4.4.9	4.4 and up	2
+2203	Avokiddo Emotions	FAMILY	4.60	73.00	12.00	1000.00	Paid	2.99	Everyone	Education;Pretend Play	2018-05-21	1.7.0	4.0.3 and up	2
+2817	B612 - Beauty & Filter Camera	PHOTOGRAPHY	4.40	5282578.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-30	7.6.5	4.3 and up	2
+2860	B612 - Beauty & Filter Camera	PHOTOGRAPHY	4.40	5282558.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-30	7.6.5	4.3 and up	3
+797	Babbel â€“ Learn Languages	EDUCATION	4.30	266935.00	21.00	10000000.00	Free	0.00	Everyone	Education	2018-07-30	20.7.2	4.4 and up	2
+718	Babbel â€“ Learn Languages	EDUCATION	4.30	266948.00	21.00	10000000.00	Free	0.00	Everyone	Education	2018-07-30	20.7.2	4.4 and up	3
+8298	Babbel â€“ Learn Languages	FAMILY	4.30	267787.00	21.00	10000000.00	Free	0.00	Everyone	Education	2018-07-30	20.7.2	4.4 and up	4
+2212	Baby Panda Care	FAMILY	4.20	108795.00	49.00	10000000.00	Free	0.00	Everyone	Educational;Pretend Play	2018-06-15	8.25.10.00	4.0.3 and up	2
+6204	Backgrounds HD (Wallpapers)	PERSONALIZATION	4.60	2390099.00	110.00	100000000.00	Free	0.00	Teen	Personalization	2018-08-04	Varies with device	Varies with device	2
+2648	Badoo - Free Chat & Dating App	SOCIAL	4.30	3781770.00	110.00	100000000.00	Free	0.00	Mature 17+	Social	2018-08-02	Varies with device	Varies with device	2
+2589	Badoo - Free Chat & Dating App	SOCIAL	4.30	3781770.00	110.00	100000000.00	Free	0.00	Mature 17+	Social	2018-08-02	Varies with device	Varies with device	3
+2628	Badoo - Free Chat & Dating App	SOCIAL	4.30	3781770.00	110.00	100000000.00	Free	0.00	Mature 17+	Social	2018-08-02	Varies with device	Varies with device	4
+2360	Banfield Pet Health Tracker	MEDICAL	4.20	1747.00	5.90	100000.00	Free	0.00	Everyone	Medical	2016-10-17	1.2.2	4.0 and up	2
+1688	Barbieâ„¢ Fashion Closet	GAME	4.10	68057.00	85.00	10000000.00	Free	0.00	Everyone	Casual;Creativity	2018-07-30	1.3.7	4.1 and up	2
+3781	BBC News	NEWS_AND_MAGAZINES	4.30	296781.00	110.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-07-24	Varies with device	Varies with device	2
+3720	BBC News	NEWS_AND_MAGAZINES	4.30	296781.00	110.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-07-24	Varies with device	Varies with device	3
+2981	BBC Sport	SPORTS	4.20	18678.00	110.00	1000000.00	Free	0.00	Everyone	Sports	2018-04-25	Varies with device	Varies with device	2
+6450	BBM - Free Calls & Messages	COMMUNICATION	4.30	12843436.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-08-02	Varies with device	4.0.3 and up	2
+678	BBW Dating & Curvy Singles Chat- LargeFriends	DATING	4.40	218.00	27.00	10000.00	Free	0.00	Mature 17+	Dating	2018-07-23	5.2.9	4.1 and up	2
+489	BBW Dating & Plus Size Chat	DATING	4.40	12632.00	29.00	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-27	3.5.0.1	4.1 and up	2
+548	BBW Dating & Plus Size Chat	DATING	4.40	12632.00	29.00	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-27	3.5.0.1	4.1 and up	3
+6915	Beautiful Widgets Free	PERSONALIZATION	3.90	25035.00	14.00	1000000.00	Free	0.00	Everyone	Personalization	2016-10-20	5.7.6	2.3 and up	2
+3404	Beautiful Widgets Pro	PERSONALIZATION	4.20	97890.00	14.00	1000000.00	Paid	2.49	Everyone	Personalization	2016-08-24	5.7.8	2.3 and up	2
+2836	BeautyPlus - Easy Photo Editor & Selfie Camera	PHOTOGRAPHY	4.40	3158047.00	53.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-31	6.9.031	4.1 and up	2
+2958	BeautyPlus - Easy Photo Editor & Selfie Camera	PHOTOGRAPHY	4.40	3158151.00	53.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-31	6.9.031	4.1 and up	3
+2938	BeautyPlus - Easy Photo Editor & Selfie Camera	PHOTOGRAPHY	4.40	3158151.00	53.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-31	6.9.031	4.1 and up	4
+6055	BeautyPlus - Easy Photo Editor & Selfie Camera	PHOTOGRAPHY	4.40	3156484.00	53.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-31	6.9.031	4.1 and up	5
+1851	Best Fiends - Free Puzzle Game	GAME	4.60	1480189.00	110.00	10000000.00	Free	0.00	Everyone	Casual	2018-08-02	5.8.1	Varies with device	2
+952	BET NOW - Watch Shows	ENTERTAINMENT	4.20	14807.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-08	11.45.0	4.4 and up	2
+923	BET NOW - Watch Shows	ENTERTAINMENT	4.20	14807.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-08	11.45.0	4.4 and up	3
+6451	BeyondMenu Food Delivery	FOOD_AND_DRINK	4.70	51543.00	110.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-08-01	Varies with device	Varies with device	2
+2187	Bita and the Animals - Pelos Ares	FAMILY	4.40	1160.00	37.00	100000.00	Free	0.00	Everyone	Education;Music & Video	2013-05-22	1.0	2.2 and up	2
+668	Black People Meet Singles Date	DATING	3.90	10212.00	5.00	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-25	1.9.7	4.4 and up	2
+540	Black White Interracial Dating - Interracial Match	DATING	4.10	535.00	28.00	100000.00	Free	0.00	Mature 17+	Dating	2018-03-29	2.0.0	4.1 and up	2
+2992	Bleacher Report: sports news, scores, & highlights	SPORTS	4.40	122282.00	110.00	5000000.00	Free	0.00	Everyone 10+	Sports	2018-07-20	Varies with device	Varies with device	2
+3013	Bleacher Report: sports news, scores, & highlights	SPORTS	4.40	122282.00	110.00	5000000.00	Free	0.00	Everyone 10+	Sports	2018-07-20	Varies with device	Varies with device	3
+3051	Bleacher Report: sports news, scores, & highlights	SPORTS	4.40	122283.00	110.00	5000000.00	Free	0.00	Everyone 10+	Sports	2018-07-20	Varies with device	Varies with device	4
+3062	Bleacher Report: sports news, scores, & highlights	SPORTS	4.40	122283.00	110.00	5000000.00	Free	0.00	Everyone 10+	Sports	2018-07-20	Varies with device	Varies with device	5
+3081	Bleacher Report: sports news, scores, & highlights	SPORTS	4.40	122283.00	110.00	5000000.00	Free	0.00	Everyone 10+	Sports	2018-07-20	Varies with device	Varies with device	6
+501	Blendr - Chat, Flirt & Meet	DATING	4.00	28671.00	110.00	1000000.00	Free	0.00	Mature 17+	Dating	2018-08-01	Varies with device	Varies with device	2
+2390	Block Buddy	MEDICAL	4.00	15.00	5.00	1000.00	Paid	14.99	Everyone	Medical	2018-08-01	7.6.14	4.0 and up	2
+1779	Block Craft 3D: Building Simulator Games For Free	GAME	4.50	946926.00	57.00	50000000.00	Free	0.00	Everyone	Simulation	2018-03-05	2.10.2	4.0.3 and up	2
+1747	Block Craft 3D: Building Simulator Games For Free	GAME	4.50	946926.00	57.00	50000000.00	Free	0.00	Everyone	Simulation	2018-03-05	2.10.2	4.0.3 and up	3
+1884	Block Puzzle	GAME	4.60	59907.00	7.80	5000000.00	Free	0.00	Everyone	Puzzle	2018-03-06	2.9	2.3 and up	2
+1665	Block Puzzle	GAME	4.60	59800.00	7.80	5000000.00	Free	0.00	Everyone	Puzzle	2018-03-06	2.9	2.3 and up	3
+1720	Block Puzzle	GAME	4.60	59854.00	7.80	5000000.00	Free	0.00	Everyone	Puzzle	2018-03-06	2.9	2.3 and up	4
+2002	Block Puzzle Classic Legend !	GAME	4.20	17044.00	4.90	5000000.00	Free	0.00	Everyone	Puzzle	2018-04-13	2.9	2.3.3 and up	2
+6586	Blood Pressure	MEDICAL	4.20	33033.00	7.40	5000000.00	Free	0.00	Everyone	Medical	2018-07-24	3.27.3	4.1 and up	2
+6596	Blood Pressure Companion	MEDICAL	4.20	178.00	4.80	1000.00	Paid	0.99	Everyone	Medical	2018-07-22	4.1.5 (Steglitz)	4.1 and up	2
+2324	Blood Pressure Log - MyDiary	MEDICAL	4.70	8348.00	2.60	500000.00	Free	0.00	Everyone	Medical	2018-04-13	1.4.6	4.0 and up	2
+6595	Blood Pressure Monitor	MEDICAL	4.30	17.00	6.00	10000.00	Free	0.00	Everyone	Medical	2017-02-25	1.0.1	4.4 and up	2
+2511	Blood Pressure(BP) Diary	MEDICAL	3.70	3596.00	8.40	1000000.00	Free	0.00	Everyone	Medical	2018-07-18	4.0.9	4.0.3 and up	2
+2882	Blur Image Background	PHOTOGRAPHY	3.90	129272.00	11.00	10000000.00	Free	0.00	Everyone	Photography	2018-07-30	1.32	4.1 and up	2
+3113	Booking.com Travel Deals	TRAVEL_AND_LOCAL	4.70	1830388.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	Varies with device	Varies with device	2
+3157	Booking.com Travel Deals	TRAVEL_AND_LOCAL	4.70	1830387.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	Varies with device	Varies with device	3
+1908	Bowmasters	GAME	4.70	1535973.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-23	2.12.5	4.1 and up	2
+1923	Bowmasters	GAME	4.70	1535973.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-23	2.12.5	4.1 and up	3
+1763	Bowmasters	GAME	4.70	1535084.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-23	2.12.5	4.1 and up	4
+1721	Bowmasters	GAME	4.70	1534466.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-23	2.12.5	4.1 and up	5
+6078	Bowmasters	GAME	4.70	1535581.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-23	2.12.5	4.1 and up	6
+266	Box	BUSINESS	4.20	159872.00	110.00	10000000.00	Free	0.00	Everyone	Business	2018-07-31	Varies with device	Varies with device	2
+237	Box	BUSINESS	4.20	159872.00	110.00	10000000.00	Free	0.00	Everyone	Business	2018-07-31	Varies with device	Varies with device	3
+2528	BP Journal - Blood Pressure Diary	MEDICAL	5.00	6.00	26.00	1000.00	Free	0.00	Everyone	Medical	2018-05-25	1.0.32	4.4 and up	2
+2432	Breastfeeding Tracker Baby Log	MEDICAL		6.00	23.00	100.00	Free	0.00	Everyone	Medical	2018-07-20	1.3.5	5.0 and up	2
+751	Brilliant	EDUCATION	4.50	41185.00	110.00	1000000.00	Free	0.00	Everyone	Education	2018-08-03	Varies with device	Varies with device	2
+7629	Brit + Co	LIFESTYLE	3.90	987.00	4.50	10000.00	Free	0.00	Everyone	Lifestyle	2017-08-29	2.0.4	4.0 and up	2
+5911	British Airways	TRAVEL_AND_LOCAL	4.20	25726.00	51.00	1000000.00	Free	0.00	Everyone	Travel & Local	2018-07-24	4.20	4.4 and up	2
+1712	Bubble Shooter	GAME	4.50	148895.00	46.00	10000000.00	Free	0.00	Everyone	Casual	2018-07-17	1.20.1	4.0.3 and up	2
+1876	Bubble Shooter	GAME	4.50	148945.00	46.00	10000000.00	Free	0.00	Everyone	Casual	2018-07-17	1.20.1	4.0.3 and up	3
+1973	Bubble Shooter	GAME	4.50	148990.00	46.00	10000000.00	Free	0.00	Everyone	Casual	2018-07-17	1.20.1	4.0.3 and up	4
+1687	Bubble Shooter 2	GAME	4.30	23005.00	110.00	5000000.00	Free	0.00	Everyone	Arcade	2018-07-25	3.5	4.1 and up	2
+847	busuu: Learn Languages - Spanish, English & More	EDUCATION	4.30	206532.00	21.00	10000000.00	Free	0.00	Everyone 10+	Education	2018-08-01	13.9.0.161	5.0 and up	2
+836	busuu: Learn Languages - Spanish, English & More	EDUCATION	4.30	206532.00	21.00	10000000.00	Free	0.00	Everyone 10+	Education	2018-08-01	13.9.0.161	5.0 and up	3
+9636	busuu: Learn Languages - Spanish, English & More	FAMILY	4.30	207294.00	21.00	10000000.00	Free	0.00	Everyone 10+	Education	2018-08-01	13.9.0.161	5.0 and up	4
+3819	BuzzFeed: News, Tasty, Quizzes	NEWS_AND_MAGAZINES	4.30	131028.00	13.00	5000000.00	Free	0.00	Teen	News & Magazines	2018-07-30	5.38	4.4 and up	2
+1076	BZWBK24 mobile	FINANCE	4.50	64959.00	39.00	1000000.00	Free	0.00	Everyone	Finance	2018-06-18	5.0.1	4.1 and up	2
+3989	C Programming	FAMILY	4.30	22248.00	1.80	1000000.00	Free	0.00	Everyone	Education	2015-06-28	3.0	2.3 and up	2
+8895	Cache Cleaner-DU Speed Booster (booster & cleaner)	TOOLS	4.50	12759815.00	15.00	100000000.00	Free	0.00	Everyone	Tools	2018-07-25	3.1.2	4.0 and up	2
+8306	CallApp: Caller ID, Blocker & Phone Call Recorder	COMMUNICATION	4.40	483782.00	20.00	10000000.00	Free	0.00	Everyone	Communication	2018-07-29	1.286	4.1 and up	2
+389	Calls & Text by Mo+	COMMUNICATION	4.20	83239.00	14.00	5000000.00	Free	0.00	Everyone	Communication	2018-04-19	3.0.4	4.0 and up	2
+1439	Calm - Meditate, Sleep, Relax	HEALTH_AND_FITNESS	4.60	111455.00	110.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-08-05	Varies with device	Varies with device	2
+1403	Calorie Counter & Diet Tracker	HEALTH_AND_FITNESS	4.50	32606.00	110.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-03-22	Varies with device	Varies with device	2
+1397	Calorie Counter - Macros	HEALTH_AND_FITNESS	4.00	3061.00	5.50	100000.00	Free	0.00	Everyone	Health & Fitness	2016-08-27	2.3.4	5.0 and up	2
+1405	Calorie Counter - MyFitnessPal	HEALTH_AND_FITNESS	4.60	1873520.00	110.00	50000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	Varies with device	Varies with device	2
+1422	Calorie Counter - MyFitnessPal	HEALTH_AND_FITNESS	4.60	1873523.00	110.00	50000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	Varies with device	Varies with device	3
+1287	Calorie Counter - MyFitnessPal	HEALTH_AND_FITNESS	4.60	1873516.00	110.00	50000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	Varies with device	Varies with device	4
+1363	Calorie Counter - MyFitnessPal	HEALTH_AND_FITNESS	4.60	1873523.00	110.00	50000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	Varies with device	Varies with device	5
+1393	Calorie Counter - MyNetDiary	HEALTH_AND_FITNESS	4.50	27439.00	19.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-16	6.5.1	5.0 and up	2
+1412	Calorie Counter by FatSecret	HEALTH_AND_FITNESS	4.40	229214.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	Varies with device	Varies with device	2
+2861	Camera for Android	PHOTOGRAPHY	4.20	240475.00	9.50	10000000.00	Free	0.00	Everyone	Photography	2017-11-22	3.8	4.0 and up	2
+2900	Camera for Android	PHOTOGRAPHY	4.20	240475.00	9.50	10000000.00	Free	0.00	Everyone	Photography	2017-11-22	3.8	4.0 and up	3
+6653	Camera FV-5	PHOTOGRAPHY	3.80	16317.00	110.00	100000.00	Paid	3.95	Everyone	Photography	2017-11-10	Varies with device	Varies with device	2
+5043	Camera FV-5 Lite	PHOTOGRAPHY	4.00	130063.00	5.60	10000000.00	Free	0.00	Everyone	Photography	2017-11-10	3.31.4	4.0 and up	2
+6655	Camera MX - Free Photo & Video Camera	PHOTOGRAPHY	4.30	244302.00	110.00	10000000.00	Free	0.00	Everyone	Photography	2018-07-05	Varies with device	Varies with device	2
+8127	Camera360 Lite - Selfie Camera	PHOTOGRAPHY	4.40	221878.00	110.00	10000000.00	Free	0.00	Everyone	Photography	2018-08-01	Varies with device	4.1 and up	2
+2879	Camera360: Selfie Photo Editor with Funny Sticker	PHOTOGRAPHY	4.30	4865093.00	51.00	100000000.00	Free	0.00	Everyone	Photography	2018-08-06	9.3.1	4.0.3 and up	2
+2950	Camera360: Selfie Photo Editor with Funny Sticker	PHOTOGRAPHY	4.30	4865132.00	51.00	100000000.00	Free	0.00	Everyone	Photography	2018-08-06	9.3.1	4.0.3 and up	3
+1981	Candy Bomb	GAME	4.40	42145.00	20.00	10000000.00	Free	0.00	Everyone	Casual;Brain Games	2018-07-04	2.9.3181	4.0.3 and up	2
+2873	Candy Camera - selfie, beauty camera, photo editor	PHOTOGRAPHY	4.40	3368649.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-16	4.47	4.0.3 and up	2
+2945	Candy Camera - selfie, beauty camera, photo editor	PHOTOGRAPHY	4.40	3368705.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-16	4.47	4.0.3 and up	3
+1689	Candy Crush Jelly Saga	GAME	4.30	1300490.00	78.00	50000000.00	Free	0.00	Everyone	Puzzle	2018-07-20	2.1.10	4.0 and up	2
+1706	Candy Crush Saga	GAME	4.40	22428456.00	74.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-05	1.129.0.2	4.1 and up	2
+1656	Candy Crush Saga	GAME	4.40	22426677.00	74.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-05	1.129.0.2	4.1 and up	3
+1967	Candy Crush Saga	GAME	4.40	22430188.00	74.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-05	1.129.0.2	4.1 and up	4
+1843	Candy Crush Saga	GAME	4.40	22429716.00	74.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-05	1.129.0.2	4.1 and up	5
+1870	Candy Crush Saga	GAME	4.40	22430188.00	74.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-05	1.129.0.2	4.1 and up	6
+1752	Candy Crush Saga	GAME	4.40	22428456.00	74.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-05	1.129.0.2	4.1 and up	7
+1717	Candy Crush Soda Saga	GAME	4.40	6198880.00	67.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-10	1.118.4	4.1 and up	2
+1669	Candy Crush Soda Saga	GAME	4.40	6198563.00	67.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-10	1.118.4	4.1 and up	3
+1170	Capital OneÂ® Mobile	FINANCE	4.60	510401.00	79.00	10000000.00	Free	0.00	Everyone	Finance	2018-08-01	5.38.1	5.0 and up	2
+6680	Cardboard	LIBRARIES_AND_DEMO	4.20	130287.00	50.00	10000000.00	Free	0.00	Everyone	Libraries & Demo	2016-03-14	1.8	4.1 and up	2
+672	Cardi B Live Stream Video Chat - Prank	DATING	4.40	28.00	3.40	500.00	Free	0.00	Everyone	Dating	2018-07-16	2.5	4.0.3 and up	2
+2410	Cardiac diagnosis (heart rate, arrhythmia)	MEDICAL	4.40	8.00	6.50	100.00	Paid	12.99	Everyone	Medical	2018-07-25	7	3.0 and up	2
+2751	Carousell: Snap-Sell, Chat-Buy	SHOPPING	4.30	125783.00	110.00	10000000.00	Free	0.00	Teen	Shopping	2018-08-06	Varies with device	Varies with device	2
+3703	Cartoon Network App	VIDEO_PLAYERS	4.00	119202.00	110.00	10000000.00	Free	0.00	Everyone 10+	Video Players & Editors;Music & Video	2018-06-21	Varies with device	Varies with device	2
+1791	Castle Clash: Heroes of the Empire US	GAME	4.60	4578476.00	24.00	50000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-17	1.4.51	4.1 and up	2
+549	Casual Dating & Adult Singles - Joyride	DATING	4.50	61637.00	11.00	5000000.00	Free	0.00	Mature 17+	Dating	2018-07-31	4.17.2	4.1 and up	2
+914	CBS - Full Episodes & Live TV	ENTERTAINMENT	3.80	92058.00	12.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-20	4.8.6	4.1 and up	2
+2977	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91031.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	2
+3065	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91033.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	3
+3057	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91033.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	4
+3016	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91031.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	5
+3021	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91031.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	6
+3008	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91031.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	7
+3091	CBS Sports App - Scores, News, Stats & Watch Live	SPORTS	4.30	91033.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-08-04	Varies with device	5.0 and up	8
+3048	CBS Sports Fantasy	SPORTS	4.00	43611.00	27.00	1000000.00	Free	0.00	Everyone	Sports	2018-06-27	3.17.0+3	5.0 and up	2
+609	Chat Kids - Chat Room For Kids	DATING	4.70	6.00	4.90	100.00	Free	0.00	Mature 17+	Dating	2018-07-24	1.0	4.0.3 and up	2
+575	Chat Rooms, Avatars, Date - Galaxy	DATING	4.30	135420.00	110.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-07-07	Varies with device	Varies with device	2
+7241	Cheapflights â€“ Flight Search	TRAVEL_AND_LOCAL	4.40	47777.00	19.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	2
+2740	Checkout 51: Grocery coupons	SHOPPING	4.10	52896.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-06-18	Varies with device	Varies with device	2
+2707	Checkout 51: Grocery coupons	SHOPPING	4.10	52896.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-06-18	Varies with device	Varies with device	3
+1196	Chick-fil-A	FOOD_AND_DRINK	4.30	28008.00	17.00	5000000.00	Free	0.00	Everyone	Food & Drink	2018-08-03	6.0.1	5.0 and up	2
+1250	Chick-fil-A	FOOD_AND_DRINK	4.30	28009.00	17.00	5000000.00	Free	0.00	Everyone	Food & Drink	2018-08-03	6.0.1	5.0 and up	3
+1631	Chictopia	LIFESTYLE	4.10	360.00	4.60	10000.00	Free	0.00	Everyone	Lifestyle	2014-04-30	1.6.2	2.2 and up	2
+495	Chispa, the Dating App for Latino, Latina Singles	DATING	4.20	4195.00	24.00	100000.00	Free	0.00	Mature 17+	Dating	2018-07-25	1.6.1	4.4 and up	2
+1854	Choices: Stories You Play	GAME	4.60	807338.00	93.00	10000000.00	Free	0.00	Teen	Simulation	2018-07-30	2.3.5	4.0.3 and up	2
+577	Christian Dating For Free App	DATING	3.90	8723.00	13.00	500000.00	Free	0.00	Mature 17+	Dating	2018-06-20	15.8	4.1 and up	2
+7330	Chrome Beta	PRODUCTIVITY	4.40	228755.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2018-07-19	68.0.3440.70	Varies with device	2
+361	Chrome Dev	COMMUNICATION	4.40	63543.00	110.00	5000000.00	Free	0.00	Everyone	Communication	2018-08-02	69.0.3497.24	Varies with device	2
+2676	CJmall	SHOPPING	3.60	18252.00	10.00	10000000.00	Free	0.00	Everyone	Shopping	2018-08-06	6.3.8	4.1 and up	2
+1671	Clash of Clans	GAME	4.60	44891723.00	98.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-15	10.322.16	4.1 and up	2
+1705	Clash of Clans	GAME	4.60	44891723.00	98.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-15	10.322.16	4.1 and up	3
+1880	Clash of Clans	GAME	4.60	44893888.00	98.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-15	10.322.16	4.1 and up	4
+1879	Clash Royale	GAME	4.60	23136735.00	97.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-06-27	2.3.2	4.1 and up	2
+1722	Clash Royale	GAME	4.60	23134775.00	97.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-06-27	2.3.2	4.1 and up	3
+1661	Clash Royale	GAME	4.60	23133508.00	97.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-06-27	2.3.2	4.1 and up	4
+826	ClassDojo	EDUCATION	4.40	148550.00	59.00	10000000.00	Free	0.00	Everyone	Education;Education	2018-08-03	4.21.1	4.1 and up	2
+4090	ClassDojo	FAMILY	4.40	148536.00	59.00	10000000.00	Free	0.00	Everyone	Education;Education	2018-08-03	4.21.1	4.1 and up	3
+551	Clover Dating App	DATING	4.10	11633.00	23.00	500000.00	Free	0.00	Mature 17+	Dating	2018-07-24	2.5.1	4.1 and up	2
+4950	CM Browser - Ad Blocker , Fast Download , Privacy	COMMUNICATION	4.60	2265084.00	6.10	50000000.00	Free	0.00	Everyone	Communication	2018-07-31	5.22.18.0006	4.0 and up	2
+3514	CM FILE MANAGER HD	PRODUCTIVITY	4.30	144879.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2016-01-24	3.5.0	Varies with device	2
+3294	CM Flashlight (Compass, SOS)	TOOLS	4.40	166367.00	1.80	5000000.00	Free	0.00	Everyone	Tools	2018-05-25	1.4.0	2.3 and up	2
+7538	CM Launcher 3D - Theme, Wallpapers, Efficient	PERSONALIZATION	4.60	6700847.00	17.00	100000000.00	Free	0.00	Teen	Personalization	2018-08-03	5.41.0	4.0.3 and up	2
+3344	CM Locker - Security Lockscreen	TOOLS	4.60	3090727.00	110.00	100000000.00	Free	0.00	Everyone	Tools	2018-07-31	Varies with device	Varies with device	2
+491	CMB Free Dating App	DATING	4.00	48845.00	40.00	1000000.00	Free	0.00	Mature 17+	Dating	2018-08-01	4.19.0.2320	4.4 and up	2
+9841	CNBC: Breaking Business News & Live Market Data	FINANCE	4.20	24666.00	110.00	1000000.00	Free	0.00	Everyone	Finance	2018-07-13	Varies with device	Varies with device	2
+3793	CNN Breaking US & World News	NEWS_AND_MAGAZINES	4.00	293080.00	25.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-06	5.17	4.4 and up	2
+3812	CNN Breaking US & World News	NEWS_AND_MAGAZINES	4.00	293080.00	25.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-06	5.17	4.4 and up	3
+1772	Color by Number â€“ New Coloring Book	GAME	4.70	141529.00	24.00	5000000.00	Free	0.00	Everyone 10+	Board	2018-08-01	2.0.6	4.1 and up	2
+3916	Colorfy: Coloring Book for Adults - Free	FAMILY	4.50	787107.00	110.00	10000000.00	Free	0.00	Everyone	Entertainment	2018-06-20	Varies with device	Varies with device	2
+2034	Coloring book moana	FAMILY	3.90	974.00	14.00	500000.00	Free	0.00	Everyone	Art & Design;Pretend Play	2018-01-15	2.0.0	4.0.3 and up	2
+3536	ColorNote Notepad Notes	PRODUCTIVITY	4.60	2401017.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-06-27	Varies with device	Varies with device	2
+930	Comedy Central	ENTERTAINMENT	3.90	22378.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-08	11.45.0	4.4 and up	2
+1708	Cooking Fever	GAME	4.50	3197865.00	82.00	100000000.00	Free	0.00	Everyone	Arcade	2018-07-12	2.8.0	4.0.3 and up	2
+2219	COOKING MAMA Let's Cook!	FAMILY	4.30	528745.00	59.00	10000000.00	Free	0.00	Everyone	Educational;Pretend Play	2018-07-26	1.38.0	4.1 and up	2
+506	Cougar Dating Life : Date Older Women Sugar Mummy	DATING	3.90	1643.00	31.00	500000.00	Free	0.00	Mature 17+	Dating	2018-07-03	4.5.5	4.1 and up	2
+2627	Couple - Relationship App	SOCIAL	4.00	33249.00	8.40	1000000.00	Free	0.00	Everyone	Social	2015-03-05	1.8.0	2.3 and up	2
+787	Coursera: Online courses	EDUCATION	4.40	90481.00	110.00	5000000.00	Free	0.00	Everyone	Education	2018-07-27	Varies with device	Varies with device	2
+3990	CppDroid - C/C++ IDE	FAMILY	4.10	29978.00	110.00	1000000.00	Free	0.00	Everyone	Education	2017-08-17	Varies with device	Varies with device	2
+913	Crackle - Free TV & Movies	ENTERTAINMENT	3.70	388089.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-04-12	Varies with device	Varies with device	2
+936	Crackle - Free TV & Movies	ENTERTAINMENT	3.70	388089.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-04-12	Varies with device	Varies with device	3
+1075	Credit Karma	FINANCE	4.70	706301.00	110.00	10000000.00	Free	0.00	Everyone	Finance	2018-07-31	Varies with device	Varies with device	2
+1115	Credit Karma	FINANCE	4.70	706302.00	110.00	10000000.00	Free	0.00	Everyone	Finance	2018-07-31	Varies with device	Varies with device	3
+248	Crew - Free Messaging and Scheduling	BUSINESS	4.60	4159.00	48.00	500000.00	Free	0.00	Everyone	Business	2018-07-20	6.1.2	4.0.3 and up	2
+7107	Cricbuzz - Live Cricket Scores & News	SPORTS	4.50	838738.00	110.00	50000000.00	Free	0.00	Everyone	Sports	2018-05-18	Varies with device	Varies with device	2
+1920	Crossy Road	GAME	4.50	4230886.00	60.00	100000000.00	Free	0.00	Everyone	Action	2018-08-01	3.1.0	5.0 and up	2
+934	Crunchyroll - Everything Anime	ENTERTAINMENT	3.70	310095.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-03-05	Varies with device	Varies with device	2
+911	Crunchyroll - Everything Anime	ENTERTAINMENT	3.70	310066.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-03-05	Varies with device	Varies with device	3
+2464	CT Scan Cross Sectional Anatomy	MEDICAL	4.30	10.00	46.00	100.00	Free	0.00	Everyone	Medical	2018-07-19	5.0.16	4.1 and up	2
+198	Curriculum vitae App CV Builder Free Resume Maker	BUSINESS	4.50	4458.00	3.90	500000.00	Free	0.00	Everyone	Business	2018-07-08	3.3	4.1 and up	2
+1987	Cut the Rope FULL FREE	GAME	4.40	2123793.00	49.00	100000000.00	Free	0.00	Everyone	Puzzle	2018-07-05	3.7.2	4.1 and up	2
+1699	Cut the Rope FULL FREE	GAME	4.40	2123381.00	49.00	100000000.00	Free	0.00	Everyone	Puzzle	2018-07-05	3.7.2	4.1 and up	3
+7989	CW Seed	FAMILY	4.50	16391.00	13.00	500000.00	Free	0.00	Teen	Entertainment	2018-07-18	1.16	4.4 and up	2
+2936	Cymera Camera- Photo Editor, Filter,Collage,Layout	PHOTOGRAPHY	4.40	2418158.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-12	Varies with device	Varies with device	2
+2866	Cymera Camera- Photo Editor, Filter,Collage,Layout	PHOTOGRAPHY	4.40	2418135.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-12	Varies with device	Varies with device	3
+2905	Cymera Camera- Photo Editor, Filter,Collage,Layout	PHOTOGRAPHY	4.40	2418135.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-12	Varies with device	Varies with device	4
+313	Daily Manga - Comic & Webtoon	COMICS	3.20	1446.00	7.10	100000.00	Free	0.00	Mature 17+	Comics	2018-05-18	1.0	4.0.3 and up	2
+1347	Daily Yoga - Yoga Fitness Plans	HEALTH_AND_FITNESS	4.40	70769.00	35.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-24	6.2.73	4.0 and up	2
+1446	Daily Yoga - Yoga Fitness Plans	HEALTH_AND_FITNESS	4.40	70769.00	35.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-24	6.2.73	4.0 and up	3
+8715	Dairy Queen	FOOD_AND_DRINK	3.60	742.00	43.00	100000.00	Free	0.00	Everyone	Food & Drink	2018-07-25	2.1.0	4.1 and up	2
+2640	Dating App, Flirt & Chat : W-Match	SOCIAL	4.30	175722.00	110.00	10000000.00	Free	0.00	Mature 17+	Social	2018-07-23	Varies with device	Varies with device	2
+569	Dating for 50 plus Mature Singles â€“ FINALLY	DATING	4.60	13049.00	13.00	500000.00	Free	0.00	Mature 17+	Dating	2018-07-31	4.17.2	4.1 and up	2
+316	DC Comics	COMICS	4.20	25671.00	110.00	1000000.00	Free	0.00	Teen	Comics	2018-06-05	Varies with device	Varies with device	2
+2133	DC Super Hero Girlsâ„¢	FAMILY	4.30	43060.00	95.00	5000000.00	Free	0.00	Everyone	Action;Action & Adventure	2018-06-29	2.8.0	4.0 and up	2
+2125	DC Super Hero Girlsâ„¢	FAMILY	4.30	43060.00	95.00	5000000.00	Free	0.00	Everyone	Action;Action & Adventure	2018-06-29	2.8.0	4.0 and up	3
+1959	DC Super Hero Girlsâ„¢	GAME	4.30	43055.00	95.00	5000000.00	Free	0.00	Everyone	Action;Action & Adventure	2018-06-29	2.8.0	4.0 and up	4
+1937	DEAD TARGET: FPS Zombie Apocalypse Survival Games	GAME	4.50	1468591.00	110.00	50000000.00	Free	0.00	Mature 17+	Action	2018-07-23	Varies with device	Varies with device	2
+1935	DEER HUNTER 2018	GAME	4.30	955656.00	82.00	10000000.00	Free	0.00	Teen	Action	2018-06-26	5.1.2	3.0 and up	2
+2260	Diabetes & Diet Tracker	MEDICAL	4.60	395.00	19.00	1000.00	Paid	9.99	Everyone	Medical	2018-07-16	6.5.1	5.0 and up	2
+4375	Diabetes:M	MEDICAL	4.60	15537.00	110.00	100000.00	Free	0.00	Everyone	Medical	2018-08-01	6.1.3	Varies with device	2
+3977	Diary with lock	LIFESTYLE	4.60	815280.00	4.40	10000000.00	Free	0.00	Everyone	Lifestyle	2018-06-30	4.90	4.1 and up	2
+146	Dictionary - Merriam-Webster	BOOKS_AND_REFERENCE	4.50	454060.00	110.00	10000000.00	Free	0.00	Everyone	Books & Reference	2018-05-18	Varies with device	Varies with device	2
+1094	Digit Save Money Automatically	FINANCE	4.50	8188.00	22.00	100000.00	Free	0.00	Everyone	Finance	2018-07-31	2.29.01	4.1 and up	2
+1943	DINO HUNTER: DEADLY SHORES	GAME	4.40	1381820.00	54.00	10000000.00	Free	0.00	Teen	Action	2017-03-14	3.1.1	3.0 and up	2
+2119	Disney Magic Kingdoms: Build Your Own Magical Park	FAMILY	4.30	472584.00	91.00	10000000.00	Free	0.00	Everyone	Simulation;Action & Adventure	2018-08-02	3.2.0h	4.0.3 and up	2
+2064	DisneyNOW â€“ TV Shows & Games	FAMILY	4.30	82471.00	110.00	5000000.00	Free	0.00	Everyone	Entertainment;Music & Video	2018-07-05	Varies with device	4.4 and up	2
+2221	DisneyNOW â€“ TV Shows & Games	FAMILY	4.30	82471.00	110.00	5000000.00	Free	0.00	Everyone	Entertainment;Music & Video	2018-07-05	Varies with device	4.4 and up	3
+3491	Do It Later: Tasks & To-Dos	PRODUCTIVITY	4.50	123412.00	110.00	50000000.00	Free	0.00	Everyone	Productivity	2018-04-13	Varies with device	Varies with device	2
+293	Docs To Goâ„¢ Free Office Suite	BUSINESS	4.10	217730.00	110.00	50000000.00	Free	0.00	Everyone	Business	2018-04-02	Varies with device	Varies with device	2
+2030	Dog Run - Pet Dog Simulator	FAMILY	4.70	48615.00	24.00	10000000.00	Free	0.00	Everyone	Simulation;Action & Adventure	2018-05-22	1.4.12	4.1 and up	2
+2014	Dog Run - Pet Dog Simulator	GAME	4.70	48615.00	24.00	10000000.00	Free	0.00	Everyone	Simulation;Action & Adventure	2018-05-22	1.4.12	4.1 and up	3
+1200	Domino's Pizza USA	FOOD_AND_DRINK	4.70	1032935.00	110.00	10000000.00	Free	0.00	Everyone	Food & Drink	2018-07-20	Varies with device	Varies with device	2
+2193	Dr. Panda & Toto's Treehouse	FAMILY	4.40	3396.00	9.50	50000.00	Paid	3.99	Everyone	Casual;Pretend Play	2014-12-09	1.8	4.0 and up	2
+2206	Dr. Panda & Toto's Treehouse	FAMILY	4.40	3396.00	9.50	50000.00	Paid	3.99	Everyone	Casual;Pretend Play	2014-12-09	1.8	4.0 and up	3
+1936	DRAGON BALL LEGENDS	GAME	4.60	337913.00	48.00	5000000.00	Free	0.00	Teen	Action	2018-08-03	1.11.0	6.0 and up	2
+1807	DRAGON BALL LEGENDS	GAME	4.60	337752.00	48.00	5000000.00	Free	0.00	Teen	Action	2018-08-03	1.11.0	6.0 and up	3
+1841	DRAGON BALL LEGENDS	GAME	4.60	337913.00	48.00	5000000.00	Free	0.00	Teen	Action	2018-08-03	1.11.0	6.0 and up	4
+1740	Dream League Soccer 2018	GAME	4.60	9882639.00	74.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-16	5.064	4.4 and up	2
+4057	Dream League Soccer 2018	SPORTS	4.60	9873470.00	74.00	100000000.00	Free	0.00	Everyone	Sports	2018-07-16	5.064	4.4 and up	3
+2202	DreamWorks Friends	FAMILY	3.60	1042.00	48.00	100000.00	Free	0.00	Everyone	Role Playing;Pretend Play	2017-08-04	2.5	4.3 and up	2
+3474	Dropbox	PRODUCTIVITY	4.40	1861310.00	61.00	500000000.00	Free	0.00	Everyone	Productivity	2018-08-01	Varies with device	Varies with device	2
+3570	Dropbox	PRODUCTIVITY	4.40	1861309.00	61.00	500000000.00	Free	0.00	Everyone	Productivity	2018-08-01	Varies with device	Varies with device	3
+425	DU Browserâ€”Browse fast & fun	COMMUNICATION	4.30	1133501.00	4.70	10000000.00	Free	0.00	Everyone	Communication	2016-04-01	6.4.0.4	4.0 and up	2
+1932	Dude Perfect 2	GAME	4.50	401425.00	70.00	10000000.00	Free	0.00	Everyone	Action	2017-04-12	1.6.1	4.0.3 and up	2
+1869	Dungeon Hunter Champions: Epic Online Action RPG	GAME	4.20	26247.00	110.00	1000000.00	Free	0.00	Teen	Role Playing	2018-07-26	1.1.40	4.0.3 and up	2
+1190	Dunkin' Donuts	FOOD_AND_DRINK	4.20	68103.00	66.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-06-20	5.0.0	4.4 and up	2
+700	Duolingo: Learn Languages Free	EDUCATION	4.70	6289924.00	110.00	100000000.00	Free	0.00	Everyone	Education;Education	2018-08-01	Varies with device	Varies with device	2
+800	Duolingo: Learn Languages Free	EDUCATION	4.70	6290507.00	110.00	100000000.00	Free	0.00	Everyone	Education;Education	2018-08-01	Varies with device	Varies with device	3
+785	Duolingo: Learn Languages Free	EDUCATION	4.70	6290507.00	110.00	100000000.00	Free	0.00	Everyone	Education;Education	2018-08-01	Varies with device	Varies with device	4
+8440	Duolingo: Learn Languages Free	FAMILY	4.70	6297590.00	110.00	100000000.00	Free	0.00	Everyone	Education;Education	2018-08-06	Varies with device	Varies with device	5
+2217	Duolingo: Learn Languages Free	FAMILY	4.70	6294397.00	110.00	100000000.00	Free	0.00	Everyone	Education;Education	2018-08-01	Varies with device	Varies with device	6
+2057	Duolingo: Learn Languages Free	FAMILY	4.70	6294400.00	110.00	100000000.00	Free	0.00	Everyone	Education;Education	2018-08-01	Varies with device	Varies with device	7
+1136	E*TRADE Mobile	FINANCE	3.90	10658.00	58.00	1000000.00	Free	0.00	Everyone	Finance	2018-08-02	6.8.2	4.4 and up	2
+1979	Earn to Die 2	GAME	4.60	1327269.00	99.00	50000000.00	Free	0.00	Teen	Racing	2017-04-12	1.3	2.3.3 and up	2
+2775	eBay: Buy & Sell this Summer - Discover Deals Now!	SHOPPING	4.40	2788923.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-07-30	Varies with device	Varies with device	2
+2663	eBay: Buy & Sell this Summer - Discover Deals Now!	SHOPPING	4.40	2788923.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-07-30	Varies with device	Varies with device	3
+2785	eBay: Buy & Sell this Summer - Discover Deals Now!	SHOPPING	4.40	2788923.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-07-30	Varies with device	Varies with device	4
+4069	eBay: Buy & Sell this Summer - Discover Deals Now!	SHOPPING	4.40	2788460.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-07-30	Varies with device	Varies with device	5
+165	Ebook Reader	BOOKS_AND_REFERENCE	4.10	85842.00	37.00	5000000.00	Free	0.00	Everyone	Books & Reference	2018-06-25	5.0.6	4.0 and up	2
+9629	Edmodo	FAMILY	4.10	200214.00	18.00	10000000.00	Free	0.00	Everyone	Education	2018-08-06	9.12.6	4.0.3 and up	2
+744	edX - Online Courses by Harvard, MIT & more	EDUCATION	4.60	32381.00	10.00	1000000.00	Free	0.00	Everyone 10+	Education	2018-07-15	2.15.1	4.1 and up	2
+521	EliteSingles â€“ Dating for Single Professionals	DATING	2.50	5377.00	19.00	500000.00	Free	0.00	Mature 17+	Dating	2018-07-31	4.8.5	4.0.3 and up	2
+2183	Elmo Calls by Sesame Street	FAMILY	3.90	6903.00	25.00	1000000.00	Free	0.00	Everyone	Educational;Pretend Play	2018-01-31	2.0.7	2.3 and up	2
+7031	Elmo Calls by Sesame Street	FAMILY	3.90	6903.00	25.00	1000000.00	Free	0.00	Everyone	Educational;Pretend Play	2018-01-31	2.0.7	2.3 and up	3
+2388	EMT PASS	MEDICAL	3.40	51.00	2.40	1000.00	Paid	29.99	Everyone	Medical	2014-10-22	2.0.2	4.0 and up	2
+2255	EMT Review Plus	MEDICAL	4.50	199.00	1.80	10000.00	Paid	11.99	Everyone	Medical	2018-06-27	3.0.5	4.4W and up	2
+3966	EMT Tutor NREMT-B Study Guide	MEDICAL	4.60	625.00	8.40	10000.00	Paid	3.99	Everyone	Medical	2017-01-08	2.1	2.1 and up	2
+2372	EMT-B Pocket Prep	MEDICAL	4.50	2951.00	16.00	50000.00	Free	0.00	Everyone	Medical	2018-07-11	4.5.2	4.4 and up	2
+1388	Endomondo - Running & Walking	HEALTH_AND_FITNESS	4.50	559262.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-11	Varies with device	Varies with device	2
+187	English Dictionary - Offline	BOOKS_AND_REFERENCE	4.40	341157.00	30.00	10000000.00	Free	0.00	Everyone 10+	Books & Reference	2018-03-20	3.9.1	4.2 and up	2
+1787	Episode - Choose Your Story	GAME	4.30	1841061.00	110.00	50000000.00	Free	0.00	Teen	Simulation	2018-07-31	Varies with device	Varies with device	2
+2124	Equestria Girls	FAMILY	4.30	392596.00	53.00	10000000.00	Free	0.00	Everyone	Role Playing;Action & Adventure	2016-07-22	37893	4.0 and up	2
+2223	Equestria Girls	FAMILY	4.30	392596.00	53.00	10000000.00	Free	0.00	Everyone	Role Playing;Action & Adventure	2016-07-22	37893	4.0 and up	3
+3470	ES File Explorer File Manager	PRODUCTIVITY	4.60	5383985.00	16.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-03	4.1.8.2.2	4.0 and up	2
+3515	ES File Explorer File Manager	PRODUCTIVITY	4.60	5383971.00	16.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-03	4.1.8.2.2	4.0 and up	3
+3073	ESPN	SPORTS	4.20	521140.00	110.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-19	Varies with device	5.0 and up	2
+3049	ESPN	SPORTS	4.20	521140.00	110.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-19	Varies with device	5.0 and up	3
+3061	ESPN	SPORTS	4.20	521140.00	110.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-19	Varies with device	5.0 and up	4
+3019	ESPN	SPORTS	4.20	521138.00	110.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-19	Varies with device	5.0 and up	5
+3011	ESPN	SPORTS	4.20	521138.00	110.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-19	Varies with device	5.0 and up	6
+2960	ESPN	SPORTS	4.20	521138.00	110.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-19	Varies with device	5.0 and up	7
+3014	ESPN Fantasy Sports	SPORTS	4.00	176448.00	10.00	5000000.00	Free	0.00	Everyone	Sports	2017-11-21	5.3.0	4.4 and up	2
+3046	ESPN Fantasy Sports	SPORTS	4.00	176450.00	10.00	5000000.00	Free	0.00	Everyone	Sports	2017-11-21	5.3.0	4.4 and up	3
+10189	ESPN Fantasy Sports	SPORTS	4.00	176487.00	10.00	5000000.00	Free	0.00	Everyone	Sports	2017-11-21	5.3.0	4.4 and up	4
+2253	Essential Anatomy 3	MEDICAL	4.10	1533.00	42.00	50000.00	Paid	11.99	Mature 17+	Medical	2014-08-07	1.1.3	4.0.3 and up	2
+2783	Etsy: Handmade & Vintage Goods	SHOPPING	4.30	95520.00	15.00	10000000.00	Free	0.00	Teen	Shopping	2018-08-03	5.3.1	4.1 and up	2
+3511	Evernote â€“ Organizer, Planner for Notes & Memos	PRODUCTIVITY	4.60	1488396.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-03	Varies with device	Varies with device	2
+3483	Evernote â€“ Organizer, Planner for Notes & Memos	PRODUCTIVITY	4.60	1488396.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-03	Varies with device	Varies with device	3
+3548	Evernote â€“ Organizer, Planner for Notes & Memos	PRODUCTIVITY	4.60	1488397.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-03	Varies with device	Varies with device	4
+3130	Expedia Hotels, Flights & Car Rental Travel Deals	TRAVEL_AND_LOCAL	4.10	136633.00	14.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	18.30.0	5.0 and up	2
+3176	Expedia Hotels, Flights & Car Rental Travel Deals	TRAVEL_AND_LOCAL	4.10	136626.00	14.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	18.30.0	5.0 and up	3
+3204	Expedia Hotels, Flights & Car Rental Travel Deals	TRAVEL_AND_LOCAL	4.10	136626.00	14.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	18.30.0	5.0 and up	4
+2705	Extreme Coupon Finder	SHOPPING	4.10	11798.00	110.00	1000000.00	Free	0.00	Everyone	Shopping	2018-05-10	Varies with device	Varies with device	2
+2725	Extreme Coupon Finder	SHOPPING	4.10	11798.00	110.00	1000000.00	Free	0.00	Everyone	Shopping	2018-05-10	Varies with device	Varies with device	3
+1437	Fabulous: Motivate Me! Meditate, Relax, Sleep	HEALTH_AND_FITNESS	4.60	205299.00	31.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-16	3.48	4.1 and up	2
+8175	Face Filter, Selfie Editor - Sweet Camera	PHOTOGRAPHY	4.70	142758.00	22.00	10000000.00	Free	0.00	Everyone	Photography	2018-07-06	1.5.1	4.4 and up	2
+3944	Facebook	SOCIAL	4.10	78128208.00	110.00	1000000000.00	Free	0.00	Teen	Social	2018-08-03	Varies with device	Varies with device	2
+216	Facebook Ads Manager	BUSINESS	4.10	19023.00	110.00	1000000.00	Free	0.00	Everyone	Business	2018-08-01	99.0.0.35.75	4.1 and up	2
+2547	Facebook Lite	SOCIAL	4.30	8606259.00	110.00	500000000.00	Free	0.00	Teen	Social	2018-08-01	Varies with device	Varies with device	2
+202	Facebook Pages Manager	BUSINESS	4.00	1279184.00	110.00	50000000.00	Free	0.00	Everyone	Business	2018-08-02	Varies with device	Varies with device	2
+2884	Facetune - For Free	PHOTOGRAPHY	4.40	49553.00	48.00	1000000.00	Paid	5.99	Everyone	Photography	2018-07-25	1.3.1	4.1 and up	2
+2951	Facetune - For Free	PHOTOGRAPHY	4.40	49553.00	48.00	1000000.00	Paid	5.99	Everyone	Photography	2018-07-25	1.3.1	4.1 and up	3
+1846	Fallout Shelter	GAME	4.60	2719142.00	25.00	10000000.00	Free	0.00	Teen	Simulation	2018-06-11	1.13.12	4.1 and up	2
+2743	Fancy	SHOPPING	4.20	39735.00	18.00	5000000.00	Free	0.00	Teen	Shopping	2018-07-25	3.13.09	4.0 and up	2
+2798	Fancy	SHOPPING	4.20	39735.00	18.00	5000000.00	Free	0.00	Teen	Shopping	2018-07-25	3.13.09	4.0 and up	3
+994	Fandango Movies - Times + Tickets	ENTERTAINMENT	4.60	243747.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-08-02	Varies with device	Varies with device	2
+3099	Fantasy Football	SPORTS	3.50	50179.00	23.00	1000000.00	Free	0.00	Everyone	Sports	2018-08-02	2.5.7.1	5.0 and up	2
+2012	Farm Heroes Saga	GAME	4.40	7614407.00	70.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-26	5.1.8	2.3 and up	2
+1734	Farm Heroes Saga	GAME	4.40	7614271.00	70.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-26	5.1.8	2.3 and up	3
+1696	Farm Heroes Saga	GAME	4.40	7614130.00	70.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-26	5.1.8	2.3 and up	4
+10716	FarmersOnly Dating	DATING	3.00	1145.00	1.40	100000.00	Free	0.00	Mature 17+	Dating	2016-02-25	2.2	4.0 and up	2
+2053	Farming Simulator 14	FAMILY	4.50	530854.00	51.00	10000000.00	Free	0.00	Everyone	Simulation;Action & Adventure	2017-07-17	1.4.4	2.3.3 and up	2
+1627	Fashion in Vogue	LIFESTYLE	3.80	1797.00	6.80	100000.00	Free	0.00	Everyone	Lifestyle	2016-09-27	2.0	4.3 and up	2
+1605	Fashion in Vogue	LIFESTYLE	3.80	1797.00	6.80	100000.00	Free	0.00	Everyone	Lifestyle	2016-09-27	2.0	4.3 and up	3
+233	Fast Scanner : Free PDF Scan	BUSINESS	4.50	103755.00	14.00	10000000.00	Free	0.00	Everyone	Business	2018-07-11	3.9.2	4.1 and up	2
+576	FastMeet: Chat, Dating, Love	DATING	4.20	22545.00	5.90	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-27	1.31.4	4.0.3 and up	2
+3083	FIFA - Tournaments, Soccer News & Live Scores	SPORTS	4.20	342912.00	6.00	10000000.00	Free	0.00	Everyone	Sports	2018-08-03	4.3.1	4.4 and up	2
+10119	FilterGrid - Cam&Photo Editor	PHOTOGRAPHY	4.60	126338.00	9.60	1000000.00	Free	0.00	Everyone	Photography	2017-03-15	2.0.5	4.0 and up	2
+1827	Final Fantasy XV: A New Empire	GAME	4.00	484981.00	110.00	10000000.00	Free	0.00	Everyone 10+	Strategy	2018-06-15	3.30.4.83	4.1 and up	2
+503	Find Real Love â€” YouLove Premium Dating	DATING	4.50	212626.00	11.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-07-31	4.17.2	4.1 and up	2
+345	Firefox Browser fast & private	COMMUNICATION	4.40	3075028.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-10	Varies with device	Varies with device	2
+413	Firefox Browser fast & private	COMMUNICATION	4.40	3075118.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-10	Varies with device	Varies with device	3
+359	Firefox Focus: The privacy browser	COMMUNICATION	4.40	36880.00	4.00	1000000.00	Free	0.00	Everyone	Communication	2018-07-06	5.2	5.0 and up	2
+10721	Firefox Focus: The privacy browser	COMMUNICATION	4.40	36981.00	4.00	1000000.00	Free	0.00	Everyone	Communication	2018-07-06	5.2	5.0 and up	3
+1684	Fishdom	GAME	4.60	2157930.00	110.00	10000000.00	Free	0.00	Everyone	Puzzle	2018-07-19	2.21.5	4.0.3 and up	2
+1718	Fishdom	GAME	4.60	2157930.00	110.00	10000000.00	Free	0.00	Everyone	Puzzle	2018-07-19	2.21.5	4.0.3 and up	3
+1386	Fitbit Coach	HEALTH_AND_FITNESS	4.60	28951.00	60.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-16	4.4	4.4 and up	2
+2888	Flickr	PHOTOGRAPHY	4.30	251951.00	16.00	10000000.00	Free	0.00	Mature 17+	Photography	2018-07-11	4.7.3	4.4 and up	2
+3820	Flipboard: News For Our Time	NEWS_AND_MAGAZINES	4.40	1284018.00	110.00	500000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-03	Varies with device	Varies with device	2
+3756	Flipboard: News For Our Time	NEWS_AND_MAGAZINES	4.40	1284017.00	110.00	500000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-03	Varies with device	Varies with device	3
+4102	Flipkart Online Shopping App	SHOPPING	4.40	6003590.00	110.00	100000000.00	Free	0.00	Teen	Shopping	2018-08-02	Varies with device	Varies with device	2
+4990	Flipp - Weekly Shopping	SHOPPING	4.60	85782.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-30	Varies with device	Varies with device	2
+542	FlirtChat - â™¥Free Dating/Flirting Appâ™¥	DATING	4.30	2430.00	13.00	500000.00	Free	0.00	Mature 17+	Dating	2018-07-26	12.0.4	4.1 and up	2
+1745	Flow Free	GAME	4.30	1295606.00	11.00	100000000.00	Free	0.00	Everyone	Puzzle	2018-04-11	4.0	4.1 and up	2
+1888	Flow Free	GAME	4.30	1295625.00	11.00	100000000.00	Free	0.00	Everyone	Puzzle	2018-04-11	4.0	4.1 and up	3
+1982	Flow Free	GAME	4.30	1295625.00	11.00	100000000.00	Free	0.00	Everyone	Puzzle	2018-04-11	4.0	4.1 and up	4
+1682	Flow Free	GAME	4.30	1295557.00	11.00	100000000.00	Free	0.00	Everyone	Puzzle	2018-04-11	4.0	4.1 and up	5
+3148	Fly Delta	TRAVEL_AND_LOCAL	3.70	27560.00	46.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	4.13.2	5.0 and up	2
+1421	Food Calorie Calculator	HEALTH_AND_FITNESS	4.20	1324.00	4.00	100000.00	Free	0.00	Everyone	Health & Fitness	2018-01-29	10.2.0	4.0 and up	2
+906	Food Network	ENTERTAINMENT	4.10	7813.00	110.00	500000.00	Free	0.00	Teen	Entertainment	2018-07-27	Varies with device	Varies with device	2
+10019	Food Network	FAMILY	4.10	7823.00	110.00	500000.00	Free	0.00	Teen	Entertainment	2018-07-27	Varies with device	Varies with device	3
+3070	FotMob - Live Soccer Scores	SPORTS	4.70	410395.00	110.00	10000000.00	Free	0.00	Everyone	Sports	2018-07-31	Varies with device	Varies with device	2
+985	FOX	ENTERTAINMENT	3.70	197774.00	44.00	10000000.00	Free	0.00	Mature 17+	Entertainment	2018-06-25	6.6.1	4.4 and up	2
+3803	Fox News â€“ Breaking News, Live Video & News Alerts	NEWS_AND_MAGAZINES	4.50	249919.00	110.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-07-30	Varies with device	Varies with device	2
+3786	Fox News â€“ Breaking News, Live Video & News Alerts	NEWS_AND_MAGAZINES	4.50	249919.00	110.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-07-30	Varies with device	Varies with device	3
+940	FOX NOW - On Demand & Live TV	ENTERTAINMENT	3.90	60841.00	110.00	5000000.00	Free	0.00	Teen	Entertainment	2018-07-26	Varies with device	4.4 and up	2
+920	FOX NOW - On Demand & Live TV	ENTERTAINMENT	3.90	60841.00	110.00	5000000.00	Free	0.00	Teen	Entertainment	2018-07-26	Varies with device	4.4 and up	3
+3098	FOX Sports: Live Streaming, Scores & News	SPORTS	4.00	28895.00	82.00	5000000.00	Free	0.00	Teen	Sports	2018-08-02	4.4.15	5.0 and up	2
+2380	FP Notebook	MEDICAL	4.50	408.00	60.00	50000.00	Free	0.00	Everyone	Medical	2018-03-24	2.1.0.372	4.4 and up	2
+2522	fred's Pharmacy	MEDICAL	3.00	315.00	22.00	100000.00	Free	0.00	Everyone	Medical	2017-10-10	1.0.02	4.0 and up	2
+2357	Free Blood Pressure	MEDICAL		7.00	5.70	5000.00	Free	0.00	Everyone	Medical	2016-10-13	3.0.0	4.0.3 and up	2
+2503	Free Blood Pressure	MEDICAL		7.00	5.70	5000.00	Free	0.00	Everyone	Medical	2016-10-13	3.0.0	4.0.3 and up	3
+605	Free Cam Girls - Live Webcam	DATING	3.50	35.00	16.00	1000.00	Free	0.00	Mature 17+	Dating	2018-07-16	2.4	4.0.3 and up	2
+509	Free Dating & Flirt Chat - Choice of Love	DATING	4.00	42194.00	110.00	5000000.00	Free	0.00	Mature 17+	Dating	2018-07-24	Varies with device	Varies with device	2
+691	Free Dating App - Meet Local Singles - Flirt Chat	DATING	4.10	825.00	110.00	100000.00	Free	0.00	Mature 17+	Dating	2017-12-28	1.0.5	4.0 and up	2
+513	Free Dating App - YoCutie - Flirt, Chat & Meet	DATING	4.10	97684.00	7.90	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-10	1.230	4.0.3 and up	2
+697	Free Dating Hook Up Messenger	DATING	3.30	1157.00	21.00	100000.00	Free	0.00	Mature 17+	Dating	2017-01-27	5.0.1	4.2 and up	2
+8441	Free phone calls, free texting SMS on free number	SOCIAL	4.50	412888.00	35.00	10000000.00	Free	0.00	Everyone	Social	2018-07-31	3.8.1	4.1 and up	2
+390	free video calls and chat	COMMUNICATION	4.20	594728.00	110.00	50000000.00	Free	0.00	Everyone	Communication	2018-07-19	7.3(800241)	4.4 and up	2
+4225	free video calls and chat	COMMUNICATION	4.20	594720.00	110.00	50000000.00	Free	0.00	Everyone	Communication	2018-07-19	7.3(800241)	4.4 and up	3
+271	FreshBooks Classic	BUSINESS	4.10	1802.00	26.00	100000.00	Free	0.00	Everyone	Business	2018-04-18	1.7.14	4.2 and up	2
+2139	Frozen Free Fall	FAMILY	4.30	1574197.00	37.00	50000000.00	Free	0.00	Everyone	Puzzle;Action & Adventure	2018-07-27	6.7.0	4.2 and up	2
+9681	Frozen Free Fall	FAMILY	4.30	1574546.00	37.00	50000000.00	Free	0.00	Everyone	Puzzle;Action & Adventure	2018-07-27	6.7.0	4.2 and up	3
+1742	Fruits Bomb	GAME	4.40	74673.00	17.00	10000000.00	Free	0.00	Everyone	Casual	2018-07-06	3.3.3179	4.0.3 and up	2
+2210	Fun Kid Racing - Motocross	FAMILY	4.10	59729.00	110.00	10000000.00	Free	0.00	Everyone	Racing;Action & Adventure	2018-06-27	3.46	4.2 and up	2
+4302	Fuzzy Numbers: Pre-K Number Foundation	FAMILY	4.70	21.00	44.00	1000.00	Paid	5.99	Everyone	Education;Education	2017-07-21	1.3	4.1 and up	2
+3567	G Cloud Backup	PRODUCTIVITY	4.60	267189.00	110.00	5000000.00	Free	0.00	Everyone	Productivity	2018-04-29	Varies with device	Varies with device	2
+1685	Galaxy Attack: Alien Shooter	GAME	4.60	506275.00	110.00	10000000.00	Free	0.00	Everyone	Arcade	2018-08-01	5.66	4.1 and up	2
+1726	Galaxy Attack: Alien Shooter	GAME	4.60	506275.00	110.00	10000000.00	Free	0.00	Everyone	Arcade	2018-08-01	5.66	4.1 and up	3
+9590	Game for KIDS: KIDS match'em	FAMILY	4.40	7006.00	6.90	1000000.00	Free	0.00	Everyone	Education	2016-10-23	1.17	2.3 and up	2
+1691	Gardenscapes	GAME	4.60	4128732.00	110.00	50000000.00	Free	0.00	Everyone	Casual	2018-07-13	2.6.2	4.0.3 and up	2
+1916	Garena Free Fire	GAME	4.50	5476569.00	53.00	100000000.00	Free	0.00	Teen	Action	2018-08-03	1.21.0	4.0.3 and up	2
+1950	Garena Free Fire	GAME	4.50	5476569.00	53.00	100000000.00	Free	0.00	Teen	Action	2018-08-03	1.21.0	4.0.3 and up	3
+10328	Garena Free Fire	GAME	4.50	5534114.00	53.00	100000000.00	Free	0.00	Teen	Action	2018-08-03	1.21.0	4.0.3 and up	4
+535	Gay Sugar Daddy Dating & Hookup â€“ Sudy Gay	DATING	4.10	2212.00	41.00	100000.00	Free	0.00	Mature 17+	Dating	2018-06-20	2.0.5	4.0.3 and up	2
+3266	Gboard - the Google Keyboard	TOOLS	4.20	1859115.00	110.00	500000000.00	Free	0.00	Everyone	Tools	2018-07-31	Varies with device	Varies with device	2
+3327	Gboard - the Google Keyboard	TOOLS	4.20	1859109.00	110.00	500000000.00	Free	0.00	Everyone	Tools	2018-07-31	Varies with device	Varies with device	3
+231	Genius Scan - PDF Scanner	BUSINESS	4.40	42492.00	110.00	1000000.00	Free	0.00	Everyone	Business	2018-07-11	Varies with device	Varies with device	2
+4142	Geometry Dash World	GAME	4.60	759838.00	63.00	10000000.00	Free	0.00	Everyone	Arcade	2017-12-22	1.03	4.0 and up	2
+688	Girls Live Chat - Free Text & Video Chat	DATING	4.80	110.00	4.90	10000.00	Free	0.00	Mature 17+	Dating	2018-07-09	8.2	4.0.3 and up	2
+473	Glide - Video Chat Messenger	COMMUNICATION	4.30	350154.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-07-29	Varies with device	Varies with device	2
+341	Gmail	COMMUNICATION	4.30	4604324.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-02	Varies with device	Varies with device	2
+4097	Gmail	COMMUNICATION	4.30	4604324.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-02	Varies with device	Varies with device	3
+4810	GO Keyboard - Emoticon keyboard, Free Theme, GIF	PERSONALIZATION	4.40	2591610.00	110.00	100000000.00	Free	0.00	Everyone	Personalization	2018-07-20	Varies with device	Varies with device	2
+3089	Golfshot: Golf GPS + Tee Times	SPORTS	4.30	7543.00	25.00	500000.00	Free	0.00	Everyone	Sports	2018-07-11	1.31.0	4.1 and up	2
+3235	Google	TOOLS	4.40	8033493.00	110.00	1000000000.00	Free	0.00	Everyone	Tools	2018-08-03	Varies with device	Varies with device	2
+268	Google Ads	BUSINESS	4.30	29313.00	20.00	5000000.00	Free	0.00	Everyone	Business	2018-07-30	1.12.0	4.0.3 and up	2
+4980	Google Ads	BUSINESS	4.30	29331.00	20.00	5000000.00	Free	0.00	Everyone	Business	2018-07-30	1.12.0	4.0.3 and up	3
+402	Google Allo	COMMUNICATION	4.30	346982.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-01-23	Varies with device	4.1 and up	2
+411	Google Allo	COMMUNICATION	4.30	346980.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-01-23	Varies with device	4.1 and up	3
+250	Google Analytics	BUSINESS	4.50	78662.00	22.00	1000000.00	Free	0.00	Everyone	Business	2018-02-13	3.7.5	4.4 and up	2
+3534	Google Calendar	PRODUCTIVITY	4.20	858227.00	110.00	500000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	2
+3477	Google Calendar	PRODUCTIVITY	4.20	858208.00	110.00	500000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	3
+412	Google Chrome: Fast & Secure	COMMUNICATION	4.30	9643041.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-01	Varies with device	Varies with device	2
+339	Google Chrome: Fast & Secure	COMMUNICATION	4.30	9642995.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-01	Varies with device	Varies with device	3
+825	Google Classroom	EDUCATION	4.20	69498.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-07-19	Varies with device	Varies with device	2
+843	Google Classroom	EDUCATION	4.20	69498.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-07-19	Varies with device	Varies with device	3
+3478	Google Docs	PRODUCTIVITY	4.30	815981.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	2
+3529	Google Docs	PRODUCTIVITY	4.30	815974.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	3
+3566	Google Drive	PRODUCTIVITY	4.40	2731211.00	110.00	1000000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	2
+3455	Google Drive	PRODUCTIVITY	4.40	2731171.00	110.00	1000000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	3
+4171	Google Drive	PRODUCTIVITY	4.40	2728941.00	110.00	1000000000.00	Free	0.00	Everyone	Productivity	2018-07-30	Varies with device	Varies with device	4
+372	Google Duo - High Quality Video Calls	COMMUNICATION	4.60	2083237.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-31	37.1.206017801.DR37_RC14	4.4 and up	2
+3122	Google Earth	TRAVEL_AND_LOCAL	4.30	2338655.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-06-18	9.2.17.13	4.1 and up	2
+3546	Google Keep	PRODUCTIVITY	4.40	691474.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	2
+3508	Google Keep	PRODUCTIVITY	4.40	691474.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	3
+3468	Google Keep	PRODUCTIVITY	4.40	691474.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	4
+269	Google My Business	BUSINESS	4.40	70991.00	110.00	5000000.00	Free	0.00	Everyone	Business	2018-07-24	2.19.0.204537701	4.4 and up	2
+194	Google My Business	BUSINESS	4.40	70991.00	110.00	5000000.00	Free	0.00	Everyone	Business	2018-07-24	2.19.0.204537701	4.4 and up	3
+3737	Google News	NEWS_AND_MAGAZINES	3.90	877635.00	13.00	1000000000.00	Free	0.00	Teen	News & Magazines	2018-08-01	5.2.0	4.4 and up	2
+3766	Google News	NEWS_AND_MAGAZINES	3.90	877635.00	13.00	1000000000.00	Free	0.00	Teen	News & Magazines	2018-08-01	5.2.0	4.4 and up	3
+3817	Google News	NEWS_AND_MAGAZINES	3.90	877643.00	13.00	1000000000.00	Free	0.00	Teen	News & Magazines	2018-08-01	5.2.0	4.4 and up	4
+1164	Google Pay	FINANCE	4.20	347874.00	110.00	100000000.00	Free	0.00	Everyone	Finance	2018-07-26	2.70.206190089	Varies with device	2
+1097	Google Pay	FINANCE	4.20	347838.00	110.00	100000000.00	Free	0.00	Everyone	Finance	2018-07-26	2.70.206190089	Varies with device	3
+5602	Google Pay	FINANCE	4.20	348132.00	110.00	100000000.00	Free	0.00	Everyone	Finance	2018-07-26	2.70.206190089	Varies with device	4
+3526	Google PDF Viewer	PRODUCTIVITY	4.20	226456.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2017-10-09	Varies with device	Varies with device	2
+3459	Google PDF Viewer	PRODUCTIVITY	4.20	226456.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2017-10-09	Varies with device	Varies with device	3
+2809	Google Photos	PHOTOGRAPHY	4.50	10858556.00	110.00	1000000000.00	Free	0.00	Everyone	Photography	2018-08-06	Varies with device	Varies with device	2
+2885	Google Photos	PHOTOGRAPHY	4.50	10859051.00	110.00	1000000000.00	Free	0.00	Everyone	Photography	2018-08-06	Varies with device	Varies with device	3
+5396	Google Photos	PHOTOGRAPHY	4.50	10847682.00	110.00	1000000000.00	Free	0.00	Everyone	Photography	2018-08-01	Varies with device	Varies with device	4
+5857	Google Play Games	FAMILY	4.30	7168735.00	110.00	1000000000.00	Free	0.00	Teen	Entertainment	2018-07-16	Varies with device	Varies with device	2
+3527	Google Sheets	PRODUCTIVITY	4.30	496399.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	2
+3128	Google Street View	TRAVEL_AND_LOCAL	4.20	2129689.00	110.00	1000000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	Varies with device	Varies with device	2
+3908	Google Translate	TOOLS	4.40	5741684.00	110.00	500000000.00	Free	0.00	Everyone	Tools	2018-08-04	Varies with device	Varies with device	2
+395	Google Voice	COMMUNICATION	4.20	171031.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	2
+360	Google Voice	COMMUNICATION	4.20	171031.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	3
+2555	Google+	SOCIAL	4.20	4831125.00	110.00	1000000000.00	Free	0.00	Teen	Social	2018-07-26	Varies with device	Varies with device	2
+1680	Granny	GAME	4.50	1135631.00	59.00	50000000.00	Free	0.00	Teen	Arcade	2018-05-29	1.4.0.1	4.0 and up	2
+1725	Granny	GAME	4.50	1137271.00	59.00	50000000.00	Free	0.00	Teen	Arcade	2018-05-29	1.4.0.1	4.0 and up	3
+1755	Granny	GAME	4.50	1137267.00	59.00	50000000.00	Free	0.00	Teen	Arcade	2018-05-29	1.4.0.1	4.0 and up	4
+1902	Granny	GAME	4.50	1138239.00	59.00	50000000.00	Free	0.00	Teen	Arcade	2018-05-29	1.4.0.1	4.0 and up	5
+2784	Groupon - Shop Deals, Discounts & Coupons	SHOPPING	4.60	1370749.00	110.00	50000000.00	Free	0.00	Teen	Shopping	2018-08-03	Varies with device	Varies with device	2
+2733	Groupon - Shop Deals, Discounts & Coupons	SHOPPING	4.60	1370749.00	110.00	50000000.00	Free	0.00	Teen	Shopping	2018-08-03	Varies with device	Varies with device	3
+2717	Groupon - Shop Deals, Discounts & Coupons	SHOPPING	4.60	1370749.00	110.00	50000000.00	Free	0.00	Teen	Shopping	2018-08-03	Varies with device	Varies with device	4
+1194	Grubhub: Food Delivery	FOOD_AND_DRINK	4.50	155944.00	35.00	5000000.00	Free	0.00	Everyone	Food & Drink	2018-08-02	7.12	5.0 and up	2
+2744	Gyft - Mobile Gift Card Wallet	SHOPPING	4.10	9701.00	14.00	500000.00	Free	0.00	Everyone	Shopping	2018-07-25	2.4.0	4.4 and up	2
+2778	Gyft - Mobile Gift Card Wallet	SHOPPING	4.10	9701.00	14.00	500000.00	Free	0.00	Everyone	Shopping	2018-07-25	2.4.0	4.4 and up	3
+4201	H TV	FAMILY	4.30	103064.00	5.60	5000000.00	Free	0.00	Everyone	Entertainment	2018-07-05	4.6.2	2.3.3 and up	2
+1584	H&M	LIFESTYLE	3.70	41941.00	14.00	10000000.00	Free	0.00	Everyone	Lifestyle	2018-07-30	9.6.3	4.4 and up	2
+342	Hangouts	COMMUNICATION	4.00	3419249.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-07-21	Varies with device	Varies with device	2
+465	Hangouts	COMMUNICATION	4.00	3419513.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-07-21	Varies with device	Varies with device	3
+4154	Hangouts	COMMUNICATION	4.00	3419464.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-07-21	Varies with device	Varies with device	4
+9857	Hangouts Dialer - Call Phones	COMMUNICATION	4.00	122512.00	0.08	10000000.00	Free	0.00	Everyone	Communication	2015-09-02	0.1.100944346	4.0.3 and up	2
+1804	Harry Potter: Hogwarts Mystery	GAME	4.40	1107310.00	110.00	10000000.00	Free	0.00	Teen	Adventure	2018-08-01	1.8.2	4.4 and up	2
+3787	Haystack TV: Local & World News - Free	NEWS_AND_MAGAZINES	4.30	3684.00	110.00	100000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-02	Varies with device	Varies with device	2
+6563	HBO GO: Stream with TV Package	FAMILY	3.80	87734.00	32.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-19	16.0.0.437	4.1 and up	2
+925	HBO NOW: Stream TV & Movies	ENTERTAINMENT	3.90	61201.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-19	Varies with device	Varies with device	2
+945	HBO NOW: Stream TV & Movies	ENTERTAINMENT	3.90	61201.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-19	Varies with device	Varies with device	3
+9827	HBO NOW: Stream TV & Movies	FAMILY	3.90	61230.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-19	Varies with device	Varies with device	4
+2920	HD Camera for Android	PHOTOGRAPHY	4.10	351255.00	4.00	10000000.00	Free	0.00	Everyone	Photography	2018-06-29	4.6.0.0	4.2 and up	2
+6920	HD Widgets	PERSONALIZATION	4.30	58614.00	26.00	1000000.00	Paid	0.99	Everyone	Personalization	2016-12-07	4.3.2	4.4 and up	2
+1345	Headspace: Meditation & Mindfulness	HEALTH_AND_FITNESS	4.60	77563.00	39.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-23	3.6.4	4.2 and up	2
+1402	Health and Nutrition Guide	HEALTH_AND_FITNESS	4.30	7895.00	3.30	500000.00	Free	0.00	Everyone	Health & Fitness	2018-07-15	3.3	4.0 and up	2
+1793	Helix Jump	GAME	4.20	1499373.00	33.00	100000000.00	Free	0.00	Everyone	Action	2018-04-09	1.0.6	4.1 and up	2
+1750	Helix Jump	GAME	4.20	1498648.00	33.00	100000000.00	Free	0.00	Everyone	Action	2018-04-09	1.0.6	4.1 and up	3
+1970	Helix Jump	GAME	4.20	1500622.00	33.00	100000000.00	Free	0.00	Everyone	Action	2018-04-09	1.0.6	4.1 and up	4
+1919	Helix Jump	GAME	4.20	1500999.00	33.00	100000000.00	Free	0.00	Everyone	Action	2018-04-09	1.0.6	4.1 and up	5
+1664	Helix Jump	GAME	4.20	1497361.00	33.00	100000000.00	Free	0.00	Everyone	Action	2018-04-09	1.0.6	4.1 and up	6
+1659	Hello Kitty Nail Salon	GAME	4.20	369203.00	24.00	50000000.00	Free	0.00	Everyone	Casual;Pretend Play	2018-04-17	1.5	4.1 and up	2
+830	HelloTalk â€” Chat, Speak & Learn Foreign Languages	EDUCATION	4.40	84309.00	41.00	5000000.00	Free	0.00	Everyone	Education	2018-07-25	2.6.6	4.1 and up	2
+591	Hide App, Private Dating, Safe Chat - PrivacyHider	DATING	4.40	35205.00	7.20	1000000.00	Free	0.00	Everyone	Dating	2018-05-21	2.9.6	4.0 and up	2
+1978	Hill Climb Racing	GAME	4.40	8923847.00	63.00	100000000.00	Free	0.00	Everyone	Racing	2018-07-02	1.37.2	4.2 and up	2
+1690	Hill Climb Racing	GAME	4.40	8923587.00	63.00	100000000.00	Free	0.00	Everyone	Racing	2018-07-02	1.37.2	4.2 and up	3
+4018	Hill Climb Racing	GAME	4.40	8921451.00	63.00	100000000.00	Free	0.00	Everyone	Racing	2018-07-02	1.37.2	4.2 and up	4
+1744	Hill Climb Racing 2	GAME	4.60	2750410.00	110.00	100000000.00	Free	0.00	Everyone	Racing	2018-08-02	1.17.2	4.2 and up	2
+545	Hily: Dating, Chat, Match, Meet & Hook up	DATING	4.10	2556.00	56.00	100000.00	Free	0.00	Mature 17+	Dating	2018-08-01	2.5.2	4.1 and up	2
+486	Hily: Dating, Chat, Match, Meet & Hook up	DATING	4.10	2556.00	56.00	100000.00	Free	0.00	Mature 17+	Dating	2018-08-01	2.5.2	4.1 and up	3
+546	Hinge: Dating & Relationships	DATING	4.20	7779.00	12.00	500000.00	Free	0.00	Mature 17+	Dating	2018-08-03	6.1.3	5.0 and up	2
+245	HipChat - Chat Built for Teams	BUSINESS	3.80	5868.00	20.00	500000.00	Free	0.00	Everyone	Business	2018-07-03	3.19.005	4.1 and up	2
+917	HISTORY: Watch TV Show Full Episodes & Specials	ENTERTAINMENT	4.10	33387.00	20.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	2
+971	HISTORY: Watch TV Show Full Episodes & Specials	ENTERTAINMENT	4.10	33387.00	20.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	3
+3038	Hole19: Golf GPS App, Rangefinder & Scorecard	SPORTS	4.40	6106.00	110.00	100000.00	Free	0.00	Everyone	Sports	2018-08-01	Varies with device	Varies with device	2
+1475	Home Security Camera WardenCam - reuse old phones	HOUSE_AND_HOME	4.30	43800.00	110.00	1000000.00	Free	0.00	Everyone	House & Home	2018-07-06	Varies with device	Varies with device	2
+9976	Home Workout - No Equipment	HEALTH_AND_FITNESS	4.80	432160.00	15.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-06-28	Varies with device	Varies with device	2
+1889	Homescapes	GAME	4.60	3093932.00	110.00	10000000.00	Free	0.00	Everyone	Casual	2018-07-13	1.8.0.900	4.0.3 and up	2
+1866	Honkai Impact 3rd	GAME	4.70	59017.00	82.00	1000000.00	Free	0.00	Teen	Action	2018-07-03	2.2.1	4.3 and up	2
+3105	Hopper - Watch & Book Flights	TRAVEL_AND_LOCAL	4.40	52029.00	110.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-06-29	Varies with device	5.0 and up	2
+2298	Hospitalist Handbook	MEDICAL	4.80	12.00	18.00	1000.00	Paid	19.99	Everyone	Medical	2017-06-05	6.0.4	4.1 and up	2
+3214	Hostelworld: Hostels & Cheap Hotels Travel App	TRAVEL_AND_LOCAL	4.40	17878.00	28.00	1000000.00	Free	0.00	Everyone	Travel & Local	2018-07-16	6.7.1	4.1 and up	2
+492	Hot or Not - Find someone right now	DATING	4.10	305708.00	110.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-08-02	Varies with device	Varies with device	2
+554	Hot or Not - Find someone right now	DATING	4.10	305708.00	110.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-08-02	Varies with device	Varies with device	3
+2094	Hot Wheels: Race Off	FAMILY	4.50	520654.00	110.00	10000000.00	Free	0.00	Everyone	Racing;Action & Adventure	2018-06-28	Varies with device	4.4 and up	2
+3112	Hotels.com: Book Hotel Rooms & Find Vacation Deals	TRAVEL_AND_LOCAL	4.50	260121.00	110.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-07-04	Varies with device	Varies with device	2
+3213	HotelTonight: Book amazing deals at great hotels	TRAVEL_AND_LOCAL	4.40	57573.00	110.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	2
+3223	HotelTonight: Book amazing deals at great hotels	TRAVEL_AND_LOCAL	4.40	57573.00	110.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	3
+1497	Houzz Interior Design Ideas	HOUSE_AND_HOME	4.60	353800.00	110.00	10000000.00	Free	0.00	Everyone	House & Home	2018-08-01	Varies with device	Varies with device	2
+1513	Houzz Interior Design Ideas	HOUSE_AND_HOME	4.60	353813.00	110.00	10000000.00	Free	0.00	Everyone	House & Home	2018-08-01	Varies with device	Varies with device	3
+1457	Houzz Interior Design Ideas	HOUSE_AND_HOME	4.60	353799.00	110.00	10000000.00	Free	0.00	Everyone	House & Home	2018-08-01	Varies with device	Varies with device	4
+669	Howlr	DATING	3.90	105.00	27.00	5000.00	Free	0.00	Mature 17+	Dating	2018-06-19	1.0.4	4.4 and up	2
+924	Hulu: Stream TV, Movies & more	ENTERTAINMENT	4.00	319692.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-08-03	Varies with device	5.0 and up	2
+966	Hulu: Stream TV, Movies & more	ENTERTAINMENT	4.00	319691.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-08-03	Varies with device	5.0 and up	3
+8030	Hulu: Stream TV, Movies & more	FAMILY	4.00	319777.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-08-03	Varies with device	5.0 and up	4
+2373	Human Anatomy Atlas 2018: Complete 3D Human Body	MEDICAL	4.50	2921.00	25.00	100000.00	Paid	24.99	Everyone	Medical	2018-05-25	2018.5.47	5.0 and up	2
+2252	Human Anatomy Atlas 2018: Complete 3D Human Body	MEDICAL	4.50	2921.00	25.00	100000.00	Paid	24.99	Everyone	Medical	2018-05-25	2018.5.47	5.0 and up	3
+1759	Hungry Shark Evolution	GAME	4.50	6074334.00	100.00	100000000.00	Free	0.00	Teen	Arcade	2018-07-25	6.0.0	4.1 and up	2
+1989	Hungry Shark Evolution	GAME	4.50	6074627.00	100.00	100000000.00	Free	0.00	Teen	Arcade	2018-07-25	6.0.0	4.1 and up	3
+6580	Hungry Shark World	GAME	4.50	1243017.00	27.00	50000000.00	Free	0.00	Teen	Action	2018-07-18	3.0.0	4.2 and up	2
+1351	Iâ€™m Expecting - Pregnancy App	HEALTH_AND_FITNESS	4.60	71269.00	49.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-03-30	2.3.2	4.0.3 and up	2
+2419	IBM Micromedex Drug Info	MEDICAL	3.80	206.00	9.50	10000.00	Paid	2.99	Everyone	Medical	2018-04-25	1.17.0	4.0 and up	2
+2756	Ibotta: Cash Back Savings, Rewards & Coupons App	SHOPPING	4.50	315908.00	52.00	10000000.00	Free	0.00	Everyone	Shopping	2018-08-01	5.21.1	4.1 and up	2
+6585	iBP Blood Pressure	MEDICAL	4.40	578.00	0.70	10000.00	Paid	0.99	Everyone	Medical	2014-11-30	7.0.1	2.2 and up	2
+1864	Idle Heroes	GAME	4.70	416540.00	99.00	10000000.00	Free	0.00	Everyone 10+	Role Playing	2018-05-30	1.14.0	2.3 and up	2
+904	IMDb Movies & TV	ENTERTAINMENT	4.20	501497.00	12.00	100000000.00	Free	0.00	Teen	Entertainment	2018-07-26	Varies with device	Varies with device	2
+889	IMDb Movies & TV	ENTERTAINMENT	4.20	501498.00	12.00	100000000.00	Free	0.00	Teen	Entertainment	2018-07-26	Varies with device	Varies with device	3
+347	imo beta free calls and text	COMMUNICATION	4.30	659395.00	11.00	100000000.00	Free	0.00	Everyone	Communication	2018-06-07	9.8.000000010492	4.0 and up	2
+384	imo free video calls and chat	COMMUNICATION	4.30	4785988.00	11.00	500000000.00	Free	0.00	Everyone	Communication	2018-06-08	9.8.000000010501	4.0 and up	2
+466	imo free video calls and chat	COMMUNICATION	4.30	4785988.00	11.00	500000000.00	Free	0.00	Everyone	Communication	2018-06-08	9.8.000000010501	4.0 and up	3
+4223	imo free video calls and chat	COMMUNICATION	4.30	4785892.00	11.00	500000000.00	Free	0.00	Everyone	Communication	2018-06-08	9.8.000000010501	4.0 and up	4
+2230	Inside Out Thought Bubbles	FAMILY	4.40	623398.00	58.00	10000000.00	Free	0.00	Everyone	Puzzle;Brain Games	2017-08-31	1.22.0	4.0.3 and up	2
+272	Insightly CRM	BUSINESS	3.80	1383.00	51.00	100000.00	Free	0.00	Everyone	Business	2018-07-12	3.24.1	5.0 and up	2
+2859	InstaBeauty -Makeup Selfie Cam	PHOTOGRAPHY	4.30	654418.00	110.00	50000000.00	Free	0.00	Everyone	Photography	2018-02-01	Varies with device	4.0.3 and up	2
+2605	Instagram	SOCIAL	4.50	66577446.00	110.00	1000000000.00	Free	0.00	Teen	Social	2018-07-31	Varies with device	Varies with device	2
+2612	Instagram	SOCIAL	4.50	66577313.00	110.00	1000000000.00	Free	0.00	Teen	Social	2018-07-31	Varies with device	Varies with device	3
+3910	Instagram	SOCIAL	4.50	66509917.00	110.00	1000000000.00	Free	0.00	Teen	Social	2018-07-31	Varies with device	Varies with device	4
+2942	InstaSize Photo Filters & Collage Editor	PHOTOGRAPHY	4.30	811714.00	50.00	50000000.00	Free	0.00	Everyone	Photography	2018-08-02	4.0.26	4.4 and up	2
+253	Invoice & Time Tracking - Zoho	BUSINESS	4.60	5800.00	8.60	100000.00	Free	0.00	Everyone	Business	2018-08-02	5.20.7	4.1 and up	2
+284	Invoice 2go â€” Professional Invoices and Estimates	BUSINESS	4.20	16422.00	28.00	1000000.00	Free	0.00	Everyone	Business	2018-08-01	10.46.2	4.1 and up	2
+696	iPair-Meet, Chat, Dating	DATING	4.50	182986.00	77.00	5000000.00	Free	0.00	Mature 17+	Dating	2018-08-02	5.0.8	4.1 and up	2
+2779	JackThreads: Men's Shopping	SHOPPING	4.00	13085.00	2.70	1000000.00	Free	0.00	Teen	Shopping	2017-11-08	5.1	4.0.3 and up	2
+2790	JackThreads: Men's Shopping	SHOPPING	4.00	13085.00	2.70	1000000.00	Free	0.00	Teen	Shopping	2017-11-08	5.1	4.0.3 and up	3
+2633	Jaumo Dating, Flirt & Live Video	SOCIAL	4.40	900064.00	13.00	10000000.00	Free	0.00	Mature 17+	Social	2018-07-31	4.17.2	4.1 and up	2
+4250	Jetpack Joyride	GAME	4.40	4637439.00	96.00	100000000.00	Free	0.00	Everyone 10+	Arcade	2018-07-19	1.10.12	4.1 and up	2
+1901	Jewels Star: OZ adventure	GAME	4.50	21892.00	14.00	1000000.00	Free	0.00	Everyone	Puzzle	2017-12-29	1.3	4.0 and up	2
+2513	JH Blood Pressure Monitor	MEDICAL	3.70	9.00	2.90	500.00	Free	0.00	Everyone	Medical	2018-07-21	1.1	4.0.3 and up	2
+1602	JOANN - Crafts & Coupons	LIFESTYLE	4.60	34782.00	12.00	1000000.00	Free	0.00	Everyone	Lifestyle	2018-06-22	5.2.2	4.3 and up	2
+254	join.me - Simple Meetings	BUSINESS	4.00	6989.00	110.00	1000000.00	Free	0.00	Everyone	Business	2018-07-16	4.3.0.508	4.4 and up	2
+262	join.me - Simple Meetings	BUSINESS	4.00	6989.00	110.00	1000000.00	Free	0.00	Everyone	Business	2018-07-16	4.3.0.508	4.4 and up	3
+2248	Journal Club: Medicine	MEDICAL	4.80	216.00	110.00	10000.00	Paid	6.99	Everyone	Medical	2017-06-17	Varies with device	Varies with device	2
+1853	Jurassic Worldâ„¢ Alive	GAME	4.30	309176.00	70.00	5000000.00	Free	0.00	Everyone 10+	Simulation	2018-08-02	1.3.15	4.4 and up	2
+519	Just She - Top Lesbian Dating	DATING	1.90	953.00	19.00	100000.00	Free	0.00	Mature 17+	Dating	2018-07-18	6.3.7	5.0 and up	2
+555	Just She - Top Lesbian Dating	DATING	1.90	953.00	19.00	100000.00	Free	0.00	Mature 17+	Dating	2018-07-18	6.3.7	5.0 and up	3
+1049	K PLUS	FINANCE	4.40	124424.00	110.00	10000000.00	Free	0.00	Everyone	Finance	2018-06-26	4.6.0	4.2 and up	2
+476	KakaoTalk: Free Calls & Text	COMMUNICATION	4.30	2546527.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	2
+408	KakaoTalk: Free Calls & Text	COMMUNICATION	4.30	2546527.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	3
+3188	KAYAK Flights, Hotels & Cars	TRAVEL_AND_LOCAL	4.50	216388.00	19.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	2
+3206	KAYAK Flights, Hotels & Cars	TRAVEL_AND_LOCAL	4.50	216388.00	19.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	3
+783	Khan Academy	EDUCATION	4.60	85375.00	21.00	5000000.00	Free	0.00	Everyone	Education	2018-07-27	5.0.0	4.1 and up	2
+703	Khan Academy	EDUCATION	4.60	85375.00	21.00	5000000.00	Free	0.00	Everyone	Education	2018-07-27	5.0.0	4.1 and up	3
+1672	Kick the Buddy	GAME	4.30	1000417.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-05	Varies with device	4.4 and up	2
+1761	Kick the Buddy	GAME	4.30	1000417.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-05	Varies with device	4.4 and up	3
+1930	Kick the Buddy	GAME	4.30	1003269.00	110.00	50000000.00	Free	0.00	Teen	Action	2018-07-05	Varies with device	4.4 and up	4
+2181	Kids Balloon Pop Game Free ðŸŽˆ	FAMILY	4.10	38021.00	19.00	10000000.00	Free	0.00	Everyone	Casual;Music & Video	2018-07-06	18.2	4.0.3 and up	2
+1746	Knife Hit	GAME	4.50	461137.00	60.00	10000000.00	Free	0.00	Everyone	Arcade	2018-05-22	1.7.2	4.0.3 and up	2
+1400	Lark - 24/7 Health Coach	HEALTH_AND_FITNESS	4.10	3405.00	51.00	100000.00	Free	0.00	Everyone	Health & Fitness	2018-07-25	4.5.1.123	4.4 and up	2
+1801	Last Day on Earth: Survival	GAME	4.50	2311785.00	87.00	10000000.00	Free	0.00	Teen	Action	2018-08-01	1.9.3	4.1 and up	2
+801	Learn 50 languages	EDUCATION	4.40	55256.00	14.00	5000000.00	Free	0.00	Everyone	Education	2018-06-19	10.9.1	4.0 and up	2
+4000	Learn C++	FAMILY	4.60	73404.00	5.30	1000000.00	Free	0.00	Everyone	Education	2017-12-25	4.5.2	4.0 and up	2
+808	Learn English with Wlingua	EDUCATION	4.70	314300.00	3.30	10000000.00	Free	0.00	Everyone	Education	2018-05-02	1.94.9	4.0 and up	2
+794	Learn languages, grammar & vocabulary with Memrise	EDUCATION	4.70	1107884.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-02	Varies with device	Varies with device	2
+807	Learn languages, grammar & vocabulary with Memrise	EDUCATION	4.70	1107903.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-02	Varies with device	Varies with device	3
+833	Learn languages, grammar & vocabulary with Memrise	EDUCATION	4.70	1107948.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-02	Varies with device	Varies with device	4
+3903	LEGOÂ® Juniors Create & Cruise	FAMILY	4.10	672089.00	73.00	50000000.00	Free	0.00	Everyone	Educational;Action & Adventure	2018-01-19	6.7.5222	4.1 and up	2
+7607	LEGOÂ® TV	FAMILY	3.70	17250.00	7.20	1000000.00	Free	0.00	Everyone 10+	Entertainment;Music & Video	2018-08-04	4.0.2	5.0 and up	2
+4323	letgo: Buy & Sell Used Stuff, Cars & Real Estate	SHOPPING	4.50	972256.00	20.00	50000000.00	Free	0.00	Teen	Shopping	2018-08-02	2.4.8	4.1 and up	2
+928	Lifetime - Watch Full Episodes & Original Movies	ENTERTAINMENT	4.00	35928.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	2
+982	Lifetime - Watch Full Episodes & Original Movies	ENTERTAINMENT	4.00	35931.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-16	3.1.4	4.4 and up	3
+8308	LINE Camera - Photo editor	PHOTOGRAPHY	4.30	1517395.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-03-06	Varies with device	Varies with device	2
+4725	LINE WEBTOON - Free Comics	COMICS	4.50	1013944.00	110.00	10000000.00	Free	0.00	Teen	Comics	2018-07-31	Varies with device	Varies with device	2
+475	LINE: Free Calls & Messages	COMMUNICATION	4.20	10790289.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-26	Varies with device	Varies with device	2
+4123	LINE: Free Calls & Messages	COMMUNICATION	4.20	10790092.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-26	Varies with device	Varies with device	3
+2622	LinkedIn	SOCIAL	4.20	1225367.00	110.00	100000000.00	Free	0.00	Everyone	Social	2018-08-02	4.1.202	5.0 and up	2
+686	Live Girls Talk - Free Video Chat	DATING	4.80	125.00	4.70	5000.00	Free	0.00	Mature 17+	Dating	2018-07-08	8.2	4.0.3 and up	2
+608	Live Talk - Free Text and Video Chat	DATING	4.60	185.00	5.00	10000.00	Free	0.00	Mature 17+	Dating	2018-07-16	8.2	4.0.3 and up	2
+2566	LiveMe - Video chat, new friends, and make money	SOCIAL	4.50	457197.00	110.00	10000000.00	Free	0.00	Teen	Social	2018-08-03	Varies with device	Varies with device	2
+2780	LivingSocial - Local Deals	SHOPPING	4.10	28523.00	29.00	5000000.00	Free	0.00	Everyone	Shopping	2018-08-03	18.10.157066	4.4 and up	2
+2729	LivingSocial - Local Deals	SHOPPING	4.10	28523.00	29.00	5000000.00	Free	0.00	Everyone	Shopping	2018-08-03	18.10.157066	4.4 and up	3
+1391	Lose It! - Calorie Counter	HEALTH_AND_FITNESS	4.40	69395.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-08-03	Varies with device	Varies with device	2
+1423	Lose It! - Calorie Counter	HEALTH_AND_FITNESS	4.40	69395.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-08-03	Varies with device	Varies with device	3
+1754	Love Balls	GAME	4.20	360630.00	40.00	50000000.00	Free	0.00	Everyone	Puzzle	2018-07-31	1.2.7	4.1 and up	2
+2646	LOVOO	SOCIAL	4.00	852455.00	68.00	10000000.00	Free	0.00	Mature 17+	Social	2018-08-03	27.0	4.2 and up	2
+747	Lumosity: #1 Brain Games & Cognitive Training App	EDUCATION	4.20	215301.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-01	Varies with device	Varies with device	2
+793	Lynda - Online Training Videos	EDUCATION	4.20	8599.00	17.00	1000000.00	Free	0.00	Everyone	Education	2018-07-11	4.9.10	4.1 and up	2
+1900	Magic Tiles 3	GAME	4.50	592504.00	110.00	50000000.00	Free	0.00	Everyone	Music	2018-08-03	5.13.007	4.1 and up	2
+2001	Magic Tiles 3	GAME	4.50	592504.00	110.00	50000000.00	Free	0.00	Everyone	Music	2018-08-03	5.13.007	4.1 and up	3
+1677	Magic Tiles 3	GAME	4.50	592068.00	110.00	50000000.00	Free	0.00	Everyone	Music	2018-08-03	5.13.007	4.1 and up	4
+247	MailChimp - Email, Marketing Automation	BUSINESS	4.10	5448.00	12.00	500000.00	Free	0.00	Everyone	Business	2018-07-25	4.9.1	5.0 and up	2
+5906	Manga AZ - Manga Comic Reader	COMICS	3.30	126.00	4.70	5000.00	Free	0.00	Teen	Comics	2018-07-24	1.0.4	4.0.3 and up	2
+804	Mango Languages: Lovable Language Courses	EDUCATION	4.00	4815.00	19.00	500000.00	Free	0.00	Everyone	Education	2018-07-17	4.2.3	4.2 and up	2
+6883	Maps & GPS Navigation â€” OsmAnd	MAPS_AND_NAVIGATION	4.20	60820.00	110.00	5000000.00	Free	0.00	Everyone	Maps & Navigation	2018-08-01	Varies with device	Varies with device	2
+3118	Maps - Navigate & Explore	TRAVEL_AND_LOCAL	4.30	9235155.00	110.00	1000000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	2
+3224	Maps - Navigate & Explore	TRAVEL_AND_LOCAL	4.30	9235373.00	110.00	1000000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	3
+3827	Mapy.cz - Cycling & Hiking offline maps	MAPS_AND_NAVIGATION	4.50	56443.00	43.00	1000000.00	Free	0.00	Everyone	Maps & Navigation	2018-06-26	6.2.0	4.1 and up	2
+5148	Maricopa AH	MEDICAL		0.00	29.00	100.00	Free	0.00	Everyone	Medical	2018-07-16	300000.1.11	4.0.3 and up	2
+1852	MARVEL Contest of Champions	GAME	4.30	2468063.00	92.00	50000000.00	Free	0.00	Teen	Action	2018-07-30	19.1.0	4.0.3 and up	2
+1850	MARVEL Strike Force	GAME	4.30	165928.00	91.00	5000000.00	Free	0.00	Teen	Role Playing	2018-07-31	1.4.0	4.4 and up	2
+1802	MARVEL Strike Force	GAME	4.30	165888.00	91.00	5000000.00	Free	0.00	Teen	Role Playing	2018-07-31	1.4.0	4.4 and up	3
+2149	Masha and the Bear Child Games	FAMILY	4.10	288523.00	92.00	10000000.00	Free	0.00	Everyone	Adventure;Education	2018-05-08	2.7.4	4.0 and up	2
+1177	McDonald's	FOOD_AND_DRINK	3.60	145323.00	42.00	10000000.00	Free	0.00	Everyone	Food & Drink	2018-07-31	5.15.0	4.4 and up	2
+2112	Mcqueen Coloring pages	FAMILY		65.00	7.00	100000.00	Free	0.00	Everyone	Art & Design;Action & Adventure	2018-03-07	1.0.0	4.1 and up	2
+1401	MealLogger-Photo Food Journal	HEALTH_AND_FITNESS	3.50	217.00	9.40	50000.00	Free	0.00	Teen	Health & Fitness	2017-08-23	4.6.2	4.0.3 and up	2
+2251	Medical ID - In Case of Emergency (ICE)	MEDICAL	4.60	717.00	5.40	5000.00	Paid	5.99	Everyone	Medical	2018-05-31	6.5.0	5.0 and up	2
+1431	Meditation Music - Relax, Yoga	HEALTH_AND_FITNESS	4.60	48226.00	28.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-03-05	3.1.9	4.0.3 and up	2
+536	Meet24 - Love, Chat, Singles	DATING	4.20	57081.00	7.90	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-27	1.31.3	4.0.3 and up	2
+597	Meet4U - Chat, Love, Singles!	DATING	4.20	40039.00	6.50	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-27	1.31.3	4.0.3 and up	2
+2631	MeetMe: Chat & Meet New People	SOCIAL	4.20	1259894.00	76.00	50000000.00	Free	0.00	Mature 17+	Social	2018-08-03	Varies with device	4.1 and up	2
+2618	MeetMe: Chat & Meet New People	SOCIAL	4.20	1259894.00	76.00	50000000.00	Free	0.00	Mature 17+	Social	2018-08-03	Varies with device	4.1 and up	3
+2644	MeetMe: Chat & Meet New People	SOCIAL	4.20	1259894.00	76.00	50000000.00	Free	0.00	Mature 17+	Social	2018-08-03	Varies with device	4.1 and up	4
+6294	MeetMe: Chat & Meet New People	SOCIAL	4.20	1259723.00	76.00	50000000.00	Free	0.00	Mature 17+	Social	2018-08-03	Varies with device	4.1 and up	5
+2654	Meetup	SOCIAL	4.20	79130.00	23.00	5000000.00	Free	0.00	Teen	Social	2018-08-02	3.10.26	4.4 and up	2
+2635	Meetup	SOCIAL	4.20	79129.00	23.00	5000000.00	Free	0.00	Teen	Social	2018-08-02	3.10.26	4.4 and up	3
+2586	Meetup	SOCIAL	4.20	79129.00	23.00	5000000.00	Free	0.00	Teen	Social	2018-08-02	3.10.26	4.4 and up	4
+3496	MEGA	PRODUCTIVITY	4.00	549973.00	110.00	50000000.00	Free	0.00	Everyone	Productivity	2018-07-04	Varies with device	Varies with device	2
+1856	Merge Dragons!	GAME	4.50	214819.00	91.00	5000000.00	Free	0.00	Everyone	Puzzle	2018-07-30	3.6.0	4.1 and up	2
+10171	Messages, Text and Video Chat for Messenger	SOCIAL	4.40	49580.00	4.00	10000000.00	Free	0.00	Everyone	Social	2018-06-04	1.24	4.1 and up	2
+383	Messenger â€“ Text and Video Chat for Free	COMMUNICATION	4.00	56646578.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-01	Varies with device	Varies with device	2
+336	Messenger â€“ Text and Video Chat for Free	COMMUNICATION	4.00	56642847.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-01	Varies with device	Varies with device	3
+340	Messenger Lite: Free Calls & Messages	COMMUNICATION	4.40	1429035.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-25	37.0.0.7.163	2.3 and up	2
+8188	Metal Soldiers 2	GAME	4.40	153649.00	110.00	10000000.00	Free	0.00	Teen	Action	2018-06-18	1.11.2	4.1 and up	2
+381	Microsoft Edge	COMMUNICATION	4.30	27187.00	66.00	5000000.00	Free	0.00	Everyone	Communication	2018-07-28	42.0.0.2059	4.4 and up	2
+3528	Microsoft Excel	PRODUCTIVITY	4.50	1079616.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-07-14	16.0.10325.20059	4.4 and up	2
+3568	Microsoft OneDrive	PRODUCTIVITY	4.40	1038303.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-01	Varies with device	Varies with device	2
+3533	Microsoft OneNote	PRODUCTIVITY	4.40	480640.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-07-22	16.0.10325.20024	4.4 and up	2
+3466	Microsoft OneNote	PRODUCTIVITY	4.40	480643.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-07-22	16.0.10325.20024	4.4 and up	3
+4088	Microsoft Outlook	PRODUCTIVITY	4.30	3249518.00	50.00	100000000.00	Free	0.00	Everyone	Productivity	2018-08-02	2.2.194	4.4 and up	2
+3487	Microsoft PowerPoint	PRODUCTIVITY	4.50	618798.00	110.00	100000000.00	Free	0.00	Everyone	Productivity	2018-07-11	16.0.10325.20043	4.4 and up	2
+3451	Microsoft Word	PRODUCTIVITY	4.50	2084126.00	110.00	500000000.00	Free	0.00	Everyone	Productivity	2018-07-11	16.0.10325.20043	4.4 and up	2
+3935	Microsoft Word	PRODUCTIVITY	4.50	2078744.00	110.00	500000000.00	Free	0.00	Everyone	Productivity	2018-07-11	16.0.10325.20043	4.4 and up	3
+567	Millionaire Match: Rich Singles Dating App	DATING	3.90	853.00	27.00	100000.00	Free	0.00	Mature 17+	Dating	2018-07-30	6.4.6	4.1 and up	2
+2242	Minecraft	FAMILY	4.50	2376564.00	110.00	10000000.00	Paid	6.99	Everyone 10+	Arcade;Action & Adventure	2018-07-24	1.5.2.1	Varies with device	2
+2051	Minion Rush: Despicable Me Official Game	FAMILY	4.50	10216997.00	110.00	100000000.00	Free	0.00	Everyone 10+	Casual;Action & Adventure	2018-07-12	Varies with device	Varies with device	2
+4037	Minion Rush: Despicable Me Official Game	FAMILY	4.50	10214862.00	110.00	100000000.00	Free	0.00	Everyone 10+	Casual;Action & Adventure	2018-07-12	Varies with device	Varies with device	3
+1695	Minion Rush: Despicable Me Official Game	GAME	4.50	10216538.00	110.00	100000000.00	Free	0.00	Everyone 10+	Casual;Action & Adventure	2018-07-12	Varies with device	Varies with device	4
+1118	Mint: Budget, Bills, Finance	FINANCE	4.30	129304.00	110.00	5000000.00	Free	0.00	Everyone	Finance	2018-08-02	Varies with device	Varies with device	2
+1150	Mint: Budget, Bills, Finance	FINANCE	4.30	129304.00	110.00	5000000.00	Free	0.00	Everyone	Finance	2018-08-02	Varies with device	Varies with device	3
+1714	Miraculous Ladybug & Cat Noir - The Official Game	GAME	4.50	183846.00	99.00	10000000.00	Free	0.00	Everyone	Action	2018-07-30	1.0.6	4.4 and up	2
+1929	Miraculous Ladybug & Cat Noir - The Official Game	GAME	4.50	184210.00	99.00	10000000.00	Free	0.00	Everyone	Action	2018-07-30	1.0.6	4.4 and up	3
+3020	MLB At Bat	SPORTS	4.20	82882.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-07-30	Varies with device	Varies with device	2
+3063	MLB At Bat	SPORTS	4.20	82883.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-07-30	Varies with device	Varies with device	3
+3082	MLB At Bat	SPORTS	4.20	82883.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-07-30	Varies with device	Varies with device	4
+5621	MLB At Bat	SPORTS	4.20	82857.00	110.00	5000000.00	Free	0.00	Everyone	Sports	2018-07-30	Varies with device	Varies with device	5
+3006	MLB Ballpark	SPORTS	3.90	5510.00	32.00	1000000.00	Free	0.00	Everyone	Sports	2018-07-16	7.3.0	4.2 and up	2
+3303	Mobi Calculator free & AD free!	TOOLS	4.60	77311.00	110.00	5000000.00	Free	0.00	Everyone	Tools	2018-01-09	Varies with device	Varies with device	2
+290	Mobile Doc Scanner (MDScan) Lite	BUSINESS	4.20	46505.00	19.00	1000000.00	Free	0.00	Everyone	Business	2018-08-02	3.4.49	4.1 and up	2
+552	Moco - Chat, Meet People	DATING	4.20	313724.00	110.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-08-04	2.6.141	4.1 and up	2
+6287	Moco - Chat, Meet People	DATING	4.20	313769.00	110.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-08-04	2.6.142	4.1 and up	3
+477	Moco+ - Chat, Meet People	DATING	4.20	1545.00	110.00	10000.00	Paid	3.99	Mature 17+	Dating	2018-06-19	2.6.139	4.1 and up	2
+2742	Modcloth â€“ Unique Indie Women's Fashion & Style	SHOPPING	4.20	5121.00	8.80	500000.00	Free	0.00	Everyone	Shopping	2018-07-13	9.0.30	4.1 and up	2
+2367	Monash Uni Low FODMAP Diet	MEDICAL	4.20	1135.00	12.00	100000.00	Paid	9.00	Everyone	Medical	2018-07-16	2.0.7	4.0 and up	2
+1149	Money Lover: Expense Tracker, Budget Planner	FINANCE	4.40	126447.00	110.00	1000000.00	Free	0.00	Everyone	Finance	2018-08-01	Varies with device	Varies with device	2
+1147	Moneycontrol â€“ Stocks, Sensex, Mutual Funds, IPO	FINANCE	4.40	281485.00	110.00	5000000.00	Free	0.00	Everyone	Finance	2018-05-11	Varies with device	Varies with device	2
+2215	Monster Highâ„¢	FAMILY	4.10	66660.00	22.00	5000000.00	Free	0.00	Everyone	Casual;Pretend Play	2018-02-02	5.2	4.1 and up	2
+2114	Monster Truck Driver & Racing	FAMILY	4.40	765.00	51.00	1000000.00	Free	0.00	Everyone	Education;Action & Adventure	2017-01-19	1.0.9	2.3 and up	2
+2495	MoodSpace	MEDICAL	4.50	503.00	22.00	50000.00	Free	0.00	Everyone	Medical	2018-06-10	3.2.4	5.0 and up	2
+3866	Moovit: Bus Time & Train Time Live Info	MAPS_AND_NAVIGATION	4.40	617477.00	110.00	10000000.00	Free	0.00	Everyone	Maps & Navigation	2018-08-05	Varies with device	Varies with device	2
+1503	Mortgage by Zillow: Calculator & Rates	HOUSE_AND_HOME	4.30	4435.00	7.90	500000.00	Free	0.00	Everyone	House & Home	2016-03-02	2.6.0.287	4.0 and up	2
+3234	Moto File Manager	TOOLS	4.10	38655.00	5.90	10000000.00	Free	0.00	Everyone	Tools	2018-02-01	v3.7.93	5.0 and up	2
+3671	Motorola FM Radio	VIDEO_PLAYERS	3.90	54807.00	110.00	100000000.00	Free	0.00	Everyone	Video Players & Editors	2018-05-02	Varies with device	Varies with device	2
+679	MouseMingle	DATING	2.70	3.00	3.90	100.00	Free	0.00	Mature 17+	Dating	2018-07-17	1.0.0	4.4 and up	2
+884	Movies by Flixster, with Rotten Tomatoes	ENTERTAINMENT	4.50	653008.00	16.00	10000000.00	Free	0.00	Everyone	Entertainment	2018-06-20	9.1.4	4.4 and up	2
+899	Movies by Flixster, with Rotten Tomatoes	ENTERTAINMENT	4.50	653008.00	16.00	10000000.00	Free	0.00	Everyone	Entertainment	2018-06-20	9.1.4	4.4 and up	3
+950	MTV	ENTERTAINMENT	3.80	35279.00	15.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-08	11.45.0	4.4 and up	2
+2408	Muscle Premium - Human Anatomy, Kinesiology, Bones	MEDICAL	4.20	168.00	25.00	10000.00	Paid	24.99	Everyone	Medical	2017-08-11	7.1.17	4.4 and up	2
+526	muzmatch: Muslim & Arab Singles, Marriage & Dating	DATING	3.80	5164.00	25.00	100000.00	Free	0.00	Mature 17+	Dating	2018-07-24	3.8.75a	4.0.3 and up	2
+674	muzmatch: Muslim & Arab Singles, Marriage & Dating	DATING	3.80	5168.00	25.00	100000.00	Free	0.00	Mature 17+	Dating	2018-07-24	3.8.75a	4.0.3 and up	3
+2886	Muzy - Share photos & collages	PHOTOGRAPHY	4.40	70189.00	13.00	5000000.00	Free	0.00	Teen	Photography	2015-08-11	4.0.10	4.0 and up	2
+3712	MX Player	VIDEO_PLAYERS	4.50	6474672.00	110.00	500000000.00	Free	0.00	Everyone	Video Players & Editors	2018-08-06	Varies with device	Varies with device	2
+4366	MX Player	VIDEO_PLAYERS	4.50	6469179.00	110.00	500000000.00	Free	0.00	Everyone	Video Players & Editors	2018-08-01	Varies with device	Varies with device	3
+810	My Class Schedule: Timetable	EDUCATION	4.10	9348.00	110.00	1000000.00	Free	0.00	Everyone	Education	2016-06-01	Varies with device	Varies with device	2
+1396	My Diet Diary Calorie Counter	HEALTH_AND_FITNESS	4.10	18539.00	57.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-30	1.11.4	4.0.3 and up	2
+1630	My Dressing - Fashion closet	LIFESTYLE	4.10	12452.00	110.00	500000.00	Free	0.00	Everyone	Lifestyle	2017-01-26	Varies with device	Varies with device	2
+2232	My Little Pony Celebration	FAMILY	4.30	63160.00	17.00	1000000.00	Free	0.00	Everyone	Simulation;Pretend Play	2016-07-22	1.0.0	2.3 and up	2
+9362	My Little Pony: Harmony Quest	FAMILY	4.10	148405.00	26.00	10000000.00	Free	0.00	Everyone	Casual;Action & Adventure	2018-03-05	1.6	4.1 and up	2
+1711	My Talking Angela	GAME	4.50	9881908.00	99.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-03	3.7.2.51	4.1 and up	2
+1698	My Talking Angela	GAME	4.50	9881829.00	99.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-03	3.7.2.51	4.1 and up	3
+1891	My Talking Angela	GAME	4.50	9883367.00	99.00	100000000.00	Free	0.00	Everyone	Casual	2018-07-03	3.7.2.51	4.1 and up	4
+1909	My Talking Tom	GAME	4.50	14892469.00	110.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-19	4.8.0.132	4.1 and up	2
+1723	My Talking Tom	GAME	4.50	14891223.00	110.00	500000000.00	Free	0.00	Everyone	Casual	2018-07-19	4.8.0.132	4.1 and up	3
+3493	myAT&T	PRODUCTIVITY	3.70	80847.00	110.00	50000000.00	Free	0.00	Everyone	Productivity	2018-07-18	Varies with device	5.0 and up	2
+1395	MyPlate Calorie Tracker	HEALTH_AND_FITNESS	4.60	24094.00	18.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-09	3.3.0(1)	4.1 and up	2
+2368	mySugr: the blood sugar tracker made just for you	MEDICAL	4.60	21189.00	36.00	1000000.00	Free	0.00	Everyone	Medical	2018-08-06	3.52.1	5.0 and up	2
+3789	NBC News	NEWS_AND_MAGAZINES	4.10	63020.00	110.00	5000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-02-13	Varies with device	Varies with device	2
+856	Netflix	ENTERTAINMENT	4.40	5456208.00	110.00	100000000.00	Free	0.00	Teen	Entertainment	2018-07-31	Varies with device	Varies with device	2
+932	Netflix	ENTERTAINMENT	4.40	5456599.00	110.00	100000000.00	Free	0.00	Teen	Entertainment	2018-07-31	Varies with device	Varies with device	3
+905	Netflix	ENTERTAINMENT	4.40	5456208.00	110.00	100000000.00	Free	0.00	Teen	Entertainment	2018-07-31	Varies with device	Varies with device	4
+3890	Netflix	FAMILY	4.40	5453997.00	110.00	100000000.00	Free	0.00	Teen	Entertainment	2018-07-31	Varies with device	Varies with device	5
+2792	Newegg Mobile	SHOPPING	4.50	35497.00	16.00	1000000.00	Free	0.00	Everyone	Shopping	2018-07-11	4.16.0	4.4 and up	2
+3816	Newsroom: News Worth Sharing	NEWS_AND_MAGAZINES	4.20	201737.00	110.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-07-03	Varies with device	Varies with device	2
+2629	Nextdoor - Local neighborhood news & classifieds	SOCIAL	4.30	51504.00	20.00	5000000.00	Free	0.00	Teen	Social	2018-07-25	2.69	5.0 and up	2
+3012	NFL	SPORTS	4.10	459795.00	110.00	50000000.00	Free	0.00	Everyone	Sports	2018-08-02	Varies with device	Varies with device	2
+2964	NFL	SPORTS	4.10	459795.00	110.00	50000000.00	Free	0.00	Everyone	Sports	2018-08-02	Varies with device	Varies with device	3
+938	Nick	ENTERTAINMENT	4.20	123279.00	25.00	10000000.00	Free	0.00	Everyone 10+	Entertainment;Music & Video	2018-01-24	2.0.8	4.4 and up	2
+964	Nick	ENTERTAINMENT	4.20	123279.00	25.00	10000000.00	Free	0.00	Everyone 10+	Entertainment;Music & Video	2018-01-24	2.0.8	4.4 and up	3
+993	Nick	ENTERTAINMENT	4.20	123279.00	25.00	10000000.00	Free	0.00	Everyone 10+	Entertainment;Music & Video	2018-01-24	2.0.8	4.4 and up	4
+6087	Nick	FAMILY	4.20	123309.00	25.00	10000000.00	Free	0.00	Everyone 10+	Entertainment;Music & Video	2018-01-24	2.0.8	4.4 and up	5
+2227	Nick	FAMILY	4.20	123322.00	25.00	10000000.00	Free	0.00	Everyone 10+	Entertainment;Music & Video	2018-01-24	2.0.8	4.4 and up	6
+2191	Nighty Night Circus	FAMILY	4.30	382.00	15.00	10000.00	Paid	2.99	Everyone	Education;Action & Adventure	2017-03-07	2.6	2.3 and up	2
+1313	Nike Training Club - Workouts & Fitness Plans	HEALTH_AND_FITNESS	4.60	251534.00	93.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-18	5.14.0	5.0 and up	2
+9855	Nike Training Club - Workouts & Fitness Plans	HEALTH_AND_FITNESS	4.60	251618.00	93.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-18	5.14.0	5.0 and up	3
+1374	Nike+ Run Club	HEALTH_AND_FITNESS	4.40	708710.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-12	2.17.0	4.4 and up	2
+1282	Nike+ Run Club	HEALTH_AND_FITNESS	4.40	708674.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-12	2.17.0	4.4 and up	3
+1390	Nike+ Run Club	HEALTH_AND_FITNESS	4.40	708753.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-12	2.17.0	4.4 and up	4
+6578	No Crop & Square for Instagram	PHOTOGRAPHY	4.60	819694.00	25.00	10000000.00	Free	0.00	Everyone	Photography	2018-06-26	4.2.3	4.0 and up	2
+2055	No.Draw - Colors by Number 2018	FAMILY	4.50	235906.00	13.00	10000000.00	Free	0.00	Everyone	Entertainment;Brain Games	2018-07-29	1.2.0	4.1 and up	2
+6510	NOOK App for NOOK Devices	BOOKS_AND_REFERENCE	4.70	19090.00	110.00	500000.00	Free	0.00	Everyone	Books & Reference	2018-04-25	Varies with device	Varies with device	2
+147	NOOK: Read eBooks & Magazines	BOOKS_AND_REFERENCE	4.50	155446.00	110.00	10000000.00	Free	0.00	Teen	Books & Reference	2018-04-25	Varies with device	Varies with device	2
+8633	Notepad & To do list	PRODUCTIVITY	4.30	226295.00	4.20	10000000.00	Free	0.00	Everyone	Productivity	2018-06-06	4.3.19	2.3.3 and up	2
+3353	Nova Launcher	PERSONALIZATION	4.60	1121805.00	110.00	50000000.00	Free	0.00	Everyone	Personalization	2018-05-14	Varies with device	Varies with device	2
+3783	NPR News	NEWS_AND_MAGAZINES	4.00	24790.00	110.00	1000000.00	Free	0.00	Everyone	News & Magazines	2018-07-20	Varies with device	Varies with device	2
+2362	Nurse Grid	MEDICAL	4.50	1686.00	15.00	100000.00	Free	0.00	Everyone	Medical	2018-07-30	2.9	4.4 and up	2
+3815	NYTimes - Latest News	NEWS_AND_MAGAZINES	3.90	63647.00	23.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-01	6.19.5	4.4 and up	2
+3778	NYTimes - Latest News	NEWS_AND_MAGAZINES	3.90	63647.00	23.00	10000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-01	6.19.5	4.4 and up	3
+666	O-Star	DATING	4.40	59.00	38.00	5000.00	Free	0.00	Everyone	Dating	2018-07-19	1.0.1	4.3 and up	2
+604	O-Star	DATING	4.40	59.00	38.00	5000.00	Free	0.00	Everyone	Dating	2018-07-19	1.0.1	4.3 and up	3
+294	OfficeSuite : Free Office + PDF Editor	BUSINESS	4.30	1002859.00	35.00	100000000.00	Free	0.00	Everyone	Business	2018-08-02	9.7.14188	4.1 and up	2
+3121	Offline Maps & Navigation	TRAVEL_AND_LOCAL	4.70	192641.00	33.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-06-07	17.4.1	4.0.3 and up	2
+543	OkCupid Dating	DATING	4.10	285726.00	15.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-07-30	11.10.1	4.1 and up	2
+484	OkCupid Dating	DATING	4.10	285726.00	15.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-07-30	11.10.1	4.1 and up	3
+557	Once - Quality Matches Every day	DATING	4.40	222888.00	21.00	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-17	2.45	4.1 and up	2
+2596	ooVoo Video Calls, Messaging & Stories	SOCIAL	4.30	1157004.00	34.00	50000000.00	Free	0.00	Everyone	Social	2017-10-16	4.2.1	4.3 and up	2
+2851	Open Camera	PHOTOGRAPHY	4.30	116880.00	2.00	10000000.00	Free	0.00	Everyone	Photography	2018-04-23	1.43.3	4.0.3 and up	2
+5063	Open Camera	PHOTOGRAPHY	4.30	116769.00	2.00	10000000.00	Free	0.00	Everyone	Photography	2018-04-23	1.43.3	4.0.3 and up	3
+357	Opera Browser: Fast and Secure	COMMUNICATION	4.40	2473509.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-31	47.1.2249.129326	Varies with device	2
+4423	Opera Browser: Fast and Secure	COMMUNICATION	4.40	2473795.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-31	47.1.2249.129326	Varies with device	3
+418	Opera Mini - fast web browser	COMMUNICATION	4.50	5150471.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-19	Varies with device	Varies with device	2
+352	Opera Mini - fast web browser	COMMUNICATION	4.50	5149854.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-19	Varies with device	Varies with device	3
+3207	Orbitz - Hotels, Flights & Package Deals	TRAVEL_AND_LOCAL	4.40	33256.00	110.00	1000000.00	Free	0.00	Everyone	Travel & Local	2018-07-31	Varies with device	Varies with device	2
+3335	osmino Wi-Fi: free WiFi	TOOLS	4.20	134203.00	4.10	10000000.00	Free	0.00	Everyone	Tools	2018-08-06	6.06.14	4.4 and up	2
+5546	Overstock â€“ Home Decor, Furniture Shopping	SHOPPING	4.40	25717.00	110.00	1000000.00	Free	0.00	Teen	Shopping	2018-07-31	Varies with device	Varies with device	2
+2490	Ovia Fertility Tracker & Ovulation Calculator	MEDICAL	4.80	53747.00	13.00	1000000.00	Free	0.00	Everyone	Medical	2018-07-27	Varies with device	4.3 and up	2
+156	Oxford Dictionary of English : Free	BOOKS_AND_REFERENCE	4.10	363934.00	7.10	10000000.00	Free	0.00	Everyone	Books & Reference	2018-07-11	9.1.363	4.1 and up	2
+1674	PAC-MAN	GAME	4.20	685981.00	37.00	100000000.00	Free	0.00	Everyone	Arcade	2018-05-15	6.6.3	4.1 and up	2
+1195	Panera Bread	FOOD_AND_DRINK	4.20	10159.00	36.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-07-17	4.3.3	5.0 and up	2
+2185	Papumba Academy - Fun Learning For Kids	FAMILY	4.40	496.00	94.00	100000.00	Free	0.00	Everyone	Education;Education	2018-07-11	1.0	4.2 and up	2
+2065	Papumba Academy - Fun Learning For Kids	FAMILY	4.40	496.00	94.00	100000.00	Free	0.00	Everyone	Education;Education	2018-07-11	1.0	4.2 and up	3
+2249	Paramedic Protocol Provider	MEDICAL	4.50	171.00	20.00	10000.00	Paid	10.00	Everyone 10+	Medical	2017-09-21	1.8.3	4.1 and up	2
+1077	PayPal	FINANCE	4.30	659741.00	47.00	50000000.00	Free	0.00	Everyone	Finance	2018-07-18	6.28.0	4.4 and up	2
+4805	PBS KIDS Video	FAMILY	4.20	36214.00	110.00	5000000.00	Free	0.00	Everyone	Education;Music & Video	2018-07-12	Varies with device	Varies with device	2
+2241	Peak â€“ Brain Games & Training	FAMILY	4.40	272321.00	110.00	10000000.00	Free	0.00	Everyone	Education;Brain Games	2018-08-03	3.14.15	5.0 and up	2
+2400	Pedi STAT	MEDICAL	4.60	129.00	2.90	10000.00	Paid	5.49	Everyone	Medical	2018-04-06	3.0.1.0	4.1 and up	2
+2499	Penn State Health OnDemand	MEDICAL		0.00	40.00	50.00	Free	0.00	Everyone	Medical	2018-07-24	10.4.1.018_06	4.0.3 and up	2
+2609	Periscope - Live Video	SOCIAL	4.00	479909.00	15.00	10000000.00	Free	0.00	Mature 17+	Social	2018-07-09	1.23.3.0	4.4 and up	2
+2579	Periscope - Live Video	SOCIAL	4.00	479908.00	15.00	10000000.00	Free	0.00	Mature 17+	Social	2018-07-09	1.23.3.0	4.4 and up	3
+3041	PGA TOUR	SPORTS	4.00	11151.00	52.00	1000000.00	Free	0.00	Everyone	Sports	2018-06-27	2018.6	5.0 and up	2
+9530	Phogy, 3D Camera	PHOTOGRAPHY	4.00	35725.00	9.90	1000000.00	Free	0.00	Everyone	Photography	2015-02-11	1.40	4.0 and up	2
+2577	Phone Tracker : Family Locator	SOCIAL	4.30	231325.00	5.40	10000000.00	Free	0.00	Everyone	Social	2018-08-02	4.81	4.0 and up	2
+7004	Photo Editor by Aviary	PHOTOGRAPHY	4.40	1490722.00	21.00	50000000.00	Free	0.00	Everyone	Photography	2018-07-19	4.8.4	4.1 and up	2
+2898	Photo Editor Pro	PHOTOGRAPHY	4.30	1871416.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2017-12-21	Varies with device	Varies with device	2
+2862	Photo Editor Selfie Camera Filter & Mirror Image	PHOTOGRAPHY	4.30	527247.00	110.00	50000000.00	Free	0.00	Everyone	Photography	2018-02-01	1.6.1	Varies with device	2
+2925	Photo Editor-	PHOTOGRAPHY	4.30	68071.00	110.00	5000000.00	Free	0.00	Everyone	Photography	2018-05-05	Varies with device	Varies with device	2
+4449	PicsArt Photo Studio: Collage Maker & Pic Editor	PHOTOGRAPHY	4.50	7590099.00	34.00	100000000.00	Free	0.00	Teen	Photography	2018-07-31	9.40.3	4.0.3 and up	2
+2613	Pinterest	SOCIAL	4.60	4305441.00	110.00	100000000.00	Free	0.00	Teen	Social	2018-08-03	Varies with device	Varies with device	2
+2553	Pinterest	SOCIAL	4.60	4305441.00	110.00	100000000.00	Free	0.00	Teen	Social	2018-08-03	Varies with device	Varies with device	3
+1912	Pixel Art: Color by Number Game	GAME	4.70	1125438.00	25.00	10000000.00	Free	0.00	Everyone	Puzzle	2018-07-17	3.9.2	4.3 and up	2
+1739	Pixel Art: Color by Number Game	GAME	4.70	1125017.00	25.00	10000000.00	Free	0.00	Everyone	Puzzle	2018-07-17	3.9.2	4.3 and up	3
+2090	PJ Masks: Moonlight Heroes	FAMILY	4.40	86961.00	99.00	10000000.00	Free	0.00	Everyone	Casual;Action & Adventure	2018-06-05	2.0.1	4.0.3 and up	2
+9441	PJ Masks: Moonlight Heroes	FAMILY	4.40	87045.00	99.00	10000000.00	Free	0.00	Everyone	Casual;Action & Adventure	2018-06-05	2.0.1	4.0.3 and up	3
+3504	Planner Pro-Personal Organizer	PRODUCTIVITY	4.00	10270.00	8.40	1000000.00	Free	0.00	Everyone	Productivity	2018-03-23	4.4.1	4.0 and up	2
+1882	Plants vs. Zombies FREE	GAME	4.40	4067651.00	69.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-06	2.2.00	4.1 and up	2
+1968	Plants vs. Zombies FREE	GAME	4.40	4067651.00	69.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-06	2.2.00	4.1 and up	3
+1707	Plants vs. Zombies FREE	GAME	4.40	4066980.00	69.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-06	2.2.00	4.1 and up	4
+1667	Plants vs. Zombies FREE	GAME	4.40	4066989.00	69.00	100000000.00	Free	0.00	Everyone 10+	Strategy	2018-07-06	2.2.00	4.1 and up	5
+2110	Plants vs. Zombiesâ„¢ Heroes	FAMILY	4.40	379415.00	68.00	10000000.00	Free	0.00	Everyone	Casual;Action & Adventure	2018-06-26	1.28.01	4.1 and up	2
+2208	PlayKids - Educational cartoons and games for kids	FAMILY	4.10	182173.00	110.00	10000000.00	Free	0.00	Everyone	Entertainment;Music & Video	2018-07-30	Varies with device	Varies with device	2
+2411	PMHNP-BC Pocket Prep	MEDICAL	4.40	112.00	13.00	1000.00	Free	0.00	Everyone	Medical	2018-07-12	4.5.2	4.4 and up	2
+1328	Pocket Yoga	HEALTH_AND_FITNESS	4.40	2107.00	110.00	100000.00	Paid	2.99	Everyone	Health & Fitness	2015-12-22	Varies with device	Varies with device	2
+10647	Podcast App: Free & Offline Podcasts by Player FM	NEWS_AND_MAGAZINES	4.60	66407.00	19.00	1000000.00	Free	0.00	Teen	News & Magazines	2018-07-25	4.1.0.72	4.0 and up	2
+2630	POF Free Dating App	SOCIAL	4.20	1175794.00	110.00	50000000.00	Free	0.00	Mature 17+	Social	2018-07-31	Varies with device	Varies with device	2
+2643	POF Free Dating App	SOCIAL	4.20	1175815.00	110.00	50000000.00	Free	0.00	Mature 17+	Social	2018-07-31	Varies with device	Varies with device	3
+3909	PokÃ©mon GO	GAME	4.10	10421284.00	85.00	100000000.00	Free	0.00	Everyone	Adventure	2018-07-23	0.111.3	4.4 and up	2
+3530	Polaris Office - Word, Docs, Sheets, Slide, PDF	PRODUCTIVITY	4.30	549900.00	60.00	10000000.00	Free	0.00	Everyone	Productivity	2018-07-18	7.3.30	4.1 and up	2
+2721	Poshmark - Buy & Sell Fashion	SHOPPING	4.30	46153.00	17.00	10000000.00	Free	0.00	Everyone	Shopping	2018-08-04	2.124.01	4.4 and up	2
+1242	Postmates Food Delivery: Order Eats & Alcohol	FOOD_AND_DRINK	3.60	22875.00	22.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-07-27	4.2.6	5.0 and up	2
+1663	Pou	GAME	4.30	10485308.00	24.00	500000000.00	Free	0.00	Everyone	Casual	2018-05-25	1.4.77	4.0 and up	2
+1703	Pou	GAME	4.30	10485334.00	24.00	500000000.00	Free	0.00	Everyone	Casual	2018-05-25	1.4.77	4.0 and up	3
+1886	Pou	GAME	4.30	10486018.00	24.00	500000000.00	Free	0.00	Everyone	Casual	2018-05-25	1.4.77	4.0 and up	4
+3702	PowerDirector Video Editor App: 4K, Slow Mo & More	VIDEO_PLAYERS	4.50	714665.00	50.00	10000000.00	Free	0.00	Everyone	Video Players & Editors	2018-07-24	4.13.3	4.3 and up	2
+2984	Premier League - Official App	SPORTS	4.30	63580.00	24.00	5000000.00	Free	0.00	Everyone	Sports	2018-07-20	1.1.5	4.1 and up	2
+3174	Priceline Hotel Deals, Rental Cars & Flights	TRAVEL_AND_LOCAL	4.40	48930.00	15.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-26	4.38.176	4.4 and up	2
+3201	Priceline Hotel Deals, Rental Cars & Flights	TRAVEL_AND_LOCAL	4.40	48930.00	15.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-26	4.38.176	4.4 and up	3
+2026	Princess Coloring Book	FAMILY	4.50	9779.00	39.00	5000000.00	Free	0.00	Everyone	Education;Creativity	2018-02-25	1.2.8	4.0 and up	2
+2299	PTA Content Master	MEDICAL	4.20	64.00	41.00	1000.00	Paid	29.99	Everyone	Medical	2015-12-22	2.1	2.2 and up	2
+1786	PUBG MOBILE	GAME	4.40	3715656.00	36.00	50000000.00	Free	0.00	Teen	Action	2018-07-24	0.7.0	4.3 and up	2
+1795	PUBG MOBILE	GAME	4.40	3714270.00	36.00	50000000.00	Free	0.00	Teen	Action	2018-07-24	0.7.0	4.3 and up	3
+1848	PUBG MOBILE	GAME	4.40	3716278.00	36.00	50000000.00	Free	0.00	Teen	Action	2018-07-24	0.7.0	4.3 and up	4
+373	Puffin Web Browser	COMMUNICATION	4.30	541389.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-07-09	7.5.3.20547	4.1 and up	2
+5506	Puffin Web Browser	COMMUNICATION	4.30	541661.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-07-09	7.5.3.20547	4.1 and up	3
+3456	QR Scanner & Barcode Scanner 2018	PRODUCTIVITY	3.80	8226.00	4.10	10000000.00	Free	0.00	Everyone	Productivity	2018-07-20	1.8.4	4.4 and up	2
+223	Quick PDF Scanner + OCR FREE	BUSINESS	4.20	80805.00	110.00	5000000.00	Free	0.00	Everyone	Business	2018-02-26	Varies with device	4.0.3 and up	2
+230	Quick PDF Scanner + OCR FREE	BUSINESS	4.20	80805.00	110.00	5000000.00	Free	0.00	Everyone	Business	2018-02-26	Varies with device	4.0.3 and up	3
+273	QuickBooks Accounting: Invoicing & Expenses	BUSINESS	4.30	23175.00	41.00	1000000.00	Free	0.00	Everyone	Business	2018-07-13	18.7	4.1 and up	2
+297	QuickBooks Accounting: Invoicing & Expenses	BUSINESS	4.30	23175.00	41.00	1000000.00	Free	0.00	Everyone	Business	2018-07-13	18.7	4.1 and up	3
+2856	QuickPic - Photo Gallery with Google Drive Support	PHOTOGRAPHY	4.60	847159.00	4.20	10000000.00	Free	0.00	Everyone	Photography	2017-11-10	4.7.4	4.0 and up	2
+2887	QuickPic - Photo Gallery with Google Drive Support	PHOTOGRAPHY	4.60	847159.00	4.20	10000000.00	Free	0.00	Everyone	Photography	2017-11-10	4.7.4	4.0 and up	3
+741	Quizlet: Learn Languages & Vocab with Flashcards	EDUCATION	4.60	211856.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-01	Varies with device	Varies with device	2
+820	Quizlet: Learn Languages & Vocab with Flashcards	EDUCATION	4.60	211856.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-01	Varies with device	Varies with device	3
+846	Quizlet: Learn Languages & Vocab with Flashcards	EDUCATION	4.60	211856.00	110.00	10000000.00	Free	0.00	Everyone	Education	2018-08-01	Varies with device	Varies with device	4
+2580	Quora	SOCIAL	4.50	313633.00	110.00	10000000.00	Free	0.00	Teen	Social	2018-07-25	Varies with device	Varies with device	2
+2013	Racing in Car 2	GAME	4.30	234110.00	38.00	50000000.00	Free	0.00	Everyone	Racing	2016-11-22	1.0	2.3.3 and up	2
+667	Random Video Chat	DATING		3.00	16.00	1000.00	Free	0.00	Mature 17+	Dating	2018-07-15	4.20	4.0.3 and up	2
+614	Random Video Chat App With Strangers	DATING		3.00	4.80	1000.00	Free	0.00	Mature 17+	Dating	2018-07-17	1.	4.0 and up	2
+2240	Real Racing 3	FAMILY	4.50	354384.00	71.00	10000000.00	Free	0.00	Everyone	Racing;Action & Adventure	2018-07-02	6.4.0	4.1 and up	2
+1469	realestate.com.au - Buy, Rent & Sell Property	HOUSE_AND_HOME	3.80	14653.00	110.00	1000000.00	Free	0.00	Everyone	House & Home	2018-07-16	Varies with device	Varies with device	2
+1506	Realtor.com Real Estate: Homes for Sale and Rent	HOUSE_AND_HOME	4.50	162243.00	12.00	10000000.00	Free	0.00	Everyone	House & Home	2018-07-26	8.18	4.0.3 and up	2
+8425	Red Bull TV: Live Sports, Music & Entertainment	FAMILY	4.40	42069.00	110.00	1000000.00	Free	0.00	Teen	Entertainment	2018-08-03	Varies with device	Varies with device	2
+1467	Redfin Real Estate	HOUSE_AND_HOME	4.60	36857.00	19.00	1000000.00	Free	0.00	Everyone	House & Home	2018-07-25	220.0	5.0 and up	2
+1329	Relax Meditation: Sleep with Sleep Sounds	HEALTH_AND_FITNESS	4.40	26540.00	43.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2017-02-09	2.5.1	4.0.3 and up	2
+1442	Relax Melodies: Sleep Sounds	HEALTH_AND_FITNESS	4.50	233243.00	110.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-23	Varies with device	Varies with device	2
+2716	RetailMeNot - Coupons, Deals & Discount Shopping	SHOPPING	4.40	210208.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-08-01	Varies with device	Varies with device	2
+2768	RetailMeNot - Coupons, Deals & Discount Shopping	SHOPPING	4.40	210208.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-08-01	Varies with device	Varies with device	3
+3784	Reuters News	NEWS_AND_MAGAZINES	4.30	13169.00	25.00	1000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-06-06	3.4.4	4.1 and up	2
+1914	Rider	GAME	4.50	655145.00	72.00	10000000.00	Free	0.00	Teen	Arcade	2017-07-17	1.2.1	4.0.3 and up	2
+3401	Ringtone Maker	PERSONALIZATION	4.30	495905.00	110.00	50000000.00	Free	0.00	Everyone	Personalization	2018-07-29	Varies with device	Varies with device	2
+1137	Robinhood - Investing, No Fees	FINANCE	4.60	57493.00	110.00	1000000.00	Free	0.00	Everyone	Finance	2018-07-31	Varies with device	Varies with device	2
+2207	ROBLOX	FAMILY	4.50	4450890.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	2
+2089	ROBLOX	FAMILY	4.50	4450855.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	3
+2017	ROBLOX	FAMILY	4.50	4449910.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	4
+1871	ROBLOX	GAME	4.50	4449910.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	5
+1842	ROBLOX	GAME	4.50	4449882.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	6
+1749	ROBLOX	GAME	4.50	4448791.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	7
+1702	ROBLOX	GAME	4.50	4447346.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	8
+1654	ROBLOX	GAME	4.50	4447388.00	67.00	100000000.00	Free	0.00	Everyone 10+	Adventure;Action & Adventure	2018-07-31	2.347.225742	4.1 and up	9
+802	Rosetta Stone: Learn to Speak & Read New Languages	EDUCATION	4.50	172508.00	76.00	5000000.00	Free	0.00	Everyone	Education;Education	2018-06-27	5.2.1	5.0 and up	2
+832	Rosetta Stone: Learn to Speak & Read New Languages	EDUCATION	4.50	172508.00	76.00	5000000.00	Free	0.00	Everyone	Education;Education	2018-06-27	5.2.1	5.0 and up	3
+848	Rosetta Stone: Learn to Speak & Read New Languages	EDUCATION	4.50	172508.00	76.00	5000000.00	Free	0.00	Everyone	Education;Education	2018-06-27	5.2.1	5.0 and up	4
+2517	RT 516 VET	MEDICAL		0.00	29.00	10.00	Free	0.00	Everyone	Medical	2018-07-13	300000.1.11	4.0.3 and up	2
+5295	RULES OF SURVIVAL	GAME	4.20	1343106.00	56.00	10000000.00	Free	0.00	Teen	Action	2018-08-01	1.180271.184729	4.0 and up	2
+8195	Run Sausage Run!	GAME	4.40	276105.00	110.00	10000000.00	Free	0.00	Everyone 10+	Arcade	2018-08-01	Varies with device	4.1 and up	2
+1309	Run with Map My Run	HEALTH_AND_FITNESS	4.50	183669.00	57.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-27	18.7.1	5.0 and up	2
+1299	Run with Map My Run	HEALTH_AND_FITNESS	4.50	183662.00	57.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-27	18.7.1	5.0 and up	3
+1389	Runkeeper - GPS Track Run Walk	HEALTH_AND_FITNESS	4.50	501144.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-16	Varies with device	Varies with device	2
+1278	Runtastic Running App & Mile Tracker	HEALTH_AND_FITNESS	4.50	827597.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-25	Varies with device	Varies with device	2
+1392	Runtastic Running App & Mile Tracker	HEALTH_AND_FITNESS	4.50	827653.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-25	Varies with device	Varies with device	3
+5601	Runtastic Sleep Better: Sleep Cycle & Smart Alarm	HEALTH_AND_FITNESS	4.10	111465.00	110.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-25	Varies with device	Varies with device	2
+2192	Sago Mini Babies	FAMILY	4.50	253.00	83.00	10000.00	Paid	3.99	Everyone	Education;Pretend Play	2016-10-28	1.1	4.0.3 and up	2
+2197	Sago Mini Friends	FAMILY	4.40	13155.00	83.00	1000000.00	Free	0.00	Everyone	Education;Pretend Play	2016-06-16	1.3	4.0.3 and up	2
+2233	Sago Mini Friends	FAMILY	4.40	13155.00	83.00	1000000.00	Free	0.00	Everyone	Education;Pretend Play	2016-06-16	1.3	4.0.3 and up	3
+2597	SayHi Chat, Meet New People	SOCIAL	4.20	423105.00	110.00	10000000.00	Free	0.00	Mature 17+	Social	2018-07-09	Varies with device	Varies with device	2
+2625	SayHi Chat, Meet New People	SOCIAL	4.20	423138.00	110.00	10000000.00	Free	0.00	Mature 17+	Social	2018-07-09	Varies with device	Varies with device	3
+1626	Scarf Fashion Designer	LIFESTYLE	4.40	16637.00	10.00	1000000.00	Free	0.00	Everyone	Lifestyle	2017-06-18	1.8	2.3 and up	2
+2081	School of Dragons	FAMILY	4.10	530792.00	110.00	10000000.00	Free	0.00	Everyone	Role Playing;Action & Adventure	2018-05-30	Varies with device	Varies with device	2
+2005	Score! Hero	GAME	4.60	5419676.00	96.00	100000000.00	Free	0.00	Everyone	Sports	2018-06-13	1.751	4.4 and up	2
+1898	Score! Hero	GAME	4.60	5419676.00	96.00	100000000.00	Free	0.00	Everyone	Sports	2018-06-13	1.751	4.4 and up	3
+2500	ScriptSave WellRx Rx Discounts	MEDICAL	3.80	700.00	37.00	100000.00	Free	0.00	Everyone	Medical	2018-06-21	3.3.0	4.4 and up	2
+1375	Seven - 7 Minute Workout Training Challenge	HEALTH_AND_FITNESS	4.50	75571.00	110.00	1000000.00	Free	0.00	Everyone	Health & Fitness	2018-08-03	7.2.5	Varies with device	2
+1933	Shadow Fight 2	GAME	4.60	10979062.00	88.00	100000000.00	Free	0.00	Everyone 10+	Action	2018-07-02	1.9.38	3.0 and up	2
+3273	Share Music & Transfer Files - Xender	TOOLS	4.40	1280423.00	110.00	100000000.00	Free	0.00	Everyone	Tools	2018-07-20	Varies with device	Varies with device	2
+3256	SHAREit - Transfer & Share	TOOLS	4.60	7790693.00	17.00	500000000.00	Free	0.00	Everyone	Tools	2018-07-30	4.5.28_ww	4.1 and up	2
+2712	Shopkick: Free Gift Cards, Shop Rewards & Deals	SHOPPING	4.30	213735.00	43.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-24	5.3.73	4.4 and up	2
+2220	Shopkins World!	FAMILY	4.30	169609.00	34.00	10000000.00	Free	0.00	Everyone	Arcade;Action & Adventure	2018-06-13	3.6.1	4.1 and up	2
+2749	Shopular: Coupons, Weekly Ads & Shopping Deals	SHOPPING	4.70	57920.00	110.00	1000000.00	Free	0.00	Everyone	Shopping	2018-05-31	Varies with device	Varies with device	2
+980	SHOWTIME	ENTERTAINMENT	4.20	12398.00	110.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-02	Varies with device	Varies with device	2
+4611	Showtime Anytime	FAMILY	3.70	18522.00	110.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-02	Varies with device	Varies with device	2
+2889	Shutterfly: Free Prints, Photo Books, Cards, Gifts	PHOTOGRAPHY	4.60	98716.00	59.00	5000000.00	Free	0.00	Everyone	Photography	2018-08-01	5.13.1	5.0 and up	2
+2858	Shutterfly: Free Prints, Photo Books, Cards, Gifts	PHOTOGRAPHY	4.60	98716.00	59.00	5000000.00	Free	0.00	Everyone	Photography	2018-08-01	5.13.1	5.0 and up	3
+2956	Shutterfly: Free Prints, Photo Books, Cards, Gifts	PHOTOGRAPHY	4.60	98717.00	59.00	5000000.00	Free	0.00	Everyone	Photography	2018-08-01	5.13.1	5.0 and up	4
+285	SignEasy | Sign and Fill PDF and other Documents	BUSINESS	4.30	8978.00	110.00	1000000.00	Free	0.00	Everyone	Business	2018-07-25	Varies with device	Varies with device	2
+1156	Simple - Better Banking	FINANCE	4.40	7731.00	24.00	100000.00	Free	0.00	Everyone	Finance	2018-08-02	2.53.2	5.0 and up	2
+1444	Simple Habit Meditation	HEALTH_AND_FITNESS	4.70	11689.00	20.00	500000.00	Free	0.00	Everyone	Health & Fitness	2018-07-27	1.29.15	4.4 and up	2
+1261	Six Pack in 30 Days - Abs Workout	HEALTH_AND_FITNESS	4.90	272337.00	13.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-06-21	1.0.2	4.2 and up	2
+2615	SKOUT - Meet, Chat, Go Live	SOCIAL	4.30	1064049.00	110.00	50000000.00	Free	0.00	Mature 17+	Social	2018-07-28	Varies with device	Varies with device	2
+392	Skype - free IM & video calls	COMMUNICATION	4.10	10484169.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	2
+4235	Skype - free IM & video calls	COMMUNICATION	4.10	10484169.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	3
+3193	Skyscanner	TRAVEL_AND_LOCAL	4.50	481546.00	29.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	5.48	4.4 and up	2
+3110	Skyscanner	TRAVEL_AND_LOCAL	4.50	481545.00	29.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	5.48	4.4 and up	3
+3208	Skyscanner	TRAVEL_AND_LOCAL	4.50	481546.00	29.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	5.48	4.4 and up	4
+3222	Skyscanner	TRAVEL_AND_LOCAL	4.50	481546.00	29.00	10000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	5.48	4.4 and up	5
+270	Slack	BUSINESS	4.40	51507.00	110.00	5000000.00	Free	0.00	Everyone	Business	2018-08-02	Varies with device	Varies with device	2
+241	Slack	BUSINESS	4.40	51507.00	110.00	5000000.00	Free	0.00	Everyone	Business	2018-08-02	Varies with device	Varies with device	3
+2794	Slickdeals: Coupons & Shopping	SHOPPING	4.50	33583.00	12.00	1000000.00	Free	0.00	Everyone	Shopping	2018-07-30	3.9	4.4 and up	2
+10754	Slickdeals: Coupons & Shopping	SHOPPING	4.50	33599.00	12.00	1000000.00	Free	0.00	Everyone	Shopping	2018-07-30	3.9	4.4 and up	3
+1660	slither.io	GAME	4.40	5234162.00	110.00	100000000.00	Free	0.00	Everyone	Action	2017-11-14	Varies with device	2.3 and up	2
+1736	slither.io	GAME	4.40	5234825.00	110.00	100000000.00	Free	0.00	Everyone	Action	2017-11-14	Varies with device	2.3 and up	3
+1892	slither.io	GAME	4.40	5235294.00	110.00	100000000.00	Free	0.00	Everyone	Action	2017-11-14	Varies with device	2.3 and up	4
+1922	slither.io	GAME	4.40	5235294.00	110.00	100000000.00	Free	0.00	Everyone	Action	2017-11-14	Varies with device	2.3 and up	5
+1758	slither.io	GAME	4.40	5234810.00	110.00	100000000.00	Free	0.00	Everyone	Action	2017-11-14	Varies with device	2.3 and up	6
+3438	Smart Launcher 5	PERSONALIZATION	4.40	512106.00	110.00	10000000.00	Free	0.00	Everyone	Personalization	2018-07-16	Varies with device	Varies with device	2
+2604	Snapchat	SOCIAL	4.00	17014705.00	110.00	500000000.00	Free	0.00	Teen	Social	2018-07-30	Varies with device	Varies with device	2
+2551	Snapchat	SOCIAL	4.00	17014787.00	110.00	500000000.00	Free	0.00	Teen	Social	2018-07-30	Varies with device	Varies with device	3
+3871	Snapchat	SOCIAL	4.00	17000166.00	110.00	500000000.00	Free	0.00	Teen	Social	2018-07-30	Varies with device	Varies with device	4
+1757	Sniper 3D Gun Shooter: Free Shooting Games - FPS	GAME	4.60	7672495.00	110.00	100000000.00	Free	0.00	Mature 17+	Action	2018-08-02	Varies with device	Varies with device	2
+1926	Sniper 3D Gun Shooter: Free Shooting Games - FPS	GAME	4.60	7674252.00	110.00	100000000.00	Free	0.00	Mature 17+	Action	2018-08-02	Varies with device	Varies with device	3
+1911	Sniper 3D Gun Shooter: Free Shooting Games - FPS	GAME	4.60	7674252.00	110.00	100000000.00	Free	0.00	Mature 17+	Action	2018-08-02	Varies with device	Varies with device	4
+1724	Sniper 3D Gun Shooter: Free Shooting Games - FPS	GAME	4.60	7672495.00	110.00	100000000.00	Free	0.00	Mature 17+	Action	2018-08-02	Varies with device	Varies with device	5
+1700	Sniper 3D Gun Shooter: Free Shooting Games - FPS	GAME	4.60	7671249.00	110.00	100000000.00	Free	0.00	Mature 17+	Action	2018-08-02	Varies with device	Varies with device	6
+2724	SnipSnap Coupon App	SHOPPING	4.20	9975.00	18.00	1000000.00	Free	0.00	Everyone	Shopping	2018-01-22	1.4	4.3 and up	2
+767	Socratic - Math Answers & Homework Help	EDUCATION	4.60	37862.00	5.40	1000000.00	Free	0.00	Everyone	Education	2018-06-07	1.8.1	4.1 and up	2
+1668	Sonic Dash	GAME	4.50	3778921.00	75.00	100000000.00	Free	0.00	Everyone	Arcade	2018-07-26	3.8.5.Go	4.1 and up	2
+1207	SONIC Drive-In	FOOD_AND_DRINK	4.30	19314.00	43.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-07-31	3.3.6	4.4 and up	2
+2182	Sounds for Toddlers FREE	FAMILY	4.40	6190.00	23.00	1000000.00	Free	0.00	Everyone	Educational;Education	2015-08-24	1.7.1	4.0 and up	2
+3124	Southwest Airlines	TRAVEL_AND_LOCAL	3.90	24781.00	8.30	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-11	5.6.1	6.0 and up	2
+9571	Spanish English Translator	BOOKS_AND_REFERENCE	4.20	87919.00	110.00	10000000.00	Free	0.00	Teen	Books & Reference	2018-05-28	Varies with device	Varies with device	2
+1198	Starbucks	FOOD_AND_DRINK	4.50	455377.00	35.00	10000000.00	Free	0.00	Everyone	Food & Drink	2018-08-01	4.11.1	4.4 and up	2
+915	STARZ	ENTERTAINMENT	4.30	88185.00	110.00	10000000.00	Free	0.00	Mature 17+	Entertainment	2018-06-20	Varies with device	Varies with device	2
+965	STARZ	ENTERTAINMENT	4.30	88185.00	110.00	10000000.00	Free	0.00	Mature 17+	Entertainment	2018-06-20	Varies with device	Varies with device	3
+2735	Stocard - Rewards Cards Wallet	SHOPPING	4.60	284721.00	20.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-31	7.2.1	4.1 and up	2
+500	stranger chat - anonymous chat	DATING	3.50	13202.00	6.10	1000000.00	Free	0.00	Mature 17+	Dating	2018-07-07	2.4.1	4.1 and up	2
+2134	Strawberry Shortcake BerryRush	FAMILY	4.30	525552.00	48.00	10000000.00	Free	0.00	Everyone	Action;Action & Adventure	2017-10-15	1.2.3	2.3 and up	2
+1944	Strawberry Shortcake BerryRush	GAME	4.30	525517.00	48.00	10000000.00	Free	0.00	Everyone	Action;Action & Adventure	2017-10-15	1.2.3	2.3 and up	3
+9937	Strawberry Shortcake Ice Cream Island	FAMILY	4.20	32200.00	15.00	5000000.00	Free	0.00	Everyone	Casual;Pretend Play	2017-11-06	1.2	4.1 and up	2
+1617	StyleSeat	LIFESTYLE	4.70	20304.00	24.00	500000.00	Free	0.00	Everyone	Lifestyle	2018-07-31	4.35	4.0.3 and up	2
+1701	Subway Surfers	GAME	4.50	27723193.00	76.00	1000000000.00	Free	0.00	Everyone 10+	Arcade	2018-07-12	1.90.0	4.1 and up	2
+1918	Subway Surfers	GAME	4.50	27725352.00	76.00	1000000000.00	Free	0.00	Everyone 10+	Arcade	2018-07-12	1.90.0	4.1 and up	3
+1873	Subway Surfers	GAME	4.50	27725352.00	76.00	1000000000.00	Free	0.00	Everyone 10+	Arcade	2018-07-12	1.90.0	4.1 and up	4
+1751	Subway Surfers	GAME	4.50	27724094.00	76.00	1000000000.00	Free	0.00	Everyone 10+	Arcade	2018-07-12	1.90.0	4.1 and up	5
+3897	Subway Surfers	GAME	4.50	27711703.00	76.00	1000000000.00	Free	0.00	Everyone 10+	Arcade	2018-07-12	1.90.0	4.1 and up	6
+1208	SUBWAYÂ®	FOOD_AND_DRINK	3.80	21314.00	41.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-07-24	7.9.0.0	4.4 and up	2
+517	Sudy â€“ Meet Elite & Rich Single	DATING	4.10	17268.00	40.00	500000.00	Free	0.00	Mature 17+	Dating	2018-06-25	4.1.2	4.0.3 and up	2
+2021	Super ABC! Learning games for kids! Preschool apps	FAMILY	4.60	20267.00	46.00	1000000.00	Free	0.00	Everyone	Educational;Education	2018-07-16	1.1.6.7	4.1 and up	2
+2496	Super Hearing Super Ear Amplifier	MEDICAL	4.10	21.00	20.00	1000.00	Free	0.00	Everyone	Medical	2018-06-11	1.1	4.1 and up	2
+1675	Super Jim Jump - pixel 3d	GAME	4.50	10393.00	18.00	1000000.00	Free	0.00	Everyone	Arcade	2018-07-11	2.2.3181	4.0 and up	2
+1735	Super Jim Jump - pixel 3d	GAME	4.50	10434.00	18.00	1000000.00	Free	0.00	Everyone	Arcade	2018-07-11	2.2.3181	4.0 and up	3
+1997	Swamp Attack	GAME	4.40	2119235.00	70.00	50000000.00	Free	0.00	Everyone 10+	Action	2018-06-29	3.0.1	4.1 and up	2
+2428	Sway Medical	MEDICAL	5.00	3.00	22.00	100.00	Free	0.00	Everyone	Medical	2018-07-25	3.0.0	5.0 and up	2
+2645	Tagged - Meet, Chat & Dating	SOCIAL	4.10	486830.00	110.00	10000000.00	Free	0.00	Mature 17+	Social	2018-06-21	Varies with device	Varies with device	2
+388	Talkatone: Free Texts, Calls & Phone Number	COMMUNICATION	4.10	132014.00	25.00	10000000.00	Free	0.00	Everyone	Communication	2018-07-18	6.1	4.2 and up	2
+4212	Talking Ben the Dog	FAMILY	4.30	1633565.00	57.00	100000000.00	Free	0.00	Everyone	Entertainment	2018-07-03	3.5.2.2	4.1 and up	2
+1907	Talking Tom Gold Run	GAME	4.60	2698882.00	78.00	100000000.00	Free	0.00	Everyone	Action	2018-07-31	2.8.2.59	4.1 and up	2
+1924	Talking Tom Gold Run	GAME	4.60	2698889.00	78.00	100000000.00	Free	0.00	Everyone	Action	2018-07-31	2.8.2.59	4.1 and up	3
+1738	Talking Tom Gold Run	GAME	4.60	2698348.00	78.00	100000000.00	Free	0.00	Everyone	Action	2018-07-31	2.8.2.59	4.1 and up	4
+474	Talkray - Free Calls & Texts	COMMUNICATION	4.20	244863.00	110.00	10000000.00	Free	0.00	Everyone	Communication	2018-05-29	Varies with device	Varies with device	2
+2624	Tango - Live Video Broadcast	SOCIAL	4.30	3806669.00	110.00	100000000.00	Free	0.00	Mature 17+	Social	2018-08-01	Varies with device	Varies with device	2
+2599	Tapatalk - 100,000+ Forums	SOCIAL	4.10	285816.00	110.00	10000000.00	Free	0.00	Mature 17+	Social	2018-06-19	Varies with device	Varies with device	2
+2698	Target - now with Cartwheel	SHOPPING	4.10	68406.00	24.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-25	6.25.0+1906001476	5.0 and up	2
+2771	Target - now with Cartwheel	SHOPPING	4.10	68406.00	24.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-25	6.25.0+1906001476	5.0 and up	3
+784	TED	EDUCATION	4.60	181893.00	18.00	10000000.00	Free	0.00	Everyone 10+	Education	2018-07-27	3.2.5	4.1 and up	2
+740	TED	EDUCATION	4.60	181893.00	18.00	10000000.00	Free	0.00	Everyone 10+	Education	2018-07-27	3.2.5	4.1 and up	3
+6295	TED	FAMILY	4.60	181961.00	18.00	10000000.00	Free	0.00	Everyone 10+	Education	2018-07-27	3.2.5	4.1 and up	4
+2199	Tee and Mo Bath Time Free	FAMILY	3.60	418.00	97.00	100000.00	Free	0.00	Everyone	Educational;Education	2016-11-07	1.0.3	4.0.3 and up	2
+2309	Teladoc Member	MEDICAL	4.00	2094.00	23.00	500000.00	Free	0.00	Everyone	Medical	2018-07-26	3.19	4.3 and up	2
+371	Telegram	COMMUNICATION	4.40	3128250.00	110.00	100000000.00	Free	0.00	Mature 17+	Communication	2018-07-27	Varies with device	Varies with device	2
+4593	Telegram	COMMUNICATION	4.40	3128611.00	110.00	100000000.00	Free	0.00	Mature 17+	Communication	2018-07-27	Varies with device	Varies with device	3
+2559	Telegram X	SOCIAL	4.60	70616.00	110.00	5000000.00	Free	0.00	Teen	Social	2018-07-27	Varies with device	Varies with device	2
+958	Telemundo Now	ENTERTAINMENT	3.90	8674.00	19.00	1000000.00	Free	0.00	Teen	Entertainment	2018-05-25	3.3.1.42	4.4 and up	2
+1921	Temple Run 2	GAME	4.30	8119154.00	62.00	500000000.00	Free	0.00	Everyone	Action	2018-07-05	1.49.1	4.0 and up	2
+1887	Temple Run 2	GAME	4.30	8119151.00	62.00	500000000.00	Free	0.00	Everyone	Action	2018-07-05	1.49.1	4.0 and up	3
+1760	Temple Run 2	GAME	4.30	8118937.00	62.00	500000000.00	Free	0.00	Everyone	Action	2018-07-05	1.49.1	4.0 and up	4
+1730	Temple Run 2	GAME	4.30	8118937.00	62.00	500000000.00	Free	0.00	Everyone	Action	2018-07-05	1.49.1	4.0 and up	5
+1662	Temple Run 2	GAME	4.30	8118609.00	62.00	500000000.00	Free	0.00	Everyone	Action	2018-07-05	1.49.1	4.0 and up	6
+2590	Text free - Free Text + Call	SOCIAL	4.30	315441.00	110.00	10000000.00	Free	0.00	Everyone	Social	2018-07-26	Varies with device	Varies with device	2
+2636	Text Free: WiFi Calling App	SOCIAL	4.20	83488.00	110.00	5000000.00	Free	0.00	Everyone	Social	2018-07-24	Varies with device	Varies with device	2
+4239	Text Free: WiFi Calling App	SOCIAL	4.20	83474.00	110.00	5000000.00	Free	0.00	Everyone	Social	2018-07-24	Varies with device	Varies with device	3
+4242	Textgram - write on photos	ART_AND_DESIGN	4.40	295237.00	110.00	10000000.00	Free	0.00	Everyone	Art & Design	2018-07-30	Varies with device	Varies with device	2
+2554	TextNow - free text + calls	SOCIAL	4.40	441189.00	110.00	10000000.00	Free	0.00	Everyone	Social	2018-08-03	Varies with device	Varies with device	2
+2638	textPlus: Free Text & Calls	SOCIAL	4.10	382121.00	28.00	10000000.00	Free	0.00	Everyone	Social	2018-07-26	7.3.1	4.1 and up	2
+10270	The 5th Stand	SPORTS	4.80	1697.00	17.00	100000.00	Free	0.00	Everyone	Sports	2018-07-31	1.2.677	4.4 and up	2
+2711	The Coupons App	SHOPPING	4.50	181990.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-04-27	Varies with device	Varies with device	2
+2748	The Coupons App	SHOPPING	4.50	181990.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-04-27	Varies with device	Varies with device	3
+2727	The Coupons App	SHOPPING	4.50	181990.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-04-27	Varies with device	Varies with device	4
+922	The CW	ENTERTAINMENT	4.40	288150.00	21.00	5000000.00	Free	0.00	Teen	Entertainment	2018-07-23	2.17	4.4 and up	2
+941	The CW	ENTERTAINMENT	4.40	288150.00	21.00	5000000.00	Free	0.00	Teen	Entertainment	2018-07-23	2.17	4.4 and up	3
+7988	The CW	FAMILY	4.40	288209.00	21.00	5000000.00	Free	0.00	Teen	Entertainment	2018-07-23	2.17	4.4 and up	4
+9495	The Emirates App	TRAVEL_AND_LOCAL	4.40	22776.00	55.00	1000000.00	Free	0.00	Everyone	Travel & Local	2018-08-06	4.7.1	5.0 and up	2
+9570	The Game of Life	GAME	4.40	18652.00	63.00	100000.00	Paid	2.99	Everyone	Board	2018-07-04	2.1.2	4.4 and up	2
+9780	The NBC App - Watch Live TV and Full Episodes	FAMILY	4.10	58104.00	17.00	5000000.00	Free	0.00	Teen	Entertainment	2018-07-05	4.18.1	4.1 and up	2
+1849	The Simsâ„¢ FreePlay	GAME	4.30	931595.00	31.00	10000000.00	Free	0.00	Teen	Simulation	2018-07-16	5.39.1	4.0.3 and up	2
+3810	The Wall Street Journal: Business & Market News	NEWS_AND_MAGAZINES	4.10	40975.00	36.00	1000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-02	4.4.2.19	4.1 and up	2
+3015	theScore: Live Sports Scores, News, Stats & Videos	SPORTS	4.40	133825.00	34.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-25	6.17.2	4.4 and up	2
+3056	theScore: Live Sports Scores, News, Stats & Videos	SPORTS	4.40	133833.00	34.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-25	6.17.2	4.4 and up	3
+3064	theScore: Live Sports Scores, News, Stats & Videos	SPORTS	4.40	133833.00	34.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-25	6.17.2	4.4 and up	4
+3086	theScore: Live Sports Scores, News, Stats & Videos	SPORTS	4.40	133833.00	34.00	10000000.00	Free	0.00	Everyone 10+	Sports	2018-07-25	6.17.2	4.4 and up	5
+2228	Thomas & Friends: Race On!	FAMILY	4.10	29319.00	26.00	5000000.00	Free	0.00	Everyone	Casual;Action & Adventure	2018-05-18	2.4	4.4 and up	2
+3500	TickTick: To Do List with Reminder, Day Planner	PRODUCTIVITY	4.60	25370.00	110.00	1000000.00	Free	0.00	Everyone	Productivity	2018-08-06	Varies with device	Varies with device	2
+232	Tiny Scanner - PDF Scanner App	BUSINESS	4.70	286897.00	39.00	10000000.00	Free	0.00	Everyone	Business	2017-05-30	1.2.6	3.0 and up	2
+292	Tiny Scanner Pro: PDF Doc Scan	BUSINESS	4.80	10295.00	39.00	100000.00	Paid	4.99	Everyone	Business	2017-04-11	3.4.6	3.0 and up	2
+3555	To-Do Calendar Planner	PRODUCTIVITY	4.20	30291.00	110.00	1000000.00	Free	0.00	Everyone	Productivity	2018-05-29	Varies with device	Varies with device	2
+2188	TO-FU Oh!SUSHI	FAMILY	4.10	59917.00	92.00	5000000.00	Free	0.00	Everyone	Education;Pretend Play	2018-07-31	2.3	4.4 and up	2
+2038	Toca Kitchen 2	FAMILY	4.50	1014822.00	56.00	50000000.00	Free	0.00	Everyone	Educational;Pretend Play	2017-06-29	1.2.3-play	4.1 and up	2
+3921	Toca Kitchen 2	FAMILY	4.50	1013465.00	56.00	50000000.00	Free	0.00	Everyone	Educational;Pretend Play	2017-06-29	1.2.3-play	4.1 and up	3
+2152	Toca Life: City	FAMILY	4.70	31100.00	24.00	500000.00	Paid	3.99	Everyone	Education;Pretend Play	2018-07-06	1.5-play	4.4 and up	2
+3550	Todoist: To-do lists for task management & errands	PRODUCTIVITY	4.50	155999.00	12.00	10000000.00	Free	0.00	Everyone	Productivity	2018-08-05	12.8.2	4.4 and up	2
+3505	Todoist: To-do lists for task management & errands	PRODUCTIVITY	4.50	155999.00	12.00	10000000.00	Free	0.00	Everyone	Productivity	2018-08-05	12.8.2	4.4 and up	3
+1877	Toon Blast	GAME	4.70	1351771.00	110.00	10000000.00	Free	0.00	Everyone	Puzzle	2018-07-30	3196	4.1 and up	2
+1709	Toon Blast	GAME	4.70	1351068.00	110.00	10000000.00	Free	0.00	Everyone	Puzzle	2018-07-30	3196	4.1 and up	3
+4589	Topbuzz: Breaking News, Videos & Funny GIFs	NEWS_AND_MAGAZINES	4.70	174827.00	25.00	10000000.00	Free	0.00	Mature 17+	News & Magazines	2018-08-04	6.7.3	4.0 and up	2
+1878	Toy Blast	GAME	4.70	1889582.00	110.00	50000000.00	Free	0.00	Everyone	Puzzle	2018-07-23	5423	4.1 and up	2
+1977	Traffic Racer	GAME	4.50	5387781.00	53.00	100000000.00	Free	0.00	Everyone	Racing	2018-02-27	2.5	4.1 and up	2
+677	Transenger â€“ Ts Dating and Chat for Free	DATING	3.60	8.00	14.00	1000.00	Free	0.00	Mature 17+	Dating	2018-07-29	1.4.0	4.4 and up	2
+3826	Transit: Real-Time Transit App	MAPS_AND_NAVIGATION	4.20	43269.00	110.00	5000000.00	Free	0.00	Everyone	Maps & Navigation	2018-07-18	4.4.7	Varies with device	2
+3137	TripAdvisor Hotels Flights Restaurants Attractions	TRAVEL_AND_LOCAL	4.40	1162838.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-08-04	Varies with device	Varies with device	2
+3171	TripAdvisor Hotels Flights Restaurants Attractions	TRAVEL_AND_LOCAL	4.40	1162837.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-08-04	Varies with device	Varies with device	3
+4745	TripAdvisor Hotels Flights Restaurants Attractions	TRAVEL_AND_LOCAL	4.40	1162331.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-08-04	Varies with device	Varies with device	4
+3215	TripAdvisor Hotels Flights Restaurants Attractions	TRAVEL_AND_LOCAL	4.40	1162837.00	110.00	100000000.00	Free	0.00	Everyone	Travel & Local	2018-08-04	Varies with device	Varies with device	5
+3119	trivago: Hotels & Travel	TRAVEL_AND_LOCAL	4.20	219848.00	110.00	50000000.00	Free	0.00	Everyone	Travel & Local	2018-08-02	Varies with device	Varies with device	2
+3203	trivago: Hotels & Travel	TRAVEL_AND_LOCAL	4.20	219848.00	110.00	50000000.00	Free	0.00	Everyone	Travel & Local	2018-08-02	Varies with device	Varies with device	3
+4603	Truecaller: Caller ID, SMS spam blocking & Dialer	COMMUNICATION	4.50	7820775.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-08-01	Varies with device	Varies with device	2
+1455	Trulia Real Estate & Rentals	HOUSE_AND_HOME	4.50	175293.00	110.00	10000000.00	Free	0.00	Everyone	House & Home	2018-07-24	Varies with device	Varies with device	2
+1511	Trulia Rent Apartments & Homes	HOUSE_AND_HOME	4.40	71421.00	110.00	5000000.00	Free	0.00	Everyone	House & Home	2018-07-24	Varies with device	Varies with device	2
+859	Tubi TV - Free Movies & TV	ENTERTAINMENT	4.30	296771.00	11.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-15	2.13.5	4.1 and up	2
+933	Tubi TV - Free Movies & TV	ENTERTAINMENT	4.30	296829.00	11.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-15	2.13.5	4.1 and up	3
+2600	Tumblr	SOCIAL	4.40	2955325.00	110.00	100000000.00	Free	0.00	Mature 17+	Social	2018-08-01	Varies with device	Varies with device	2
+2549	Tumblr	SOCIAL	4.40	2955326.00	110.00	100000000.00	Free	0.00	Mature 17+	Social	2018-08-01	Varies with device	Varies with device	3
+4262	Turbo FAST	FAMILY	4.30	1329008.00	97.00	50000000.00	Free	0.00	Everyone	Racing;Action & Adventure	2017-10-04	2.1.20	2.3.3 and up	2
+235	TurboScan: scan documents and receipts in PDF	BUSINESS	4.70	11442.00	6.80	100000.00	Paid	4.99	Everyone	Business	2018-03-25	1.5.2	4.0 and up	2
+4590	Twitch: Livestream Multiplayer Games & Esports	FAMILY	4.60	2133047.00	110.00	50000000.00	Free	0.00	Teen	Entertainment	2018-07-31	Varies with device	Varies with device	2
+3740	Twitter	NEWS_AND_MAGAZINES	4.30	11667403.00	110.00	500000000.00	Free	0.00	Mature 17+	News & Magazines	2018-08-06	Varies with device	Varies with device	2
+4116	Twitter	NEWS_AND_MAGAZINES	4.30	11657972.00	110.00	500000000.00	Free	0.00	Mature 17+	News & Magazines	2018-07-30	Varies with device	Varies with device	3
+4635	Uber	MAPS_AND_NAVIGATION	4.20	4921866.00	110.00	100000000.00	Free	0.00	Everyone	Maps & Navigation	2018-08-02	Varies with device	Varies with device	2
+421	UC Browser - Fast Download Private & Secure	COMMUNICATION	4.50	17714850.00	40.00	500000000.00	Free	0.00	Teen	Communication	2018-08-02	12.8.5.1121	4.0 and up	2
+3972	UC Browser - Fast Download Private & Secure	COMMUNICATION	4.50	17712922.00	40.00	500000000.00	Free	0.00	Teen	Communication	2018-08-02	12.8.5.1121	4.0 and up	3
+367	UC Browser Mini -Tiny Fast Private & Secure	COMMUNICATION	4.40	3648120.00	3.30	100000000.00	Free	0.00	Teen	Communication	2018-07-18	11.4.0	4.0 and up	2
+4634	UC Browser Mini -Tiny Fast Private & Secure	COMMUNICATION	4.40	3648765.00	3.30	100000000.00	Free	0.00	Teen	Communication	2018-07-18	11.4.0	4.0 and up	3
+757	Udacity - Lifelong Learning	EDUCATION	4.30	22384.00	17.00	1000000.00	Free	0.00	Everyone	Education	2018-07-31	4.7.0	5.0 and up	2
+788	Udemy - Online Courses	EDUCATION	4.50	99020.00	18.00	1000000.00	Free	0.00	Everyone	Education	2018-08-02	5.0.4	5.0 and up	2
+742	Udemy - Online Courses	EDUCATION	4.50	99020.00	18.00	1000000.00	Free	0.00	Everyone	Education	2018-08-02	5.0.4	5.0 and up	3
+3101	UFC	SPORTS	4.00	30840.00	110.00	1000000.00	Free	0.00	Teen	Sports	2018-05-22	Varies with device	Varies with device	2
+7028	UNICORN - Color By Number & Pixel Art Coloring	FAMILY	4.70	8264.00	24.00	500000.00	Free	0.00	Everyone	Art & Design;Creativity	2018-08-02	1.0.9	4.4 and up	2
+3161	United Airlines	TRAVEL_AND_LOCAL	3.50	30447.00	80.00	5000000.00	Free	0.00	Everyone	Travel & Local	2018-07-20	2.1.56	5.0 and up	2
+975	Univision NOW - Live TV and On Demand	ENTERTAINMENT	4.00	22997.00	110.00	1000000.00	Free	0.00	Teen	Entertainment	2018-06-27	8.0626	Varies with device	2
+3050	US Open Tennis Championships 2018	SPORTS	4.00	9971.00	33.00	1000000.00	Free	0.00	Everyone	Sports	2018-06-05	7.1	5.0 and up	2
+3791	USA TODAY	NEWS_AND_MAGAZINES	4.10	49259.00	110.00	5000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-02	Varies with device	Varies with device	2
+3773	USA TODAY	NEWS_AND_MAGAZINES	4.10	49259.00	110.00	5000000.00	Free	0.00	Everyone 10+	News & Magazines	2018-08-02	Varies with device	Varies with device	3
+1604	Vaniday - Beauty Booking App	LIFESTYLE	3.60	1067.00	110.00	100000.00	Free	0.00	Everyone	Lifestyle	2018-03-20	3.8.15	4.1 and up	2
+2366	Vargo Anesthesia Mega App	MEDICAL	4.60	92.00	32.00	1000.00	Paid	79.99	Everyone	Medical	2018-06-18	19.0	4.0.3 and up	2
+919	VH1	ENTERTAINMENT	4.10	27424.00	17.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-08	11.45.0	4.4 and up	2
+979	VH1	ENTERTAINMENT	4.10	27424.00	17.00	1000000.00	Free	0.00	Teen	Entertainment	2018-07-08	11.45.0	4.4 and up	3
+343	Viber Messenger	COMMUNICATION	4.30	11334799.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-18	Varies with device	Varies with device	2
+386	Viber Messenger	COMMUNICATION	4.30	11334973.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-18	Varies with device	Varies with device	3
+432	Viber Messenger	COMMUNICATION	4.30	11334973.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-18	Varies with device	Varies with device	4
+468	Viber Messenger	COMMUNICATION	4.30	11335255.00	110.00	500000000.00	Free	0.00	Everyone	Communication	2018-07-18	Varies with device	Varies with device	5
+3668	Video Downloader	VIDEO_PLAYERS	4.20	59089.00	5.40	10000000.00	Free	0.00	Everyone	Video Players & Editors	2018-08-03	1.0.8	4.4 and up	2
+3713	Video Editor	VIDEO_PLAYERS	4.10	159622.00	23.00	5000000.00	Free	0.00	Everyone	Video Players & Editors;Creativity	2018-07-17	6.14.091	4.3 and up	2
+5775	Video Editor	VIDEO_PLAYERS	3.80	1156.00	23.00	100000.00	Free	0.00	Everyone	Video Players & Editors	2015-10-20	1.3.9b	4.3 and up	3
+5705	Video Player All Format	VIDEO_PLAYERS	4.80	258277.00	110.00	10000000.00	Free	0.00	Everyone	Video Players & Editors	2018-08-03	Varies with device	4.3 and up	2
+3687	Vigo Video	VIDEO_PLAYERS	4.30	1615596.00	110.00	50000000.00	Free	0.00	Teen	Video Players & Editors	2018-08-03	Varies with device	4.0.3 and up	2
+972	Viki: Asian TV Dramas & Movies	ENTERTAINMENT	4.30	407719.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-27	Varies with device	Varies with device	2
+989	Viki: Asian TV Dramas & Movies	ENTERTAINMENT	4.30	407719.00	110.00	10000000.00	Free	0.00	Teen	Entertainment	2018-07-27	Varies with device	Varies with device	3
+3676	VLC for Android	VIDEO_PLAYERS	4.40	1032076.00	110.00	100000000.00	Free	0.00	Everyone	Video Players & Editors	2018-07-30	Varies with device	2.3 and up	2
+3957	VPN Free - Betternet Hotspot VPN & Private Browser	TOOLS	4.50	799206.00	8.90	10000000.00	Free	0.00	Everyone	Tools	2018-08-01	4.3.0	4.1 and up	2
+1274	Walk with Map My Walk	HEALTH_AND_FITNESS	4.50	144040.00	55.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-27	18.7.1	5.0 and up	2
+2662	Walmart	SHOPPING	4.40	441473.00	110.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-30	Varies with device	Varies with device	2
+2782	Wanelo Shopping	SHOPPING	4.60	94205.00	6.50	1000000.00	Free	0.00	Everyone	Shopping	2018-06-13	5.6.8	4.4 and up	2
+3068	WatchESPN	SPORTS	4.10	288809.00	6.60	10000000.00	Free	0.00	Everyone	Sports	2017-09-27	2.5.1	4.4 and up	2
+3023	WatchESPN	SPORTS	4.10	288809.00	6.60	10000000.00	Free	0.00	Everyone	Sports	2017-09-27	2.5.1	4.4 and up	3
+3017	WatchESPN	SPORTS	4.10	288809.00	6.60	10000000.00	Free	0.00	Everyone	Sports	2017-09-27	2.5.1	4.4 and up	4
+4716	Wattpad ðŸ“– Free Books	BOOKS_AND_REFERENCE	4.60	2915189.00	110.00	100000000.00	Free	0.00	Teen	Books & Reference	2018-08-01	Varies with device	Varies with device	2
+3821	Waze - GPS, Maps, Traffic Alerts & Live Navigation	MAPS_AND_NAVIGATION	4.60	7232629.00	110.00	100000000.00	Free	0.00	Everyone	Maps & Navigation	2018-07-29	Varies with device	Varies with device	2
+2617	We Heart It	SOCIAL	4.50	637309.00	110.00	10000000.00	Free	0.00	Teen	Social	2018-07-18	Varies with device	Varies with device	2
+9569	Weather by eltiempo.es	WEATHER	4.20	67854.00	110.00	5000000.00	Free	0.00	Everyone	Weather	2018-08-02	Varies with device	Varies with device	2
+10027	Web Browser for Android	COMMUNICATION	4.10	55110.00	4.30	1000000.00	Free	0.00	Everyone	Communication	2018-06-20	2.2	4.0 and up	2
+391	WeChat	COMMUNICATION	4.20	5387446.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-31	Varies with device	Varies with device	2
+366	WeChat	COMMUNICATION	4.20	5387333.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-31	Varies with device	Varies with device	3
+470	WeChat	COMMUNICATION	4.20	5387446.00	110.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-31	Varies with device	Varies with device	4
+1319	Weight Loss Running by Verv	HEALTH_AND_FITNESS	4.50	27396.00	59.00	1000000.00	Free	0.00	Mature 17+	Health & Fitness	2018-07-16	6.5.3	4.1 and up	2
+1300	Weight Loss Running by Verv	HEALTH_AND_FITNESS	4.50	27393.00	59.00	1000000.00	Free	0.00	Mature 17+	Health & Fitness	2018-07-16	6.5.3	4.1 and up	3
+1411	Weight Loss Tracker - RecStyle	HEALTH_AND_FITNESS	4.40	20547.00	5.70	1000000.00	Free	0.00	Everyone	Health & Fitness	2017-11-29	3.2.7	4.1 and up	2
+1289	Weight Watchers Mobile	HEALTH_AND_FITNESS	4.20	270267.00	58.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	6.15.0	4.1 and up	2
+1380	Weight Watchers Mobile	HEALTH_AND_FITNESS	4.20	270294.00	58.00	5000000.00	Free	0.00	Everyone	Health & Fitness	2018-07-31	6.15.0	4.1 and up	3
+1092	Wells Fargo Daily Change	FINANCE	4.20	283.00	5.00	100000.00	Free	0.00	Everyone	Finance	2018-04-26	2.5.0.26	5.0 and up	2
+1169	Wells Fargo Mobile	FINANCE	4.40	250719.00	37.00	10000000.00	Free	0.00	Everyone	Finance	2018-07-31	6.8.0.109	5.0 and up	2
+1218	Wendyâ€™s â€“ Food and Offers	FOOD_AND_DRINK	3.40	6507.00	18.00	1000000.00	Free	0.00	Everyone	Food & Drink	2018-04-12	5.7.0	4.4 and up	2
+8292	wetter.com - Weather and Radar	WEATHER	4.20	189310.00	38.00	10000000.00	Free	0.00	Everyone	Weather	2018-08-06	Varies with device	Varies with device	2
+4728	WhatsApp Business	COMMUNICATION	4.40	137144.00	32.00	10000000.00	Free	0.00	Everyone	Communication	2018-07-30	2.18.116	4.0.3 and up	2
+337	WhatsApp Messenger	COMMUNICATION	4.40	69119316.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	2
+3905	WhatsApp Messenger	COMMUNICATION	4.40	69109672.00	110.00	1000000000.00	Free	0.00	Everyone	Communication	2018-08-03	Varies with device	Varies with device	3
+1629	Wheretoget: Shop in style	LIFESTYLE	4.10	6808.00	12.00	500000.00	Free	0.00	Teen	Lifestyle	2017-06-05	3.2.0	4.1 and up	2
+364	Who	COMMUNICATION	4.30	2451083.00	110.00	100000000.00	Free	0.00	Teen	Communication	2018-08-03	Varies with device	Varies with device	2
+10214	Who Viewed My Facebook Profile - Stalkers Visitors	SOCIAL	4.60	273244.00	9.90	5000000.00	Free	0.00	Everyone	Social	2018-06-24	4.1.1	4.0.3 and up	2
+442	Whoscall - Caller ID & Block	COMMUNICATION	4.40	552441.00	29.00	10000000.00	Free	0.00	Everyone	Communication	2018-08-01	6.19.1	4.1 and up	2
+2750	Wish - Shopping Made Fun	SHOPPING	4.50	6211039.00	15.00	100000000.00	Free	0.00	Everyone	Shopping	2018-08-03	4.20.5	4.1 and up	2
+2713	Wish - Shopping Made Fun	SHOPPING	4.50	6211039.00	15.00	100000000.00	Free	0.00	Everyone	Shopping	2018-08-03	4.20.5	4.1 and up	3
+2797	Wish - Shopping Made Fun	SHOPPING	4.50	6212081.00	15.00	100000000.00	Free	0.00	Everyone	Shopping	2018-08-03	4.20.5	4.1 and up	4
+4103	Wish - Shopping Made Fun	SHOPPING	4.50	6200739.00	15.00	100000000.00	Free	0.00	Everyone	Shopping	2018-08-03	4.20.5	4.1 and up	5
+1716	Word Search	GAME	4.70	295305.00	3.90	10000000.00	Free	0.00	Everyone	Word	2018-06-06	1.1.3	3.0 and up	2
+1679	Word Search	GAME	4.70	295241.00	3.90	10000000.00	Free	0.00	Everyone	Word	2018-06-06	1.1.3	3.0 and up	3
+1890	Wordscapes	GAME	4.80	230849.00	87.00	10000000.00	Free	0.00	Everyone	Word	2018-08-02	1.0.47	4.1 and up	2
+1798	Wordscapes	GAME	4.80	230727.00	87.00	10000000.00	Free	0.00	Everyone	Word	2018-08-02	1.0.47	4.1 and up	3
+1766	Wordscapes	GAME	4.80	230727.00	87.00	10000000.00	Free	0.00	Everyone	Word	2018-08-02	1.0.47	4.1 and up	4
+1382	Workout Trainer: fitness coach	HEALTH_AND_FITNESS	4.20	100406.00	110.00	10000000.00	Free	0.00	Everyone	Health & Fitness	2018-06-30	Varies with device	Varies with device	2
+3532	WPS Office - Word, Docs, PDF, Note, Slide & Sheet	PRODUCTIVITY	4.50	1508137.00	37.00	100000000.00	Free	0.00	Everyone	Productivity	2018-07-30	11.1.3	4.0 and up	2
+3503	Wunderlist: To-Do List & Tasks	PRODUCTIVITY	4.60	404617.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2018-04-06	Varies with device	Varies with device	2
+3547	Wunderlist: To-Do List & Tasks	PRODUCTIVITY	4.60	404610.00	110.00	10000000.00	Free	0.00	Everyone	Productivity	2018-04-06	Varies with device	Varies with device	3
+4077	WWE	FAMILY	4.50	736824.00	20.00	10000000.00	Free	0.00	Teen	Entertainment	2018-01-19	3.17.2	4.1 and up	2
+275	Xero Accounting Software	BUSINESS	3.50	2111.00	110.00	100000.00	Free	0.00	Everyone	Business	2018-07-30	Varies with device	Varies with device	2
+3072	Yahoo Fantasy Sports - #1 Rated Fantasy App	SPORTS	4.20	277904.00	110.00	5000000.00	Free	0.00	Mature 17+	Sports	2018-08-02	Varies with device	Varies with device	2
+3010	Yahoo Fantasy Sports - #1 Rated Fantasy App	SPORTS	4.20	277900.00	110.00	5000000.00	Free	0.00	Mature 17+	Sports	2018-08-02	Varies with device	Varies with device	3
+3043	Yahoo Fantasy Sports - #1 Rated Fantasy App	SPORTS	4.20	277904.00	110.00	5000000.00	Free	0.00	Mature 17+	Sports	2018-08-02	Varies with device	Varies with device	4
+2976	Yahoo Fantasy Sports - #1 Rated Fantasy App	SPORTS	4.20	277902.00	110.00	5000000.00	Free	0.00	Mature 17+	Sports	2018-08-02	Varies with device	Varies with device	5
+346	Yahoo Mail â€“ Stay Organized	COMMUNICATION	4.30	4187998.00	16.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-18	5.29.3	4.4 and up	2
+453	Yahoo Mail â€“ Stay Organized	COMMUNICATION	4.30	4188142.00	16.00	100000000.00	Free	0.00	Everyone	Communication	2018-07-18	5.29.3	4.4 and up	3
+3059	Yahoo Sports - scores, stats, news, & highlights	SPORTS	4.50	32386.00	19.00	1000000.00	Free	0.00	Everyone	Sports	2018-08-01	7.8.0	5.1 and up	2
+3092	Yahoo Sports - scores, stats, news, & highlights	SPORTS	4.50	32386.00	19.00	1000000.00	Free	0.00	Everyone	Sports	2018-08-01	7.8.0	5.1 and up	3
+3383	Yandex Browser with Protect	PERSONALIZATION	4.50	1237135.00	110.00	50000000.00	Free	0.00	Everyone	Personalization	2018-07-18	Varies with device	Varies with device	2
+2923	YouCam Makeup - Magic Selfie Makeovers	PHOTOGRAPHY	4.60	3337952.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-08-06	Varies with device	Varies with device	2
+2868	YouCam Perfect - Selfie Photo Editor	PHOTOGRAPHY	4.50	1579287.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-25	Varies with device	Varies with device	2
+2850	YouCam Perfect - Selfie Photo Editor	PHOTOGRAPHY	4.50	1579287.00	110.00	100000000.00	Free	0.00	Everyone	Photography	2018-07-25	Varies with device	Varies with device	3
+5190	Youper - AI Therapy	MEDICAL	4.60	1976.00	69.00	50000.00	Free	0.00	Everyone	Medical	2018-08-03	6.02.000	6.0 and up	2
+2321	Youper - AI Therapy	MEDICAL	4.60	2006.00	69.00	50000.00	Free	0.00	Everyone	Medical	2018-08-03	6.02.000	6.0 and up	3
+3929	YouTube	VIDEO_PLAYERS	4.30	25623548.00	110.00	1000000000.00	Free	0.00	Teen	Video Players & Editors	2018-08-02	Varies with device	Varies with device	2
+4806	YouTube Gaming	FAMILY	4.20	130549.00	110.00	5000000.00	Free	0.00	Teen	Entertainment	2018-06-27	2.08.78.2	4.1 and up	2
+2209	YouTube Kids	FAMILY	4.50	470713.00	110.00	50000000.00	Free	0.00	Everyone	Entertainment;Music & Video	2018-08-03	3.43.3	4.1 and up	2
+2015	YouTube Kids	FAMILY	4.50	470694.00	110.00	50000000.00	Free	0.00	Everyone	Entertainment;Music & Video	2018-08-03	3.43.3	4.1 and up	3
+3912	YouTube Kids	FAMILY	4.50	469851.00	110.00	50000000.00	Free	0.00	Everyone	Entertainment;Music & Video	2018-08-03	3.43.3	4.1 and up	4
+4797	YouTube Studio	VIDEO_PLAYERS	4.30	436170.00	110.00	10000000.00	Free	0.00	Teen	Video Players & Editors	2018-06-28	Varies with device	Varies with device	2
+2943	Z Camera - Photo Editor, Beauty Selfie, Collage	PHOTOGRAPHY	4.40	1075277.00	47.00	100000000.00	Free	0.00	Mature 17+	Photography	2018-08-03	4.21	4.1 and up	2
+2690	ZALORA Fashion Shopping	SHOPPING	4.20	142512.00	15.00	10000000.00	Free	0.00	Everyone	Shopping	2018-07-25	6.2.0	4.1 and up	2
+2761	Zappos â€“ Shoe shopping made simple	SHOPPING	4.50	44588.00	20.00	5000000.00	Free	0.00	Everyone	Shopping	2018-07-12	9.0.0	4.4 and up	2
+1628	Zara	LIFESTYLE	4.30	95904.00	33.00	10000000.00	Free	0.00	Everyone	Lifestyle	2018-07-30	4.1.0	4.1 and up	2
+3425	ZEDGEâ„¢ Ringtones & Wallpapers	PERSONALIZATION	4.60	6466641.00	110.00	100000000.00	Free	0.00	Teen	Personalization	2018-07-19	Varies with device	Varies with device	2
+3399	ZEDGEâ„¢ Ringtones & Wallpapers	PERSONALIZATION	4.60	6466641.00	110.00	100000000.00	Free	0.00	Teen	Personalization	2018-07-19	Varies with device	Varies with device	3
+3355	ZEDGEâ„¢ Ringtones & Wallpapers	PERSONALIZATION	4.60	6466641.00	110.00	100000000.00	Free	0.00	Teen	Personalization	2018-07-19	Varies with device	Varies with device	4
+2637	Zello PTT Walkie Talkie	SOCIAL	4.40	695613.00	110.00	50000000.00	Free	0.00	Everyone	Social	2018-08-02	Varies with device	Varies with device	2
+267	Zenefits	BUSINESS	4.20	296.00	14.00	50000.00	Free	0.00	Everyone	Business	2018-06-15	3.2.1	4.1 and up	2
+1447	Zillow: Find Houses for Sale & Apartments for Rent	HOUSE_AND_HOME	4.50	417907.00	34.00	10000000.00	Free	0.00	Everyone	House & Home	2018-08-01	9.8.1.7425	4.4 and up	2
+1256	Zomato - Restaurant Finder and Food Delivery App	FOOD_AND_DRINK	4.30	511420.00	110.00	10000000.00	Free	0.00	Everyone	Food & Drink	2018-08-01	Varies with device	Varies with device	2
+1728	Zombie Catchers	GAME	4.70	990586.00	75.00	10000000.00	Free	0.00	Everyone	Action	2018-05-24	1.0.27	4.1 and up	2
+1694	Zombie Catchers	GAME	4.70	990491.00	75.00	10000000.00	Free	0.00	Everyone	Action	2018-05-24	1.0.27	4.1 and up	3
+1983	Zombie Catchers	GAME	4.70	990796.00	75.00	10000000.00	Free	0.00	Everyone	Action	2018-05-24	1.0.27	4.1 and up	4
+1899	Zombie Catchers	GAME	4.70	990723.00	75.00	10000000.00	Free	0.00	Everyone	Action	2018-05-24	1.0.27	4.1 and up	5
+1925	Zombie Catchers	GAME	4.70	990663.00	75.00	10000000.00	Free	0.00	Everyone	Action	2018-05-24	1.0.27	4.1 and up	6
+1875	Zombie Hunter King	GAME	4.30	10493.00	50.00	1000000.00	Free	0.00	Mature 17+	Action	2018-08-01	1.0.8	2.3 and up	2
+1670	Zombie Hunter King	GAME	4.30	10306.00	50.00	1000000.00	Free	0.00	Mature 17+	Action	2018-08-01	1.0.8	2.3 and up	3
+1729	Zombie Hunter King	GAME	4.30	10354.00	50.00	1000000.00	Free	0.00	Mature 17+	Action	2018-08-01	1.0.8	2.3 and up	4
+2009	Zombie Tsunami	GAME	4.40	4921409.00	110.00	100000000.00	Free	0.00	Everyone 10+	Arcade	2018-06-15	Varies with device	Varies with device	2
+1731	Zombie Tsunami	GAME	4.40	4921122.00	110.00	100000000.00	Free	0.00	Everyone 10+	Arcade	2018-06-15	Varies with device	Varies with device	3
+1686	Zombie Tsunami	GAME	4.40	4920817.00	110.00	100000000.00	Free	0.00	Everyone 10+	Arcade	2018-06-15	Varies with device	Varies with device	4
+3941	Zombie Tsunami	GAME	4.40	4918776.00	110.00	100000000.00	Free	0.00	Everyone 10+	Arcade	2018-06-15	Varies with device	Varies with device	5
+214	ZOOM Cloud Meetings	BUSINESS	4.40	31614.00	37.00	10000000.00	Free	0.00	Everyone	Business	2018-07-20	4.1.28165.0716	4.0 and up	2
+7078	Zoosk Dating App: Meet Singles	DATING	4.00	516917.00	110.00	10000000.00	Free	0.00	Mature 17+	Dating	2018-08-02	Varies with device	Varies with device	2

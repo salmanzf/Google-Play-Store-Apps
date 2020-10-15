@@ -1,0 +1,2 @@
+﻿RowNumber	App	Category	Rating	Reviews	Size	Installs	Type	Price	Content Rating	Genres	Last Updated	Current Ver	Android Ver
+10473	Life Made WI-Fi Touchscreen Photo Frame	1.9	19.00	3.0M	1000.00	Free	0	Everyone		February 11, 2018	1.0.19	4.0 and up	
