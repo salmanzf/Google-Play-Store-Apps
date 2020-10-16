@@ -3,8 +3,19 @@ This is my work from the infamous dataset on Kaggle https://www.kaggle.com/lava1
 
 This project will mainly consist of 4 parts:
 - ETL
-- Data Mining
+- Task
 - Data Visualization
 - Data Analysis
 
-<currently ongoing>
+# ETL
+- Using Ms.Excel to produce the prepared data
+- Using SSIS to upload data to SQL Server
+- More data filtering (invalid data) using SQL Server
+
+# Task
+A certain task from source website, more info on "Task" folder
+
+# Data Visualization
+Using Tableau for AB Test and Data Visualization
+
+<ongoing...>
