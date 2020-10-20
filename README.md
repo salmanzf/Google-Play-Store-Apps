@@ -16,7 +16,7 @@ This project will mainly consist of 4 parts:
 A certain task from source website, more info on "Task" folder
 
 ## Data Visualization
-Using Tableau for AB Test and Data Visualization
+Using Tableau for AB Test and Data Visualization, contains the graph and .twb file
 
 ## Data Analysis
-Storytelling of the data and the chart, this segment contains all the Graph and the description.
+Storytelling of the data and the chart, this segment contains all the Graph with the analysis.
