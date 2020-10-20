@@ -23,4 +23,11 @@ Size put the importance on user preferences, especially on the low end spec hand
 
 ![Size_Installs](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Number%20of%20Installs%20Based%20on%20Size.png)
 
-It's clear the developer tends to like developing application with smaller size because the graph showing the right-tail or right skewed distribution. Preferences on the user side is more uniform. Although it's more uniform than the developer's, it's slightly tend to favor the smaller size application. The discrepancy between these two shows that the user tend to care more on the functional side (category) rather than the size of application.  
+It's clear the developer tends to like developing application with smaller size because the graph showing the right-tail or right skewed distribution. Preferences on the user side is more uniform. Although it's more uniform than the developer's, it's slightly tend to favor the smaller size application. The discrepancy between these two shows that the user tend to care more on the functional side (category) rather than the size of application.
+
+## State of Application on Google Play Store
+We can see the state of the application's activity by looking at the Last Updated by Year at minimum. The latest Year of this data is at 2018, so we can assume the app which is not updated for more than a year, in this case from 2016 below, is inactive.
+
+![Last Update](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Last%20App%20Update%20Distribution.png)
+
+About 83.65% of the applications in the Google Play Store are still active (2017-2018), while the rest are not updated for more than a year.
