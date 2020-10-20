@@ -22,3 +22,5 @@ Contrary to the number of application at the playstore, the number of most insta
 Size put the importance on user preferences, especially on the low end spec handphone with very limited storage. Once more, we can see the preferences on developer and user side by comparing the distribution of application size with the number of installed apps and the amount of available apps on Google Play Store.
 
 ![Size_Installs](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Number%20of%20Installs%20Based%20on%20Size.png)
+
+It's clear the developer tends to like developing application with smaller size because the graph showing the right-tail or right skewed distribution. Preferences on the user side is more uniform. Although it's more uniform than the developer's, it's slightly tend to favor the smaller size application. The discrepancy between these two shows that the user tend to care more on the functional side (category) rather than the size of application.  
