@@ -17,3 +17,8 @@ The top 3 category are FAMILY, GAME, and TOOLS which have broad meanings and man
 ![Category Installs](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Category%20Total%20Installation.png)
 
 Contrary to the number of application at the playstore, the number of most installed category is GAME followed by COMMUNICATION with slightly difference. Although category FAMILY and TOOLS still doing great, the one which is surprising is COMMUNICATION category. COMMUNICATION only has 3.27% from the overall application in the Google Play Store but managed to amassed 14.65% from the overall installed application on the user device. This told us the urgency of using great communication application more important than ever whether it's for communicating with family, friends, business partners, clients, all of these are equally important. The lower percentage distribution of COMMUNICATION application in Google Play Store is also caused by preference of user. User tends to not have many different type COMMUNICATION application and stick to one or three max of COMMUNICATION application.   
+
+## Apps Popularity Based on Size
+Size put the importance on user preferences, especially on the low end spec handphone with very limited storage. Once more, we can see the preferences on developer and user side by comparing the distribution of application size with the number of installed apps and the amount of available apps on Google Play Store.
+
+![Size_Installs](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Number%20of%20Installs%20Based%20on%20Size.png)
