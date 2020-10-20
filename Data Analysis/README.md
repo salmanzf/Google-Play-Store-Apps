@@ -31,3 +31,10 @@ We can see the state of the application's activity by looking at the Last Update
 ![Last Update](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Last%20App%20Update%20Distribution.png)
 
 About 83.65% of the applications in the Google Play Store are still active (2017-2018), while the rest are not updated for more than a year.
+
+## Application Category Quality
+The quality of application is determined by user. Each user who installed the application can leave the review score on Google Play Store. The Google Play Store review score scales from 1 to 5.
+
+![Category Rating](https://github.com/salmanzf/Google-Play-Store-Apps/blob/main/Data%20Visualization/Rating%20Based%20on%20Story.png)
+
+Some category shows the irregularity with lowest score 0 because some application in the category is not reviewed by any user who installed the apps. Most of the category averaging above score 4. Application in the category EDUCATION, ART AND DESIGN, HEALTH AND FITNESS has the best overall average thus has best quality over others. The BUSINESS category has the lowest quality with average below 4 and remains as challenging category for developer with also its low installed application. 
