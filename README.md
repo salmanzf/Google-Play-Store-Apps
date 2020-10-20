@@ -7,15 +7,16 @@ This project will mainly consist of 4 parts:
 - Data Visualization
 - Data Analysis
 
-# ETL
+## ETL
 - Using Ms.Excel to produce the prepared data
 - Using SSIS to upload data to SQL Server
 - More data filtering (invalid data) using SQL Server
 
-# Task
+## Task
 A certain task from source website, more info on "Task" folder
 
-# Data Visualization
+## Data Visualization
 Using Tableau for AB Test and Data Visualization
 
-<ongoing...>
+## Data Analysis
+Storytelling of the data and the chart
